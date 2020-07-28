@@ -1,0 +1,95 @@
+{
+  "categorias": [
+    {
+      "titulo": "Década 2010",
+      "link": "",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "2010-2019",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "A Outra Margem",
+          "url": "https://www.youtube.com/watch?v=Np6l4lFY5SM"
+        },
+        {
+          "titulo": "Ferradura (2017)",
+          "url": "https://www.youtube.com/watch?v=jGWoXPxi3Fs"
+        },
+        {
+          "titulo": "Encontro (2016)",
+          "url": "https://www.youtube.com/watch?v=eJWVaWzK2DE"
+        },
+        {
+          "titulo": "Tango (2016)",
+          "url": "https://www.youtube.com/watch?v=ihC_-edD63o"
+        },
+        {
+          "titulo": "O fim do verão (2015)",
+          "url": "https://www.youtube.com/watch?v=ZsO44i5cFu8"
+        }
+      ]
+    },
+    {
+      "titulo": "Década 2000",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "2000-2009",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "De tempos em tempos (2007)",
+          "url": "https://www.youtube.com/watch?v=gz9PsFmYzq8"
+        },
+        {
+          "titulo": "Perna (2008)",
+          "url": "https://youtu.be/8oW7Y-GF9Pc"
+        },
+        {
+          "titulo": "Pastoreio (2009)",
+          "url": "https://youtu.be/wA-pFpEyguE"
+        },
+        {
+          "titulo": "Visionários (2002)",
+          "url": "https://www.youtube.com/watch?v=s1okrWkRLys"
+        }
+      ]
+    },
+    {
+      "titulo": "Décadas anteriores",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "",
+        "url": ""
+      },
+      "videos": [
+        {
+          "titulo": "Lance Maior (1968)",
+          "url": "https://www.youtube.com/watch?v=QcSAx-W1NoA"
+        },
+        {
+          "titulo": "Escura Maravilha (1979)",
+          "url": "https://www.youtube.com/watch?v=k1Y4v0JXNTs&t=14s"
+        },
+        {
+          "titulo": "O mundo perdido de Kozak (1988)",
+          "url": "https://www.youtube.com/watch?v=7poNxLwQjGE&t=228s"
+        },
+        {
+          "titulo": "Instruções para subir escada (1990)",
+          "url": "https://www.youtube.com/watch?v=jdhTZjZ-pFM&t=120s"
+        },
+        {
+          "titulo": "Fred Histérico (1991)",
+          "url": "https://www.youtube.com/watch?v=3A-lQzrXCYg&t=4s"
+        },
+        {
+          "titulo": "Os desertos dias (1991)",
+          "url": "https://www.youtube.com/watch?v=7KnHJy6IqlQ"
+        }
+      ]
+    }
+  ]
+}
