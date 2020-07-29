@@ -7,9 +7,13 @@ const Main = styled.main`
  background-color: var(--grayDark);
  color: var(--white);
  flex: 1;
- padding-top: 50px;
+ padding-top: 94px;
  padding-left: 5vw;
  padding-right: 5vw;
+
+ @media(max-width:800px) {
+   padding-top:60px;
+ }
 `;
 
 function Base({ children }) {
