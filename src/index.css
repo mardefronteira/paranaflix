@@ -1,14 +1,16 @@
 * {
   box-sizing: border-box;
   font-family: 'Roboto', sans-serif;
+  font-size: 12px;
 }
 
 :root {
-  --primary: #2A7AE4;
+  --primary: #04af84;
   --black: #000000;
   --blackLighter: #9E9E9E;
   --grayLight: #F5F5F5;
   --grayMedium: #e5e5e5;
+  --grayDark: #141414;
   --white: #FFFFFF;
   --frontEnd: #6BD1FF;
   --backEnd: #00C86F;
@@ -16,11 +18,20 @@
 
 html,
 body {
-  background-color: #141414;
+  background-color: var(--grayDark);
   margin: 0;
   padding: 0;
 }
 
 a {
   color: inherit;
+}
+
+/* organizando os elementos para o footer ficar no fim da página.
+calc(100vh - var(--bodyPaddingTop)) calcula o valor da altura total
+subtraindo o padding para que o footer se ajuste direitinho*/
+#root {
+  min-height: calc(100vh - var(--bodyPaddingTop));
+  display: flex;
+  flex-direction: column;
 }

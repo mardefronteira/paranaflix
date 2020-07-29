@@ -1,21 +1,22 @@
 //importar react
 import React from 'react';
+import { Link } from 'react-router-dom';
 import Logo from '../../img/logo00.png';
-import './Menu.css';
-import Button from '../Button';
+import {MenuWrapper, LogoImg, ButtonLink} from './style.js';
+
 
 //criar função
 function Menu() {
   return (
-    <nav className="Menu">
-      <a href="/">
-        <img className="Logo" src={Logo} alt="Paraná Flix" />
-      </a>
+    <MenuWrapper className="Menu">
+      <Link to="/">
+        <LogoImg className="Logo" src={Logo} alt="Paraná Flix" />
+      </Link>
 
-      <Button as="a" className="ButtonLink" href="/">
+      <ButtonLink as={Link} className="ButtonLink" to="/novo_video">
         Adicione um filme
-      </Button>
-    </nav>
+      </ButtonLink>
+    </MenuWrapper>
   );
 }
 
