@@ -10,7 +10,7 @@ import NotFound from './pages/NotFound';
 ReactDOM.render(
   <BrowserRouter>
     <Switch>
-      <Route path="/novo_video" component={CadastroVideo}/>
+      <Route path="/novo_filme" component={CadastroVideo}/>
       <Route path="/nova_categoria" component={CadastroCategoria}/>
       <Route path="/" component={Home} exact />
       <Route component={NotFound} /> {/*404*/}

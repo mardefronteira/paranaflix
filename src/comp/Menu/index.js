@@ -13,7 +13,7 @@ function Menu() {
         <LogoImg className="Logo" src={Logo} alt="Paraná Flix" />
       </Link>
 
-      <ButtonLink as={Link} className="ButtonLink" to="/novo_video">
+      <ButtonLink as={Link} className="ButtonLink" to="/novo_filme">
         Adicione um filme
       </ButtonLink>
     </MenuWrapper>
