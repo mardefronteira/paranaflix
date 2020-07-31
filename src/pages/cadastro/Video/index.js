@@ -33,6 +33,7 @@ function CadastroVideo() {
 
   //função genérica para atribuir o valor do input a cada campo
   function handleChange(e){
+
     // const { getAttribute, value } = e.target;
     setInfo(
       e.target.getAttribute('name'),
@@ -80,7 +81,7 @@ function CadastroVideo() {
 
         <FormField
           label="Descrição"
-          type="text"
+          type="textarea"
           name="desc"
           value={infos.desc}
           onChange={handleChange}
@@ -88,7 +89,7 @@ function CadastroVideo() {
 
         <FormField
           label="Categorias"
-          type="checkbox"
+          type="textarea"
           name="categorias"
           value={infos.categorias}
           onChange={handleChange}

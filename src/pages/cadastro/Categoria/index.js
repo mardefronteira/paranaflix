@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import Base from '../../../comp/Base';
 import { Link } from 'react-router-dom';
 import FormField from '../../../comp/FormField';
@@ -8,15 +8,15 @@ import Button from '../../../comp/Button';
 
 function CadastroCategoria() {
 
-  //array contendo todas as categorias
-  const [categorias, setCategorias] = useState([]);
-
   //objeto a ser preenchido pelxs usuárixs
   const objInfoCategoria = {
     nome: '',
     desc: '',
     cor: ''
   }
+
+  //array contendo todas as categorias
+  const [categorias, setCategorias] = useState([]);
 
   /*state que manuseia o objeto acima*/
   const [infos, setInfos] = useState(objInfoCategoria);
@@ -38,7 +38,22 @@ function CadastroCategoria() {
     );
   }
 
+  /* useEffect: primeiro parâmetro é a função a ser executada,
+  e o segundo é em que momento chamá-la.
+  uma array vazia chama a função no onload*/
+  useEffect(() => {
 
+    const dbUrl = 'http://localhost:8080/categorias';
+
+    fetch(dbUrl)
+    .then(async (respostaDoServidor) => {
+        const resposta = await respostaDoServidor.json();
+
+        setCategorias([
+          ...resposta,
+        ]);
+      });
+  }, []);
 
   return (
     <Base>
@@ -65,7 +80,7 @@ function CadastroCategoria() {
 
       <FormField
         label="Descrição"
-        type="text"
+        type="textarea"
         name="desc"
         value={infos.desc}
         onChange={handleChange}
@@ -85,15 +100,15 @@ function CadastroCategoria() {
 
         </form>
 
+        {categorias.length === 0 && <div>Carregando...</div>}
+
         <ul>
           {categorias.map((categoria, indice) => {
             return (
-              <>
-              <li key={`${categoria.nome}${indice}`}>
-                <strong>{categoria.nome}</strong><br />{categoria.desc}
-              </li>
-              <br />
-              </>
+                <li key={`${categoria.nome}${categoria.id}`}>
+                  <strong>{categoria.nome}</strong><br />
+                  {categoria.desc}
+                </li>
             )
           })}
         </ul>

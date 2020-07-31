@@ -1,0 +1,22 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Década 2010",
+      "desc": "Filmes lançados entre 2010 e 2019.",
+      "cor": "#f8a322"
+    },
+    {
+      "id": 2,
+      "nome": "Década 2000",
+      "desc": "Filmes lançados entre 2000 e 2009.",
+      "cor": "#f8a322"
+    },
+    {
+      "id": 3,
+      "nome": "Década 1990",
+      "desc": "Filmes lançados entre 1990 e 1999.",
+      "cor": "#f8a322"
+    }
+  ]
+}
