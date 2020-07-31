@@ -43,7 +43,7 @@ function CadastroCategoria() {
   uma array vazia chama a função no onload*/
   useEffect(() => {
 
-    const dbUrl = 'http://localhost:8080/categorias';
+    const dbUrl = 'http://paranaflix.heroku.app/categorias';
 
     fetch(dbUrl)
     .then(async (respostaDoServidor) => {
