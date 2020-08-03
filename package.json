@@ -17,12 +17,12 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "server": "node ./server.js",
-    "start": "npm run server",
-    "build": "react-scripts build",
+    "dev": "concurrently \"react-scripts start\" \"node ./server.js\"",
+    "start": "node ./server.js",
+    "server:static": "json-server --watch ./src/data/db.json --port 8080",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "all": "concurrently \"react-scripts start\" \"npm run server\""
+    "build": "react-scripts build"
   },
   "eslintConfig": {
     "extends": "react-app"
