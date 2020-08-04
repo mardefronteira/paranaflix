@@ -4,39 +4,20 @@ import { Link } from 'react-router-dom';
 import FormField from '../../../comp/FormField';
 import { FinalNote } from '../style.js';
 import Button from '../../../comp/Button';
-
+import useForm from '../../../hooks/useForm';
 
 function CadastroCategoria() {
-
   //objeto a ser preenchido pelxs usuárixs
   const objInfoCategoria = {
-    nome: '',
+    titulo: '',
     desc: '',
     cor: ''
   }
 
+  const { handleChange, infos, clearForm } = useForm(objInfoCategoria);
+
   //array contendo todas as categorias
   const [categorias, setCategorias] = useState([]);
-
-  /*state que manuseia o objeto acima*/
-  const [infos, setInfos] = useState(objInfoCategoria);
-
-  /*função para atribuir o input ao objeto*/
-  function setInfo(chave, valor) {
-    setInfos({
-        ...infos,
-        [chave]: valor, //'chave' está atribuída como valor dinâmico. ela nomeia outra variável.
-    });
-  }
-
-  //função genérica para atribuir o valor do input a cada campo
-  function handleChange(e){
-    // const { getAttribute, value } = e.target;
-    setInfo(
-      e.target.getAttribute('name'),
-      e.target.value
-    );
-  }
 
   /* useEffect: primeiro parâmetro é a função a ser executada,
   e o segundo é em que momento chamá-la.
@@ -69,7 +50,10 @@ function CadastroCategoria() {
           ...categorias,
           infos
         ]);
-      }}>
+
+        clearForm();
+      }}
+      >
 
       <FormField
         label="Nome"
@@ -107,8 +91,8 @@ function CadastroCategoria() {
         <ul>
           {categorias.map((categoria, indice) => {
             return (
-                <li key={`${categoria.nome}${categoria.id}`}>
-                  <strong>{categoria.nome}</strong><br />
+                <li key={`${categoria.titulo}${categoria.id}`}>
+                  <strong>{categoria.titulo}</strong><br />
                   {categoria.desc}
                 </li>
             )
