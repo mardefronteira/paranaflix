@@ -4,19 +4,22 @@
       "id": 1,
       "titulo": "Década 2010",
       "desc": "Filmes lançados entre 2010 e 2019.",
-      "cor": "#f8a322"
+      "cor": "#f8a322",
+      "filmeId": 4
     },
     {
       "id": 2,
       "titulo": "Década 2000",
       "desc": "Filmes lançados entre 2000 e 2009.",
-      "cor": "#f8a322"
+      "cor": "#f8a322",
+      "filmeId": 3
     },
     {
       "id": 3,
       "titulo": "Década 1990",
       "desc": "Filmes lançados entre 1990 e 1999.",
-      "cor": "#f8a322"
+      "cor": "#f8a322",
+      "filmeId": 1
     }
   ],
   "filmes": [
@@ -25,23 +28,26 @@
       "titulo": "A Outra Margem",
       "ano": 2015,
       "cidade": "Curitiba",
-      "url": "https://www.youtube.com/watch?v=Np6l4lFY5SM",
-      "categoriaId": 2
+      "urlId": "256357187",
+      "urlHost": "vimeo",
+      "categoriaId": 3
     },
     {
       "id": 2,
       "titulo": "Ferradura",
       "ano": 2017,
       "cidade": "Curitiba",
-      "url": "https://www.youtube.com/watch?v=jGWoXPxi3Fs",
-      "categoriaId": 1
+      "urlId": "jGWoXPxi3Fs",
+      "urlHost": "youtube",
+      "categoriaId": 2
     },
     {
       "id": 3,
       "titulo": "Encontro",
       "ano": 2016,
       "cidade": "Curitiba",
-      "url": "https://www.youtube.com/watch?v=eJWVaWzK2DE",
+      "urlId": "eJWVaWzK2DE",
+      "urlHost": "youtube",
       "categoriaId": 2
     },
     {
@@ -49,7 +55,8 @@
       "titulo": "Tango",
       "ano": 2016,
       "cidade": "Curitiba",
-      "url": "https://www.youtube.com/watch?v=ihC_-edD63o",
+      "urlId": "ihC_-edD63o",
+      "urlHost": "youtube",
       "categoriaId": 1
     }
   ]

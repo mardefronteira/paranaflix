@@ -1,43 +1,37 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import VideoIframeResponsive from './components/VideoIframeResponsive';
-import { BannerMainContainer, ContentAreaContainer, WatchButton } from './styles';
-
-function getYouTubeId(youtubeURL) {
-  return youtubeURL
-    .replace(
-      /^.*((youtu.be\/)|(v\/)|(\/u\/\w\/)|(embed\/)|(watch\?))\??v?=?([^#&?]*).*/,
-      '$7',
-    );
-}
+import { BannerMainContainer, ContentAreaContainer } from './styles';
 
 export default function BannerMain({
-  videoTitle,
-  videoDescription,
-  url,
+  filmTitle,
+  filmDesc,
+  urlId,
+  urlHost
 }) {
-  const youTubeID = getYouTubeId(url);
-  const bgUrl = `https://img.youtube.com/vi/${youTubeID}/maxresdefault.jpg`;
+
+  const image = urlHost === 'youtube' ?
+  `https://img.youtube.com/vi/${urlId}/hqdefault.jpg`
+  : "https://i.ytimg.com/vi/zJTk-TtPlhY/maxresdefault.jpg";
 
   return (
-    <BannerMainContainer backgroundImage={bgUrl}>
+    <BannerMainContainer backgroundImage={image}>
       <ContentAreaContainer>
         <ContentAreaContainer.Item>
           <ContentAreaContainer.Title>
-            {videoTitle}
+            {filmTitle}
           </ContentAreaContainer.Title>
 
           <ContentAreaContainer.Description>
-            {videoDescription}
+            {filmDesc}
           </ContentAreaContainer.Description>
         </ContentAreaContainer.Item>
 
         <ContentAreaContainer.Item>
           <VideoIframeResponsive
-            youtubeID={youTubeID}
+            urlId={ urlId }
+            urlHost={ urlHost }
           />
-          <WatchButton>
-            ►
-          </WatchButton>
         </ContentAreaContainer.Item>
       </ContentAreaContainer>
     </BannerMainContainer>

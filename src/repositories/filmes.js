@@ -1,9 +1,9 @@
 import config from '../config';
 
-const CAT_URL = `${config.DB_URL}/filmes`;
+const FILM_URL = `${config.DB_URL}/filmes`;
 
 function newFilm(objInfo) {
-  return fetch(`${CAT_URL}?_embed=filmes`,{
+  return fetch(`${FILM_URL}`,{
   method: 'POST',
   headers: {
     'Content-type': 'application/json',

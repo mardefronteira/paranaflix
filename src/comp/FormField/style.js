@@ -12,8 +12,6 @@ export const FormFieldWrapper = styled.div`
     padding-left: 56px;
   }
 `;
-//
-// export const Label = styled.label``;
 
 export const LabelText=styled.span`
   color: var(--primary);

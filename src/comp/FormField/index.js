@@ -29,7 +29,7 @@ function FormField({ label, name, type, value, onChange, suggestions }){
           type={ type }
           value={ value }
           autoComplete={hasSuggestions ? 'off' : 'on'}
-          list={hasSuggestions ? `suggestionFor${fieldId}` : undefined}
+          list={hasSuggestions ? `suggestionFor_${fieldId}` : undefined}
         />
       <LabelText
          htmlFor={ fieldId }>
@@ -39,11 +39,11 @@ function FormField({ label, name, type, value, onChange, suggestions }){
           hasSuggestions && (
             <datalist id={`suggestionFor_${fieldId}`}>
               {
-              suggestions.map((suggestion) => (
+              suggestions.map((suggestion) =>
                 <option value={suggestion} key={`suggestionFor_${fieldId}_option${suggestion}`}>
                   {suggestion}
                 </option>
-              ))
+              )
             }
             </datalist>
           )

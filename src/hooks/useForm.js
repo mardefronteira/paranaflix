@@ -1,9 +1,9 @@
 import { useState } from 'react';
 
-function useForm(valoresIniciais) {
+function useForm(objRecebido) {
 
-  /*state que manuseia o objInfoCategoria*/
-  const [infos, setInfos] = useState(valoresIniciais);
+  /*state que manuseia o objeto recebido contendo os valores do formulário*/
+  const [infos, setInfos] = useState(objRecebido);
 
   /*função para atribuir o input ao objeto*/
   function setInfo(chave, valor) {
@@ -23,7 +23,7 @@ function useForm(valoresIniciais) {
   }
 
   function clearForm () {
-      setInfos(valoresIniciais);
+      setInfos(objRecebido);
   }
 
   return {

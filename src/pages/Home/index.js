@@ -33,9 +33,10 @@ function Home() {
             return (
               <div key={`${categoria.titulo}${categoria.id}`}>
                 <BannerMain
-                  videoTitle={dadosIniciais[0].filmes[0].titulo}
-                  url={dadosIniciais[0].filmes[0].url}
-                  videoDescription={dadosIniciais[0].filmes[0].desc}
+                  filmTitle={dadosIniciais[0].filmes[0].titulo}
+                  urlHost={dadosIniciais[0].filmes[0].urlHost}
+                  urlId={dadosIniciais[0].filmes[0].urlId}
+                  filmDesc={dadosIniciais[0].filmes[0].desc}
                 />
                 <Carousel
                   //ignoreFirstVideo
