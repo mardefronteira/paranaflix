@@ -10,6 +10,8 @@ export default function BannerMain({
   direcao,
   cidade,
   ano,
+  outras,
+  categorias
 }) {
 
   return (
@@ -25,6 +27,10 @@ export default function BannerMain({
           <ContentAreaContainer.Description>
            {sinopse}
           </ContentAreaContainer.Description>
+          { outras && <ContentAreaContainer.Description>
+           {outras}
+         </ContentAreaContainer.Description>
+        }
         </ContentAreaContainer.Info>
 
         <ContentAreaContainer.Video>

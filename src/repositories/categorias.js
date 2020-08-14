@@ -13,7 +13,6 @@ function newCat(objInfo) {
     .then(async (respostaDoServidor) => {
         if(respostaDoServidor.ok) {
           const resposta = await respostaDoServidor.json();
-          console.log('[newCat] ',resposta);
           return resposta;
         }
 

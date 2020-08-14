@@ -7,7 +7,7 @@ import catRepo from '../../repositories/categorias';
 
 function Home() {
 
-  const [dadosIniciais, setDadosIniciais] = useState([]);
+  const [categorias, setCategorias] = useState([]);
 
   /* useEffect: primeiro parâmetro é a função a ser executada,
   e o segundo é em que momento chamá-la.
@@ -15,7 +15,7 @@ function Home() {
   useEffect(() => {
     catRepo.getAllWithVideos()
     .then((categoriasComVideos) => {
-      setDadosIniciais(categoriasComVideos)
+      setCategorias(categoriasComVideos)
     })
     .catch((err) => {
       console.log("Não foi possível acessar a database. Será que não sobrou uma vírgula no fim do arquivo da DB?", err);
@@ -26,21 +26,21 @@ function Home() {
       <Base>
 
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
-        {dadosIniciais.length === 0 && (<div>Carregando...</div>)}
+        {categorias.length === 0 && (<div>Carregando...</div>)}
 
-        {dadosIniciais.map((categoria, i) => {
+        {categorias.map((categoria, i) => {
           if (i === 0) {
             return (
               <>
               <div key={`${categoria.titulo}${categoria.id}`}>
                 <BannerMain
-                  titulo={dadosIniciais[0].filmes[0].titulo}
-                  urlHost={dadosIniciais[0].filmes[0].urlHost}
-                  urlId={dadosIniciais[0].filmes[0].urlId}
-                  sinopse={dadosIniciais[0].filmes[0].sinopse}
-                  ano={dadosIniciais[0].filmes[0].ano}
-                  direcao={dadosIniciais[0].filmes[0].direcao}
-                  cidade={dadosIniciais[0].filmes[0].cidade}
+                  titulo={categorias[0].filmes[0].titulo}
+                  urlHost={categorias[0].filmes[0].urlHost}
+                  urlId={categorias[0].filmes[0].urlId}
+                  sinopse={categorias[0].filmes[0].sinopse}
+                  ano={categorias[0].filmes[0].ano}
+                  direcao={categorias[0].filmes[0].direcao}
+                  cidade={categorias[0].filmes[0].cidade}
                 />
               </div>
               <CatMenu/>
@@ -48,13 +48,16 @@ function Home() {
             );
           }
           if (i < 7) {
-           let index = 6-i;
-            return (
-              <Carousel
-                key={`${dadosIniciais[index].titulo}${dadosIniciais[index].id}`}
-                category={dadosIniciais[index]}
-              />
-          )}
+             let index = 6-i;
+             if(categorias[index].filmes.length > 0){
+                return (
+                  <Carousel
+                    key={`${categorias[index].titulo}${categorias[index].id}`}
+                    category={categorias[index]}
+                  />
+                )
+              }
+          }
         })}
 
 

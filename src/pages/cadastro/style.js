@@ -44,6 +44,7 @@ export const FinalNote = styled.p`
   padding-top: 2em;
   padding-bottom: 2em;
   color:var(--grayMedium);
+  text-align:center;
 `;
 
 export const FormFieldWrapper = styled.div`

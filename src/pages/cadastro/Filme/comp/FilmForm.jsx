@@ -1,6 +1,7 @@
 import React from 'react';
 import { Form, Field, FieldArray, ErrorMessage } from 'formik';
 import CatOptions from './CatOptions';
+import { Link } from 'react-router-dom';
 
 import { Input, CatButton, CatButtonX, Select } from '../../style.js';
 import FormField from '../../FormField';
@@ -136,6 +137,12 @@ const FilmForm = ({
                 >
                 adicionar
               </CatButton>
+              <p>
+              Faltou algo? &nbsp;
+              <Link to="/nova_categoria">
+              Crie uma nova categoria.
+              </Link>
+            </p>
           </div>
         )}
       </FieldArray>

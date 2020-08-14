@@ -21,6 +21,18 @@ function newFilm(objInfo) {
 }
 
 
+function getOne(filmId) {
+  return fetch(`${FILM_URL}?urlId=${filmId}`)
+    .then(async (respostaDoServidor) => {
+        if(respostaDoServidor.ok) {
+          const resposta = await respostaDoServidor.json();
+          return resposta;
+        }
+
+        throw new Error('Deu ruim nos dados :(');
+      });
+}
+
 function getAll() {
   return fetch(`${FILM_URL}`)
     .then(async (respostaDoServidor) => {
@@ -33,19 +45,9 @@ function getAll() {
       });
 }
 
-function getFilm(filmId) {
-  fetch(`${FILM_URL}?urlId=${filmId}`)
-  .then(async (respostaDoServidor) => {
-      if(respostaDoServidor.ok) {
-        const resposta = await respostaDoServidor.json();
-        return resposta;
-      }
-      throw new Error('Deu ruim nos dados :(');
-    })
-  }
 
 export default {
   newFilm,
   getAll,
-  getFilm,
+  getOne,
 };

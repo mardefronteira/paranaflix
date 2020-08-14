@@ -1,12 +1,17 @@
 import styled from 'styled-components';
 import Button from '../Button';
+import { Link } from 'react-router-dom';
+
+export const MenuLink = styled(Link)`
+  color: var(--white);
+  font-size:15px;
+`;
 
 export const LogoImg = styled.img`
   max-height: 50px;
   @media(max-width: 800px){
     max-height: 40px;
   }
-
 `;
 
 export const MenuWrapper = styled.nav`

@@ -13,12 +13,8 @@ function CadastroFilme() {
 
       <FilmFormik />
 
-      <FinalNote>
-        Faltou algo? &nbsp;
-        <Link to="/nova_categoria">
-        Crie uma nova categoria.
-        </Link>
-      </FinalNote>
+      <FinalNote/>
+
     </Base>
   )
 }
