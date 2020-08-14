@@ -15,9 +15,22 @@ export const ContentAreaContainer = styled.section`
   }
 `;
 
-ContentAreaContainer.Item = styled.div`
-  width: 50%;
+ContentAreaContainer.Info = styled.div`
+  width: 40%;
   display: inline-block;
+  margin-left: 5%;
+  margin-bottom: 50px;
+  text-align: justify;
+  text-justify: inter-word;
+  @media (max-width: 800px) {
+    width: 100%;
+  }
+`;
+
+ContentAreaContainer.Video = styled.div`
+  width: 60%;
+  display: inline-block;
+  margin-left: 5%;
   margin-bottom: 50px;
   @media (max-width: 800px) {
     width: 100%;

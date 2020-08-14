@@ -2,6 +2,7 @@ import React, { useEffect, useState } from 'react';
 import BannerMain from '../../comp/BannerMain';
 import Carousel from '../../comp/Carousel';
 import Base from '../../comp/Base';
+import CatMenu from '../../comp/CatMenu';
 import catRepo from '../../repositories/categorias';
 
 function Home() {
@@ -12,7 +13,7 @@ function Home() {
   e o segundo é em que momento chamá-la.
   uma array vazia chama a função no onload*/
   useEffect(() => {
-    catRepo.getAllWithVideos(1)
+    catRepo.getAllWithVideos()
     .then((categoriasComVideos) => {
       setDadosIniciais(categoriasComVideos)
     })
@@ -30,26 +31,30 @@ function Home() {
         {dadosIniciais.map((categoria, i) => {
           if (i === 0) {
             return (
+              <>
               <div key={`${categoria.titulo}${categoria.id}`}>
                 <BannerMain
-                  filmTitle={dadosIniciais[0].filmes[0].titulo}
+                  titulo={dadosIniciais[0].filmes[0].titulo}
                   urlHost={dadosIniciais[0].filmes[0].urlHost}
                   urlId={dadosIniciais[0].filmes[0].urlId}
-                  filmDesc={dadosIniciais[0].filmes[0].desc}
-                />
-                <Carousel
-                  //ignoreFirstVideo
-                  category={dadosIniciais[0]}
+                  sinopse={dadosIniciais[0].filmes[0].sinopse}
+                  ano={dadosIniciais[0].filmes[0].ano}
+                  direcao={dadosIniciais[0].filmes[0].direcao}
+                  cidade={dadosIniciais[0].filmes[0].cidade}
                 />
               </div>
+              <CatMenu/>
+              </>
             );
           }
-          return (
-            <Carousel
-              key={`${categoria.titulo}${categoria.id}`}
-              category={categoria}
-            />
-          );
+          if (i < 7) {
+           let index = 6-i;
+            return (
+              <Carousel
+                key={`${dadosIniciais[index].titulo}${dadosIniciais[index].id}`}
+                category={dadosIniciais[index]}
+              />
+          )}
         })}
 
 

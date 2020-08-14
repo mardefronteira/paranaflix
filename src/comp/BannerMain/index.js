@@ -3,35 +3,36 @@ import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer } from './styles';
 
 export default function BannerMain({
-  filmTitle,
-  filmDesc,
+  titulo,
+  sinopse,
   urlId,
-  urlHost
+  urlHost,
+  direcao,
+  cidade,
+  ano,
 }) {
 
-  const image = urlHost === 'youtube' ?
-  `https://img.youtube.com/vi/${urlId}/hqdefault.jpg`
-  : "https://i.ytimg.com/vi/zJTk-TtPlhY/maxresdefault.jpg";
-
   return (
-    <BannerMainContainer backgroundImage={image}>
+    <BannerMainContainer>
       <ContentAreaContainer>
-        <ContentAreaContainer.Item>
+        <ContentAreaContainer.Info>
           <ContentAreaContainer.Title>
-            {filmTitle}
+            {titulo}
           </ContentAreaContainer.Title>
-
           <ContentAreaContainer.Description>
-            {filmDesc}
+            {cidade}, {ano}. Direção: {direcao}
           </ContentAreaContainer.Description>
-        </ContentAreaContainer.Item>
+          <ContentAreaContainer.Description>
+           {sinopse}
+          </ContentAreaContainer.Description>
+        </ContentAreaContainer.Info>
 
-        <ContentAreaContainer.Item>
+        <ContentAreaContainer.Video>
           <VideoIframeResponsive
             urlId={ urlId }
             urlHost={ urlHost }
           />
-        </ContentAreaContainer.Item>
+      </ContentAreaContainer.Video>
       </ContentAreaContainer>
     </BannerMainContainer>
   );
