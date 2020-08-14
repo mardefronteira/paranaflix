@@ -36,15 +36,16 @@ function CadastroCategoria() {
       <CatFormik />
 
         {categorias.length === 0 && <div>Carregando...</div>}
-
+        <h3>Categorias cadastradas:</h3>
         <ul>
           {categorias.map((categoria, indice) => {
-            return (
-                <li key={`${categoria.titulo}${categoria.id}`}>
-                  <strong>{categoria.titulo}</strong><br />
-                  {categoria.desc}
-                </li>
-            )
+            if(indice > 6){
+              return (
+                  <li key={`${categoria.titulo}${categoria.id}`}>
+                    <strong>{categoria.titulo}</strong><br />
+                    {categoria.desc}
+                  </li>
+              )}
           })}
         </ul>
 

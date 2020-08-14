@@ -1,63 +1,138 @@
 {
   "categorias": [
     {
-      "id": 1,
-      "titulo": "Década 2010",
-      "desc": "Filmes lançados entre 2010 e 2019.",
-      "cor": "#f8a322",
-      "filmeId": 4
+      "cor": "#079eab",
+      "desc": "Filmes realizados até o ano 1979",
+      "titulo": "Antes de 1979",
+      "filmes": [],
+      "id": 1
     },
     {
-      "id": 2,
-      "titulo": "Década 2000",
-      "desc": "Filmes lançados entre 2000 e 2009.",
-      "cor": "#f8a322",
-      "filmeId": 3
+      "cor": "#0770bc",
+      "desc": "Filmes realizados entre 1980 e 1989.",
+      "titulo": "Década de 1980",
+      "filmes": [],
+      "id": 2
     },
     {
-      "id": 3,
-      "titulo": "Década 1990",
-      "desc": "Filmes lançados entre 1990 e 1999.",
-      "cor": "#f8a322",
-      "filmeId": 1
+      "cor": "#008f9f",
+      "desc": "Filmes realizados entre 1990 e 1999.",
+      "titulo": "Década de 1990",
+      "filmes": [],
+      "id": 3
+    },
+    {
+      "cor": "#1fab57",
+      "desc": "Filmes realizados entre 2000 e 2009.",
+      "titulo": "Década de 2000",
+      "filmes": [],
+      "id": 4
+    },
+    {
+      "cor": "#12ba73",
+      "desc": "Filmes realizados entre 2010 e 2019.",
+      "titulo": "Década de 2010",
+      "filmes": [],
+      "id": 5
+    },
+    {
+      "cor": "#0086c6",
+      "desc": "Filmes realizados entre 2020 e 2029.",
+      "titulo": "Década de 2020",
+      "filmes": [],
+      "id": 6
+    },
+    {
+      "cor": "#ff8040",
+      "desc": "Filmes de animação em qualquer técnica.",
+      "titulo": "Animação",
+      "filmes": [],
+      "id": 7
+    },
+    {
+      "cor": "#ff80c0",
+      "desc": "Documentários",
+      "titulo": "Documentário",
+      "filmes": [],
+      "id": 8
     }
   ],
   "filmes": [
     {
-      "id": 1,
-      "titulo": "A Outra Margem",
       "ano": 2015,
+      "categoriaId": 1,
+      "categorias": [
+        1,
+        2,
+        3
+      ],
       "cidade": "Curitiba",
+      "direcao": "Nath",
+      "duracao": "tantos minutos",
+      "outras": "Aqui vão mais informações",
+      "sinopse": "Uma linda história cheia de alegria e tristeza e raiva e romance e horror e monotonia e metonímia e nada e tua e talvez um dia isso seja uma sinopse muito interessante que um filme que existe, ou não, ou um dia virá a existir, mas hoje não sabemos bem exatamente como seria possível que isso fosse, ou não fosse. Sabe deus.",
+      "titulo": "A Outra Margem",
       "urlId": "256357187",
       "urlHost": "vimeo",
-      "categoriaId": 3
+      "mostrar": true,
+      "id": 1
     },
     {
-      "id": 2,
-      "titulo": "Ferradura",
-      "ano": 2017,
+      "ano": 2015,
+      "categoriaId": 3,
+      "categorias": [
+        1,
+        2,
+        3
+      ],
       "cidade": "Curitiba",
+      "direcao": "Bea",
+      "duracao": "tantos minutos",
+      "outras": "Aqui vão mais informações",
+      "sinopse": "Uma linda história cheia de alegria e tristeza e raiva e romance e horror e monotonia e metonímia e nada e tua e talvez um dia isso seja uma sinopse muito interessante que um filme que existe, ou não, ou um dia virá a existir, mas hoje não sabemos bem exatamente como seria possível que isso fosse, ou não fosse. Sabe deus.",
+      "titulo": "Ferradura",
       "urlId": "jGWoXPxi3Fs",
       "urlHost": "youtube",
-      "categoriaId": 2
+      "mostrar": true,
+      "id": 2
     },
     {
-      "id": 3,
-      "titulo": "Encontro",
       "ano": 2016,
+      "categoriaId": 2,
+      "categorias": [
+        1,
+        2,
+        3
+      ],
       "cidade": "Curitiba",
+      "direcao": "Era Paula?",
+      "duracao": "tantos minutos",
+      "outras": "Aqui vão mais informações",
+      "sinopse": "Uma linda história cheia de alegria e tristeza e raiva e romance e horror e monotonia e metonímia e nada e tua e talvez um dia isso seja uma sinopse muito interessante que um filme que existe, ou não, ou um dia virá a existir, mas hoje não sabemos bem exatamente como seria possível que isso fosse, ou não fosse. Sabe deus.",
+      "titulo": "Encontro",
       "urlId": "eJWVaWzK2DE",
       "urlHost": "youtube",
-      "categoriaId": 2
+      "mostrar": true,
+      "id": 3
     },
     {
-      "id": 4,
-      "titulo": "Tango",
       "ano": 2016,
+      "categoriaId": 1,
+      "categorias": [
+        1,
+        2,
+        3
+      ],
       "cidade": "Curitiba",
+      "direcao": "Pedro",
+      "duracao": "tantos minutos",
+      "outras": "Aqui vão mais informações",
+      "sinopse": "Uma linda história cheia de alegria e tristeza e raiva e romance e horror e monotonia e metonímia e nada e tua e talvez um dia isso seja uma sinopse muito interessante que um filme que existe, ou não, ou um dia virá a existir, mas hoje não sabemos bem exatamente como seria possível que isso fosse, ou não fosse. Sabe deus.",
+      "titulo": "Tango",
       "urlId": "ihC_-edD63o",
       "urlHost": "youtube",
-      "categoriaId": 1
+      "mostrar": true,
+      "id": 4
     }
   ]
 }

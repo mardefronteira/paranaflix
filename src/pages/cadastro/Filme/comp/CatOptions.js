@@ -16,7 +16,7 @@ function CatOptions (children) {
     <>
     {categorias.map((categoria) => {
       return (
-        <option key={categoria.titulo} value={categoria.id}>{categoria.titulo}</option>
+        <option key={categoria.titulo} value={categoria.titulo}>{categoria.titulo}</option>
       );
     })}
     </>

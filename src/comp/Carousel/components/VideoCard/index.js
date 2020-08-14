@@ -1,24 +1,27 @@
 import React from 'react';
-import { VideoCardContainer } from './styles';
+import { VideoCardContainer, Desc } from './styles';
 
-function VideoCard({ filmTitle, urlId, urlHost, categoryColor }) {
+function VideoCard({ titulo, id, host, sinopse, ano, categoryColor }) {
 
-  const image = urlHost === 'youtube' ?
-  `https://img.youtube.com/vi/${urlId}/hqdefault.jpg`
+  const image = host === 'youtube' ?
+  `https://img.youtube.com/vi/${id}/hqdefault.jpg`
   : "https://i.ytimg.com/vi/zJTk-TtPlhY/maxresdefault.jpg";
 
-  const url = urlHost === 'youtube' ?
-  `https://youtu.be/${urlId}`
-  : `https://vimeo.com/${urlId}`;
+  const sin = sinopse.split(" ").slice(0,30).join(" ")+"...";
 
     return (
-    <VideoCardContainer
-      url={image}
-      href={url}
-      target="_blank"
-      style={{ borderColor: categoryColor || 'red' }}
-      title={filmTitle}
-    />
+    <>
+      <VideoCardContainer
+        url={image}
+        to={`/filme/${id}`}
+        style={{ borderColor: categoryColor || 'red' }}
+        title={titulo}
+      />
+      <Desc>
+        <p><strong>{titulo}</strong> ({ano})</p>
+        <p>{sin}</p>
+      </Desc>
+    </>
   );
 }
 

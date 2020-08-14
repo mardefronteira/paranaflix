@@ -12,7 +12,7 @@ function Home() {
   e o segundo é em que momento chamá-la.
   uma array vazia chama a função no onload*/
   useEffect(() => {
-    catRepo.getAllWithVideos(1)
+    catRepo.getAllWithVideos()
     .then((categoriasComVideos) => {
       setDadosIniciais(categoriasComVideos)
     })

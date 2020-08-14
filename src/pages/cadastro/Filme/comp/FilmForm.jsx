@@ -1,8 +1,8 @@
 import React from 'react';
-import { Form, Field } from 'formik';
+import { Form, Field, FieldArray, ErrorMessage } from 'formik';
 import CatOptions from './CatOptions';
 
-import { FormFieldWrapper, LabelText, Input } from '../../style.js';
+import { Input, CatButton, CatButtonX, Select } from '../../style.js';
 import FormField from '../../FormField';
 import Button from '../../../../comp/Button';
 
@@ -16,67 +16,134 @@ const FilmForm = ({
     <FormField
       label="Título"
       name="titulo"
-      value={values.titulo}
-      error={errors.titulo}
-      touched={touched.titulo}
-    />
+    >
+      <Input
+        as={Field}
+        name="titulo"
+        hasValue = {values.titulo !== '' ? true : false}
+      />
+    </FormField>
+
     <FormField
-      label="Outras informações"
-      name="outras"
-      as="textarea"
-      value={values.outras}
-    />
+      label="Ano"
+      name="ano"
+      >
+      <Input
+        type="number"
+        as={Field}
+        name="ano"
+        hasValue = {values.ano !== '' ? true : false}
+        />
+    </FormField>
+
+    <FormField
+      label="Duração"
+      name="duracao"
+      >
+      <Input
+        as={Field}
+        name="duracao"
+        hasValue = {values.duracao !== '' ? true : false}
+        />
+    </FormField>
+
+    <FormField
+      label="Cidade"
+      name="cidade"
+    >
+      <Input
+        as={Field}
+        name="cidade"
+        hasValue = {values.cidade !== '' ? true : false}
+      />
+    </FormField>
+
+    <FormField
+      label="Direção"
+      name="direcao"
+    >
+      <Input
+        as={Field}
+        name="direcao"
+        hasValue = {values.direcao !== '' ? true : false}
+      />
+    </FormField>
+
+    <FormField
+      label="URL"
+      name="url"
+      >
+      <Input
+        type="url"
+        as={Field}
+        name="url"
+        hasValue = {values.url !== '' ? true : false}
+        />
+    </FormField>
 
     <FormField
       label="Sinopse"
       name="sinopse"
-      as="textarea"
-      value={values.sinopse}
-    />
-    <FormField
-      label="Cidade"
-      name="cidade"
-      value={values.cidade}
-    />
-    <FormField
-      label="Direção"
-      name="direcao"
-      value={values.direcao}
-    />
-    <FormField
-      label="Duração"
-      name="duracao"
-      value={values.duracao}
-    />
-    <FormField
-      label="URL"
-      name="url"
-      type="url"
-      value={values.url}
-      error={errors.url}
-      touched={touched.url}
-    />
-    <FormField
-      label="Ano"
-      name="ano"
-      type="number"
-      value={values.ano}
-      error={errors.ano}
-      touched={touched.ano}
-    />
+      >
+      <Input
+        as={Field}
+        name="sinopse"
+        hasValue = {values.sinopse !== '' ? true : false}
+        />
+    </FormField>
 
     <FormField
-      label="Categorias"
-      name="categorias"
-      as="select"
-      value={values.categorias}
-      error={errors.categorias}
-      touched={touched.categorias}
-    >
-      <CatOptions />
+      label="Outras informações (equipe, prêmios, etc)"
+      name="outras"
+      >
+      <Input
+        as={Field}
+        name="outras"
+        hasValue = {values.outras !== '' ? true : false}
+        />
     </FormField>
-  <Button type="submit" disabled={isSubmitting}>Cadastrar</Button>
+
+    <FieldArray name="categorias">{({ push, remove }) => (
+          <div>
+            <span
+              htmlFor="categorias">
+              <p id="catLabel">Categorias:</p>
+              <p>{values.categorias.map((thisCat) => {
+                  return(
+                    <CatButton>{thisCat}
+                      <CatButtonX value={thisCat} id={thisCat} as="button" type="button" onClick={() => {
+                      let index = values.categorias.indexOf(thisCat);
+                      remove(index);
+                    }}>x</CatButtonX>
+                  </CatButton>
+                )})}</p>
+              <ErrorMessage name="categorias">{(msg) => <div><br/>{msg}</div>}</ErrorMessage>
+            </span>
+              <Select  id="categoria">
+                <CatOptions/>
+              </Select>
+
+              <CatButton
+                type="button"
+                onClick={() => {
+                  let thisVal = document.getElementById('categoria').value;
+                  let isInList = values.categorias.includes(thisVal);
+
+                  if (!isInList) {
+                    push(thisVal);
+                  }
+                }}
+                >
+                adicionar
+              </CatButton>
+          </div>
+        )}
+      </FieldArray>
+      <br/><br/>
+      <Button type="submit" disabled={isSubmitting}>Cadastrar</Button>
   </Form>
 )
+
+// <CatOptions />
 
 export default FilmForm;

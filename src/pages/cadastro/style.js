@@ -1,5 +1,44 @@
 import styled, { css } from 'styled-components';
-import { Field } from 'formik';
+
+export const CatButton = styled.span`
+  background:none;
+  color: var(--white);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  cursor: pointer;
+  padding: 3px 6px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 15px;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  opacity: 1;
+`;
+
+export const CatButtonX = styled.span`
+  background:none;
+  color: var(--white);
+  border: 1px solid var(--white);
+  box-sizing: border-box;
+  cursor: pointer;
+  margin-left: 5px;
+  padding: 1px 4px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  outline: none;
+  border-radius: 5px;
+  text-decoration: none;
+  display: inline-block;
+  opacity: .7;
+  transition: opacity .3s;
+  &:hover,
+  &:focus {
+    opacity: .5;
+  }
+`;
 
 export const FinalNote = styled.p`
   padding-top: 2em;
@@ -21,7 +60,7 @@ export const FormFieldWrapper = styled.div`
 
 export const LabelText=styled.span`
   color: var(--primary);
-  height: 57px;
+  height: 50px;
   position: absolute;
 
   top: 0;
@@ -44,9 +83,9 @@ export const Input = styled.input`
   color: var(--primary);
 
   display: block;
-  width: 100%;
-  /* max-width: 500px; */
-  height: 57px;
+  width: 70%;
+  max-width: 500px;
+  height: 50px;
   font-size: 18px;
 
   outline:0;
@@ -55,7 +94,7 @@ export const Input = styled.input`
   border-bottom: 4px solid var(--grayLight);
 
   padding: 16px 16px;
-  margin-bottom: 45px;
+  margin-bottom: 25px;
   resize: none;
   border-radius: 4px;
 
@@ -80,4 +119,27 @@ export const Input = styled.input`
       }
   `;
   }}
+`;
+
+export const Select = styled.select`
+  background: var(--grayMedium);
+  color: var(--primary);
+
+  display: inline-block;
+  width: 55%;
+  max-width: 500px;
+  height: 40px;
+  font-size: 15px;
+
+  outline:0;
+  border:0;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid var(--grayLight);
+
+  padding: 5px 5px;
+  margin-bottom: 25px;
+  margin-right: 10px;
+  resize: none;
+  border-radius: 4px;
+
 `;

@@ -1,5 +1,5 @@
 import React from 'react';
-import { VideoCardGroupContainer, Title, ExtraLink } from './styles';
+import { VideoCardGroupContainer, Title } from './styles';
 import VideoCard from './components/VideoCard';
 import Slider, { SliderItem } from './components/Slider';
 
@@ -7,22 +7,17 @@ function Carousel({
   ignoreFirstVideo,
   category,
 }) {
+  const catId = category.id;
   const categoryTitle = category.titulo;
   const categoryColor = category.cor;
-  const categoryExtraLink = category.link_extra;
   const filmes = category.filmes;
   return (
     <VideoCardGroupContainer>
       {categoryTitle && (
         <>
-          <Title style={{ backgroundColor: categoryColor || 'red' }}>
+          <Title style={{ backgroundColor: categoryColor || 'red' }} to={`/categoria/${catId}`}>
             {categoryTitle}
           </Title>
-          {categoryExtraLink &&
-            <ExtraLink href={categoryExtraLink.url} target="_blank">
-              {categoryExtraLink.text}
-            </ExtraLink>
-          }
         </>
       )}
       <Slider>
@@ -34,9 +29,11 @@ function Carousel({
           return (
             <SliderItem key={filme.titulo}>
               <VideoCard
-                filmTitle={filme.titulo}
-                urlId={filme.urlId}
-                urlHost={filme.urlHost}
+                titulo={filme.titulo}
+                sinopse={filme.sinopse}
+                ano={filme.ano}
+                id={filme.urlId}
+                host={filme.urlHost}
                 categoryColor={categoryColor}
               />
             </SliderItem>

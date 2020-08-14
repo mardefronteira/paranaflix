@@ -1,12 +1,8 @@
-import React from 'react';
 import { withFormik } from 'formik';
-import { useHistory } from 'react-router-dom';
 import * as Yup from 'yup';
-
 import CatForm from './CatForm';
-
-import getUrlInfo from '../../../../hooks/getUrlInfo';
 import catRepo from '../../../../repositories/categorias';
+import { useHistory } from 'react-router-dom';
 
 function getRandomColor() {
   var letters = '0123456789ABCDEF';
@@ -17,7 +13,13 @@ function getRandomColor() {
   return color;
 }
 
-const CatFormik = withFormik ({
+function BackToFilm() {
+  const history = useHistory();
+  history.push("/novo_filme");
+}
+
+const CatFormik =
+  withFormik ({
   mapPropsToValues({
     cor,
     desc,
@@ -36,6 +38,7 @@ const CatFormik = withFormik ({
   }),
   handleSubmit(values, { resetForm, setErrors, setSubmitting }) {
 
+
     if (false /*categoria já está na db*/){
       setErrors({ titulo: 'Esta categoria já está em nossa base de dados.'})
     } else {
@@ -48,9 +51,11 @@ const CatFormik = withFormik ({
       catRepo.newCat(thisCat);
       console.log(thisCat);
       resetForm();
+      alert("Categoria cadastrada!");
+      return (BackToFilm())
     }
     setSubmitting(false);
-  }
+  }//close handleSubmit
 })(CatForm);
 
 

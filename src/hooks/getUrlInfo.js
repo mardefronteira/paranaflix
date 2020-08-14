@@ -1,5 +1,3 @@
-import { useState } from 'react';
-
 function getUrlInfo(filmURL) {
 
   let filmHost, filmId;
@@ -19,7 +17,8 @@ function getUrlInfo(filmURL) {
     let id = filmURL.replace(/(>|<)/gi,'').split(/(vi\/|v=|\/v\/|youtu\.be\/|\/embed\/)/);
 
     if(id[2] !== undefined) {
-      filmId = id[2].split(/[^0-9a-z_\-]/i);
+      //aqui dizia 'no-useless-scape' por escapar o hífen final (/[^0-9a-z_\-]/i)
+      filmId = id[2].split(/[^0-9a-z_-]/i);
       filmId = filmId[0];
     } else {
       filmId = id;
