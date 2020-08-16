@@ -24,7 +24,6 @@ function Home() {
 
   return (
       <Base>
-
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
         {categorias.length === 0 && (<div>Carregando...</div>)}
 
@@ -32,8 +31,7 @@ function Home() {
           if (i === 0) {
             return (
               <>
-              <div key={`${categoria.titulo}${categoria.id}`}>
-                <BannerMain
+                <BannerMain key="main_banner_home"
                   titulo={categorias[0].filmes[0].titulo}
                   urlHost={categorias[0].filmes[0].urlHost}
                   urlId={categorias[0].filmes[0].urlId}
@@ -41,8 +39,8 @@ function Home() {
                   ano={categorias[0].filmes[0].ano}
                   direcao={categorias[0].filmes[0].direcao}
                   cidade={categorias[0].filmes[0].cidade}
+                  categorias={categorias[0].filmes[0].categorias}
                 />
-              </div>
               <CatMenu/>
               </>
             );
@@ -58,6 +56,7 @@ function Home() {
                 )
               }
           }
+          return null;
         })}
 
 

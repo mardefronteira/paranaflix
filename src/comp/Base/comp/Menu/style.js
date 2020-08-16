@@ -1,10 +1,20 @@
 import styled from 'styled-components';
-import Button from '../Button';
+import Button from '../../../Button';
 import { Link } from 'react-router-dom';
 
 export const MenuLink = styled(Link)`
   color: var(--white);
   font-size:15px;
+  margin-right: 15px;
+  @media(max-width: 800px){
+    display:none;
+  }
+`;
+
+export const MenuAligner = styled.div`
+  color: var(--white);
+  font-size:15px;
+  align-items:{align};
 `;
 
 export const LogoImg = styled.img`
@@ -62,7 +72,7 @@ export const ButtonLink = styled(Button)`
     background-color: var(--black);
     color: var(--grayMedium);
 
-    font-size:14px;
+    font-size:12px;
     padding: 5px 10px;
   }
 `;

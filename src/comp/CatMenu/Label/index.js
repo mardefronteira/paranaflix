@@ -24,6 +24,7 @@ export const Label = styled(Link)`
 `;
 
 export const CatLabelWrapper = styled.div`
-  margin-top: 50px;
   margin-bottom: 100px;
+  padding-left: 5vw;
+  padding-right: 5vw;
 `;

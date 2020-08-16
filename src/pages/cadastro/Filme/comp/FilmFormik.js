@@ -45,6 +45,7 @@ const FilmFormik = withFormik ({
     url: Yup.string().url('Tem algo errado com a URL! Este campo aceita somente links do Vimeo ou YouTube.').required('Este campo é obrigatório.'),
   }),
   handleSubmit(values, { resetForm, setErrors, setSubmitting }) {
+
     console.log("!");
     const urlInfo = getUrlInfo(values.url);
 
@@ -54,36 +55,29 @@ const FilmFormik = withFormik ({
 
     } else if (false){
       // checar se filme já está na database
-
-      //este código deve estar fora da condicional, colei aqui só pra organizar, já que não está funcionando.
-      // const isFilmInDB = fetch(`${filmRepo.FILM_URL}?urlId=${urlInfo.filmId}`)
-      // .then(async (respostaDoServidor) => {
-      //     if(respostaDoServidor.ok) {
-      //       const resposta = await respostaDoServidor;
-      //       console.log(resposta);
-      //     //   if (resposta.length != 0) {
-      //     //     return false
-      //     //   } else {
-      //     //     return true
-      //     //   }
-      //     // }
-      //   }}).catch((err) => {console.log(err)})
-
       setErrors({ url: 'Este filme já está em nossa base de dados.'})
 
     } else { //se não houver erros
 
       // consultar os títulos das categorias e retornar a id de cada uma
       let thisCats = [];
+
       catRepo.getAll().then((categoriasDB) => {
         categoriasDB.map((categoriaDB) => {
           values.categorias.map((catTitulo) => {
             if (catTitulo === categoriaDB.titulo){
               thisCats.push(categoriaDB.id);
-            
+
+              console.log(thisCats)
             }
+            return null;
           })
+          return null;
         })
+      }).then(() => {
+        // adicionar o filme às categorias
+        console.log(`dados passados ao addFilmToCat: ${urlInfo.filmId} e ${thisCats}`); //ok
+        catRepo.addFilmToCat(urlInfo.filmId, thisCats);
       })
 
       // calcular a década e pegar a id de categoria correspondente
@@ -102,7 +96,7 @@ const FilmFormik = withFormik ({
       const thisFilm = {
         ano: values.ano,
         categoriaId: catId,
-        categorias: thisCats,
+        categorias: values.categorias, // >>> adicionar os valores em ID em vez de título?
         cidade: values.cidade,
         direcao: values.direcao,
         duracao: values.duracao,
@@ -118,9 +112,9 @@ const FilmFormik = withFormik ({
       filmRepo.newFilm(thisFilm);
 
       console.log(thisFilm);
-
       // resetar formulário
       resetForm();
+
     }
 
     setSubmitting(false);

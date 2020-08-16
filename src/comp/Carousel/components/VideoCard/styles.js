@@ -2,8 +2,6 @@ import styled from 'styled-components';
 import { Link } from 'react-router-dom';
 
 export const Desc = styled.div`
-grid-column: 1;
-grid-row: 1;
 text-decoration: none;
 overflow: hidden;
 cursor: pointer;
@@ -17,11 +15,16 @@ margin: 1em 1em;
 opacity:0;
 
 transition: opacity 1s;
+
+@media(max-width: 800px){
+  opacity: 1;
+  padding-bottom: 5vh;
+}
 `;
 
 export const VideoCardContainer = styled(Link)`
 
-  border: 2px solid;
+  border: 1px solid;
   border-radius: 4px;
   text-decoration: none;
   overflow: hidden;
@@ -29,6 +32,7 @@ export const VideoCardContainer = styled(Link)`
   color: white;
   flex: 0 0 298px;
   width: 298px;
+  max-width: 100%;
   height: 197px;
   background-image: ${({ url }) => `url(${url})`};
   background-size: cover;

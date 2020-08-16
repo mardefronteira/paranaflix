@@ -18,7 +18,7 @@ export default function BannerMain({
     <BannerMainContainer>
       <ContentAreaContainer>
         <ContentAreaContainer.Info>
-          <ContentAreaContainer.Title>
+          <ContentAreaContainer.Title to={`/filme/${urlId}`}>
             {titulo}
           </ContentAreaContainer.Title>
           <ContentAreaContainer.Description>
@@ -28,9 +28,12 @@ export default function BannerMain({
            {sinopse}
           </ContentAreaContainer.Description>
           { outras && <ContentAreaContainer.Description>
-           {outras}
-         </ContentAreaContainer.Description>
-        }
+             {outras}
+           </ContentAreaContainer.Description>
+          }
+          <ContentAreaContainer.Description>
+          {`• ${categorias.join(" • ")} •`}
+        </ContentAreaContainer.Description>
         </ContentAreaContainer.Info>
 
         <ContentAreaContainer.Video>

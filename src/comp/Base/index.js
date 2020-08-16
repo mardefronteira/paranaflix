@@ -1,15 +1,16 @@
 import React from 'react';
-import Menu from '../Menu';
-import Footer from '../Footer';
+import Menu from './comp/Menu';
+import Footer from './comp/Footer';
 import styled from 'styled-components';
 
 const Main = styled.main`
+width: 100%;
  background-color: var(--grayDark);
  color: var(--white);
  flex: 1;
  padding-top: 94px;
- padding-left: 5vw;
- padding-right: 5vw;
+ padding-left: 0;
+ padding-right: 0;
 
  @media(max-width:800px) {
    padding-top:60px;

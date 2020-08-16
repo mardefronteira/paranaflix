@@ -4,56 +4,103 @@
       "cor": "#079eab",
       "desc": "Filmes realizados até o ano 1979",
       "titulo": "Antes de 1979",
-      "filmes": [],
+      "filmes": [
+        1,
+        2,
+        3,
+        "256357187",
+        "jGWoXPxi3Fs",
+        "ihC_-edD63o",
+        "eJWVaWzK2DE"
+      ],
       "id": 1
     },
     {
       "cor": "#0770bc",
       "desc": "Filmes realizados entre 1980 e 1989.",
       "titulo": "Década de 1980",
-      "filmes": [],
+      "filmes": [
+        "256357187",
+        "eJWVaWzK2DE",
+        "jGWoXPxi3Fs",
+        "ihC_-edD63o"
+      ],
       "id": 2
     },
     {
       "cor": "#008f9f",
       "desc": "Filmes realizados entre 1990 e 1999.",
       "titulo": "Década de 1990",
-      "filmes": [],
+      "filmes": [
+        "eJWVaWzK2DE",
+        "jGWoXPxi3Fs",
+        "256357187",
+        "ihC_-edD63o"
+      ],
       "id": 3
     },
     {
       "cor": "#1fab57",
       "desc": "Filmes realizados entre 2000 e 2009.",
       "titulo": "Década de 2000",
-      "filmes": [],
+      "filmes": [
+        "eJWVaWzK2DE"
+      ],
       "id": 4
     },
     {
       "cor": "#12ba73",
       "desc": "Filmes realizados entre 2010 e 2019.",
       "titulo": "Década de 2010",
-      "filmes": [],
+      "filmes": [
+        "256357187"
+      ],
       "id": 5
     },
     {
       "cor": "#0086c6",
       "desc": "Filmes realizados entre 2020 e 2029.",
       "titulo": "Década de 2020",
-      "filmes": [],
+      "filmes": [
+        "jGWoXPxi3Fs"
+      ],
       "id": 6
     },
     {
       "cor": "#ff8040",
       "desc": "Filmes de animação em qualquer técnica.",
       "titulo": "Animação",
-      "filmes": [],
+      "filmes": [
+        "ihC_-edD63o",
+        "256357187",
+        "jGWoXPxi3Fs",
+        "eJWVaWzK2DE",
+        "256357187",
+        "jGWoXPxi3Fs",
+        "eJWVaWzK2DE",
+        "ihC_-edD63o",
+        "jGWoXPxi3Fs",
+        "256357187"
+      ],
       "id": 7
     },
     {
       "cor": "#ff80c0",
       "desc": "Documentários",
       "titulo": "Documentário",
-      "filmes": [],
+      "filmes": [
+        "jGWoXPxi3Fs",
+        "eJWVaWzK2DE",
+        "jGWoXPxi3Fs",
+        "eJWVaWzK2DE",
+        "ihC_-edD63o",
+        "jGWoXPxi3Fs",
+        "256357187",
+        "ihC_-edD63o",
+        "jGWoXPxi3Fs",
+        "256357187",
+        "wRBWFDu-Zgc"
+      ],
       "id": 8
     }
   ],
@@ -133,6 +180,23 @@
       "urlHost": "youtube",
       "mostrar": true,
       "id": 4
+    },
+    {
+      "ano": 1970,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário"
+      ],
+      "cidade": "Da gringa",
+      "direcao": "Nem sei",
+      "duracao": "curtin",
+      "outras": "Ele é casado com Janet Marie Kyle, normalmente referida como \"Jay\" (Tisha Campbell), que era uma dona de casa, mas começou a trabalhar, (mas decidiu tornar-se uma dona de casa mais uma vez depois que ela foi demitida de seu trabalho na temporada dois, episódios \"Jay Gets Fired\"). ",
+      "sinopse": "A série tinha como premissa um comerciante de meia idade, Michael Richard Kyle, interpretado por (Damon Wayans), dono de uma empresa de caminhões e mora com a sua família nos subúrbios de Stamford, Connecticut.",
+      "titulo": "O título de um filme",
+      "urlId": "wRBWFDu-Zgc",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "id": 5
     }
   ]
 }

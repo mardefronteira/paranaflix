@@ -1,5 +1,9 @@
 import styled, { css } from 'styled-components';
 
+export const FormWrapper = styled.div`
+  padding: 5vh 5vw;
+`;
+
 export const CatButton = styled.span`
   background:none;
   color: var(--white);
@@ -111,10 +115,11 @@ export const Input = styled.input`
     transform: scale(.6) translateY(-10px);
   }
 
-  ${({ hasValue }) => {
+  ${({ hasvalue }) => {
     /* && avalia o primeiro valor: se for falso, retorna falso,
     se verdadeiro, retorna o segundo valor. */
-    return hasValue && css`
+
+    return hasvalue && css`
       &:not([type="color"]) + span {
         transform: scale(.6) translateY(-10px);
       }
@@ -127,7 +132,7 @@ export const Select = styled.select`
   color: var(--primary);
 
   display: inline-block;
-  width: 55%;
+  width: 30%;
   max-width: 500px;
   height: 40px;
   font-size: 15px;

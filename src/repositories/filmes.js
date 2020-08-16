@@ -13,13 +13,12 @@ function newFilm(objInfo) {
     .then(async (respostaDoServidor) => {
         if(respostaDoServidor.ok) {
           const resposta = await respostaDoServidor.json();
-          return resposta;
+          console.log("filme adicionado! >> ",resposta);
         }
 
-        throw new Error('Deu ruim nos dados :(');
+        // throw new Error('Deu ruim nos dados :(');
       });
 }
-
 
 function getOne(filmId) {
   return fetch(`${FILM_URL}?urlId=${filmId}`)

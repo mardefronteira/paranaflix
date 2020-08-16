@@ -4,13 +4,14 @@ import { Link } from 'react-router-dom';
 export const Title = styled(Link)`
   font-style: normal;
   font-weight: normal;
-  font-size: 25px;
+  font-size: 20px;
   line-height: 1;
   margin-bottom: 16px;
   display: inline-block;
   text-decoration:none;
-  padding: 20px;
-  background: red;
+  padding: 10px 15px;
+  background: none;
+  border: 3px solid;
   line-height: 1;
   border-radius: 4px;
 
@@ -36,7 +37,8 @@ export const VideoCardList = styled.ul`
 
 export const VideoCardGroupContainer = styled.section`
   color: white;
+  padding-left: 5vw;
+  padding-right: 5vw;
   min-height: 197px;
-  margin-left: 5%;
   margin-bottom: 16px;
 `;

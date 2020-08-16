@@ -1,7 +1,6 @@
 import React from 'react';
 import { Form, Field, FieldArray, ErrorMessage } from 'formik';
 import CatOptions from './CatOptions';
-import { Link } from 'react-router-dom';
 
 import { Input, CatButton, CatButtonX, Select } from '../../style.js';
 import FormField from '../../FormField';
@@ -21,7 +20,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="titulo"
-        hasValue = {values.titulo !== '' ? true : false}
+        hasvalue = {values.titulo !== '' ? 1 : 0}
       />
     </FormField>
 
@@ -33,7 +32,7 @@ const FilmForm = ({
         type="number"
         as={Field}
         name="ano"
-        hasValue = {values.ano !== '' ? true : false}
+        hasvalue = {values.ano !== '' ? 1 : 0}
         />
     </FormField>
 
@@ -44,7 +43,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="duracao"
-        hasValue = {values.duracao !== '' ? true : false}
+        hasvalue = {values.duracao !== '' ? 1 : 0}
         />
     </FormField>
 
@@ -55,7 +54,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="cidade"
-        hasValue = {values.cidade !== '' ? true : false}
+        hasvalue = {values.cidade !== '' ? 1 : 0}
       />
     </FormField>
 
@@ -66,7 +65,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="direcao"
-        hasValue = {values.direcao !== '' ? true : false}
+        hasvalue = {values.direcao !== '' ? 1 : 0}
       />
     </FormField>
 
@@ -78,7 +77,7 @@ const FilmForm = ({
         type="url"
         as={Field}
         name="url"
-        hasValue = {values.url !== '' ? true : false}
+        hasvalue = {values.url !== '' ? 1 : 0}
         />
     </FormField>
 
@@ -89,7 +88,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="sinopse"
-        hasValue = {values.sinopse !== '' ? true : false}
+        hasvalue = {values.sinopse !== '' ? 1 : 0}
         />
     </FormField>
 
@@ -100,7 +99,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="outras"
-        hasValue = {values.outras !== '' ? true : false}
+        hasvalue = {values.outras !== '' ? 1 : 0}
         />
     </FormField>
 
@@ -111,7 +110,7 @@ const FilmForm = ({
               <p id="catLabel">Categorias:</p>
               <p>{values.categorias.map((thisCat) => {
                   return(
-                    <CatButton>{thisCat}
+                    <CatButton key={`catbutton_${thisCat}`}>{thisCat}
                       <CatButtonX value={thisCat} id={thisCat} as="button" type="button" onClick={() => {
                       let index = values.categorias.indexOf(thisCat);
                       remove(index);
@@ -137,12 +136,18 @@ const FilmForm = ({
                 >
                 adicionar
               </CatButton>
+
+
+              {/*
+              Link para criação de categoria retirado.
               <p>
               Faltou algo? &nbsp;
               <Link to="/nova_categoria">
               Crie uma nova categoria.
               </Link>
-            </p>
+              </p>
+              */}
+
           </div>
         )}
       </FieldArray>

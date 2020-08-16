@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import { Link } from 'react-router-dom';
 
 export const ContentAreaContainer = styled.section`
   margin-left: 5%;
@@ -9,8 +10,9 @@ export const ContentAreaContainer = styled.section`
   justify-content: center;
   position: relative;
   z-index: 10;
+
   @media (max-width: 800px) {
-    padding-top: 100px;
+    padding-top: 5vh;
     flex-direction: column;
   }
 `;
@@ -19,11 +21,13 @@ ContentAreaContainer.Info = styled.div`
   width: 40%;
   display: inline-block;
   margin-left: 5%;
+  margin-right: 5%;
   margin-bottom: 50px;
   text-align: justify;
   text-justify: inter-word;
   @media (max-width: 800px) {
     width: 100%;
+    margin-bottom: 0;
   }
 `;
 
@@ -32,45 +36,29 @@ ContentAreaContainer.Video = styled.div`
   display: inline-block;
   margin-left: 5%;
   margin-bottom: 50px;
-  @media (max-width: 800px) {
-    width: 100%;
-  }
-`;
-
-ContentAreaContainer.Category = styled.h1`
-  font-family: Roboto;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 60px;
-  line-height: 70px;
-  display: flex;
-  align-items: center;
-  text-align: center;
-  display: inline-block;
-  padding: 25px;
-  line-height: 1;
-  border-radius: 4px;
 
   @media (max-width: 800px) {
-    display: none;
-    font-size: 18px;
-    padding: 10px;
+    width: 90vw;
+    margin-left: 0;
+    margin-bottom: 10vh;
   }
 `;
 
 ContentAreaContainer.Description = styled.p`
+  color: var(--grayMedium);
   @media (max-width: 800px) {
-    display: none;
+    font-size: .9em;
   }
 `;
 
-ContentAreaContainer.Title = styled.h2`
+ContentAreaContainer.Title = styled(Link)`
   font-style: normal;
   font-weight: 300;
   font-size: 40px;
   line-height: 1;
   margin-top: 0;
   margin-bottom: 32px;
+  text-decoration: none;
 
   @media (max-width: 800px) {
     font-size: 32px;
@@ -79,13 +67,9 @@ ContentAreaContainer.Title = styled.h2`
 `;
 
 export const BannerMainContainer = styled.section`
-  height: 80vh;
+  height: 75vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`};
-  background-size: cover;
-  background-position: center;
-
 
   @media (max-width: 800px) {
     height: auto;
@@ -100,17 +84,17 @@ export const BannerMainContainer = styled.section`
     left: 0;
     right: 0;
     margin: auto;
-    height: 20%;
+    height: 40%;
   }
 
   &:before {
     top: 0;
     height: 100%;
-    background: rgba(0,0,0,0.5);
+    background: var(--grayBanner);
   }
 
   &:after {
     bottom: 0;
-    background: linear-gradient(0deg, #141414 0%, transparent 100%);
+    background: linear-gradient(0deg, var(--grayDark) 0%, transparent 100%);
   }
 `;

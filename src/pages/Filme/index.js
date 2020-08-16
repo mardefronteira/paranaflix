@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import { useParams } from 'react-router-dom';
 import BannerMain from '../../comp/BannerMain';
+import CatMenu from '../../comp/CatMenu';
 import Base from '../../comp/Base';
 import filmRepo from '../../repositories/filmes';
 import { FinalNote } from './style.js'
@@ -10,7 +11,7 @@ function Filme() {
   let { id } = useParams();
   const filmId = id;
 
-  console.log(id, filmId);
+  // console.log(id, filmId);
 
   const [filmes, setFilmes] = useState([]);
 
@@ -51,6 +52,8 @@ function Filme() {
         <FinalNote>
           Caso queira modificar informações ou retirar este filme da plataforma, contate-nos através do email <a href = "mailto: paranaflix@pm.me">paranaflix@pm.me</a>.
         </FinalNote>
+
+       <CatMenu />
       </Base>
   );
 }

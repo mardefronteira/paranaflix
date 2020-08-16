@@ -14,10 +14,14 @@ function CatOptions (children) {
 
   return (
     <>
-    {categorias.map((categoria) => {
-      return (
-        <option key={categoria.titulo} value={categoria.titulo}>{categoria.titulo}</option>
-      );
+    {categorias.map((categoria,index) => {
+      if(index>5){
+        return (
+          <option key={categoria.titulo} value={categoria.titulo}>{categoria.titulo}</option>
+        )
+      } else {
+        return null;
+      }
     })}
     </>
   )

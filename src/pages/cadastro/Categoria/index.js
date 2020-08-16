@@ -39,13 +39,15 @@ function CadastroCategoria() {
         <h3>Categorias cadastradas:</h3>
         <ul>
           {categorias.map((categoria, indice) => {
-            if(indice > 6){
+            if(indice > 5){
               return (
                   <li key={`${categoria.titulo}${categoria.id}`}>
                     <strong>{categoria.titulo}</strong><br />
                     {categoria.desc}
                   </li>
-              )}
+              )} else {
+                return null;
+              }
           })}
         </ul>
 
