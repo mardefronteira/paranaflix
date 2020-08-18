@@ -4,6 +4,7 @@ import Carousel from '../../comp/Carousel';
 import Base from '../../comp/Base';
 import CatMenu from '../../comp/CatMenu';
 import catRepo from '../../repositories/categorias';
+import filmRepo from '../../repositories/filmes';
 
 function Home() {
 
@@ -22,8 +23,28 @@ function Home() {
     })
   }, []);
 
+  // const [destaque, setDestaque] = useState({})
+  var destaque = {}
+
+  useEffect(() => {
+    filmRepo.getHighlight()
+    .then((filmeDestaque) => {
+
+      console.log(filmeDestaque);
+      // setDestaque(filmeDestaque);
+
+      destaque = filmeDestaque;
+      console.log(destaque);
+
+    }).catch((err) => {
+      console.log("Não foi possível acessar a database. Será que não sobrou uma vírgula no fim do arquivo da DB?", err);
+    })
+  }, []);
+
   return (
       <Base>
+        {destaque != {} && <div>ROLOU!!!</div>}
+
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
         {categorias.length === 0 && (<div>Carregando...</div>)}
 
@@ -32,14 +53,14 @@ function Home() {
             return (
               <>
                 <BannerMain key="main_banner_home"
-                  titulo={categorias[0].filmes[0].titulo}
-                  urlHost={categorias[0].filmes[0].urlHost}
-                  urlId={categorias[0].filmes[0].urlId}
-                  sinopse={categorias[0].filmes[0].sinopse}
-                  ano={categorias[0].filmes[0].ano}
-                  direcao={categorias[0].filmes[0].direcao}
-                  cidade={categorias[0].filmes[0].cidade}
-                  categorias={categorias[0].filmes[0].categorias}
+                  titulo={""}
+                  urlHost={""}
+                  urlId={""}
+                  sinopse={""}
+                  ano={""}
+                  direcao={""}
+                  cidade={""}
+                  categorias={["",""]}
                 />
               <CatMenu/>
               </>
@@ -47,14 +68,13 @@ function Home() {
           }
           if (i < 7) {
              let index = 6-i;
-             if(categorias[index].filmes.length > 0){
                 return (
                   <Carousel
                     key={`${categorias[index].titulo}${categorias[index].id}`}
                     category={categorias[index]}
                   />
                 )
-              }
+
           }
           return null;
         })}

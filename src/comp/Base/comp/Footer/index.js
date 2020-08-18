@@ -1,5 +1,5 @@
 import React from 'react';
-import { FooterBase, FooterItem } from './styles';
+import { FooterBase } from './styles';
 import { Link } from 'react-router-dom';
 
 function Footer() {

@@ -49,7 +49,7 @@ const CatFormik =
         filmes: []
       }
       catRepo.newCat(thisCat);
-      console.log(thisCat);
+      
       resetForm();
       alert("Categoria cadastrada!");
       return (BackToFilm())

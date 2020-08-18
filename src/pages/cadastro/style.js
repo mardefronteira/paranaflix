@@ -1,5 +1,13 @@
 import styled, { css } from 'styled-components';
 
+
+export const Warning = styled.div`
+  color:red;
+  padding-left: 10px;
+  position: relative;
+  font-size: 15px;
+`;
+
 export const FormWrapper = styled.div`
   padding: 5vh 5vw;
 `;
@@ -84,7 +92,7 @@ export const LabelText=styled.span`
 `;
 
 export const Input = styled.input`
-  background: var(--grayMedium);
+  background: var(--grayLight);
   color: var(--primary);
 
   display: block;
@@ -128,7 +136,7 @@ export const Input = styled.input`
 `;
 
 export const Select = styled.select`
-  background: var(--grayMedium);
+  background: var(--grayLight);
   color: var(--primary);
 
   display: inline-block;

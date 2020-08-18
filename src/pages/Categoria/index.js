@@ -76,12 +76,12 @@ function GetCatInfo() {
                 return (
                   <GridPosition key={`${filme.urlId}_${i}`} column = {i%4} row={i/4}>
                     <VideoCard
-                      titulo={filme.titulo || "titulo"}
-                      sinopse={filme.sinopse || "sinopse"}
-                      ano={filme.ano || "ano"}
-                      id={filme.urlId || "zVhn9WT-Xqg"}
-                      host={filme.urlHost || "youtube"}
-                      categoryColor={catInfo.cor || "blue"}
+                      titulo={filme.titulo || ""}
+                      sinopse={filme.sinopse || ""}
+                      ano={filme.ano || ""}
+                      id={filme.urlId || ""}
+                      host={filme.urlHost || ""}
+                      categoryColor={catInfo.cor || ""}
                     />
                 </GridPosition>
                 )

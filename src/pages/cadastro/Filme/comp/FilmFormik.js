@@ -46,7 +46,6 @@ const FilmFormik = withFormik ({
   }),
   handleSubmit(values, { resetForm, setErrors, setSubmitting }) {
 
-    console.log("!");
     const urlInfo = getUrlInfo(values.url);
 
     //checar se a URL gerou uma id consistente
@@ -68,7 +67,6 @@ const FilmFormik = withFormik ({
             if (catTitulo === categoriaDB.titulo){
               thisCats.push(categoriaDB.id);
 
-              console.log(thisCats)
             }
             return null;
           })
@@ -76,7 +74,6 @@ const FilmFormik = withFormik ({
         })
       }).then(() => {
         // adicionar o filme às categorias
-        console.log(`dados passados ao addFilmToCat: ${urlInfo.filmId} e ${thisCats}`); //ok
         catRepo.addFilmToCat(urlInfo.filmId, thisCats);
       })
 
@@ -105,13 +102,13 @@ const FilmFormik = withFormik ({
         titulo: values.titulo,
         urlId: urlInfo.filmId,
         urlHost: urlInfo.filmHost,
-        mostrar: true
+        mostrar: true,
+        destaque: false
       }
 
       // adicionar filme à database
       filmRepo.newFilm(thisFilm);
 
-      console.log(thisFilm);
       // resetar formulário
       resetForm();
 

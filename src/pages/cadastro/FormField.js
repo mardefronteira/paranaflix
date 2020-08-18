@@ -1,6 +1,6 @@
 import React from 'react';
 import PropTypes from 'prop-types';
-import { FormFieldWrapper, LabelText } from './style.js';
+import { FormFieldWrapper, LabelText, Warning } from './style.js';
 import { ErrorMessage } from 'formik';
 
 
@@ -10,10 +10,12 @@ function FormField({ label, name, children }){
     <FormFieldWrapper>
       <label>
           {children}
+
         <LabelText
           htmlFor={ name }>
           {label}
-          <ErrorMessage name={ name }>{(msg) => <div><br/>{msg}</div>}</ErrorMessage>
+          <ErrorMessage name={ name }>{(msg) => <Warning>
+            {msg}</Warning>}</ErrorMessage>
         </LabelText>
      </label>
   </FormFieldWrapper>
