@@ -64,7 +64,7 @@ function getHighlight() {
     .then(async (respostaDoServidor) => {
         if(respostaDoServidor.ok) {
           const resposta = await respostaDoServidor.json();
-          return resposta[0];
+          return resposta;
         }
 
         throw new Error('Deu ruim nos dados :(');

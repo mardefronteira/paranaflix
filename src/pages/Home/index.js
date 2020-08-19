@@ -23,18 +23,12 @@ function Home() {
     })
   }, []);
 
-  // const [destaque, setDestaque] = useState({})
-  var destaque = {}
+  const [destaque, setDestaque] = useState([])
 
   useEffect(() => {
     filmRepo.getHighlight()
     .then((filmeDestaque) => {
-
-      console.log(filmeDestaque);
-      // setDestaque(filmeDestaque);
-
-      destaque = filmeDestaque;
-      console.log(destaque);
+    setDestaque(filmeDestaque);
 
     }).catch((err) => {
       console.log("Não foi possível acessar a database. Será que não sobrou uma vírgula no fim do arquivo da DB?", err);
@@ -43,31 +37,32 @@ function Home() {
 
   return (
       <Base>
-        {destaque != {} && <div>ROLOU!!!</div>}
+        {destaque.length === 0 && console.log("chegou esse destaque: ",destaque)}
+
+        {destaque.map((filme) => {
+          return (
+            <>
+              <BannerMain key="main_banner_home"
+                titulo={filme.titulo}
+                urlHost={filme.urlHost}
+                urlId={filme.urlId}
+                sinopse={filme.sinopse}
+                ano={filme.ano}
+                direcao={filme.direcao}
+                cidade={filme.cidade}
+                categorias={filme.categorias}
+              />
+            <CatMenu/>
+            </>
+          );
+        })}
 
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
         {categorias.length === 0 && (<div>Carregando...</div>)}
 
         {categorias.map((categoria, i) => {
-          if (i === 0) {
-            return (
-              <>
-                <BannerMain key="main_banner_home"
-                  titulo={""}
-                  urlHost={""}
-                  urlId={""}
-                  sinopse={""}
-                  ano={""}
-                  direcao={""}
-                  cidade={""}
-                  categorias={["",""]}
-                />
-              <CatMenu/>
-              </>
-            );
-          }
-          if (i < 7) {
-             let index = 6-i;
+          if (i < 6) {
+             let index = 5-i;
                 return (
                   <Carousel
                     key={`${categorias[index].titulo}${categorias[index].id}`}
