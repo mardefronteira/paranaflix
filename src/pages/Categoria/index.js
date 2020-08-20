@@ -3,6 +3,7 @@ import { useParams } from 'react-router-dom';
 import Base from '../../comp/Base';
 import filmRepo from '../../repositories/filmes';
 import catRepo from '../../repositories/categorias';
+import {Helmet} from 'react-helmet';
 
 import VideoCard from '../../comp/Carousel/components/VideoCard';
 
@@ -63,6 +64,10 @@ function GetCatInfo() {
   }, [filmIdList])
 
   return (
+    <>
+      <Helmet>
+        <title>Paranáflix{catInfo.titulo != undefined ? ` - ${catInfo.titulo}` : ""}</title>
+      </Helmet>
       <Base>
         <ContentWrapper>
         <Title>
@@ -92,6 +97,7 @@ function GetCatInfo() {
 
       </ContentWrapper>
     </Base>
+    </>
     );
 
 }

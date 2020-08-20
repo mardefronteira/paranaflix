@@ -43,8 +43,7 @@ function getOne(filmId) {
           return resposta;
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 function getAll() {
@@ -55,8 +54,7 @@ function getAll() {
           return resposta;
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 function getHighlight() {
@@ -67,8 +65,7 @@ function getHighlight() {
           return resposta;
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 

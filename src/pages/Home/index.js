@@ -5,6 +5,7 @@ import Base from '../../comp/Base';
 import CatMenu from '../../comp/CatMenu';
 import catRepo from '../../repositories/categorias';
 import filmRepo from '../../repositories/filmes';
+import {Helmet} from 'react-helmet';
 
 function Home() {
 
@@ -36,8 +37,12 @@ function Home() {
   }, []);
 
   return (
+    <>
+      <Helmet>
+        <title>Paranáflix</title>
+      </Helmet>
       <Base>
-        {destaque.length === 0 && console.log("chegou esse destaque: ",destaque)}
+        {/*destaque.length === 0 && console.log("chegou esse destaque: ",destaque)*/}
 
         {destaque.map((filme) => {
           return (
@@ -76,6 +81,7 @@ function Home() {
 
 
       </Base>
+      </>
   );
 }
 

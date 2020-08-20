@@ -3,6 +3,8 @@ import Base from '../../../comp/Base';
 import { Link } from 'react-router-dom';
 import { FinalNote } from '../style.js';
 import CatFormik from './comp/CatFormik';
+import {Helmet} from 'react-helmet';
+
 
 
 function CadastroCategoria() {
@@ -30,6 +32,10 @@ function CadastroCategoria() {
   }, []);
 
   return (
+    <>
+      <Helmet>
+        <title>Paranáflix - Nova categoria</title>
+      </Helmet>
     <Base>
       <h1>Nova categoria</h1>
 
@@ -58,6 +64,7 @@ function CadastroCategoria() {
         </FinalNote>
 
     </Base>
+    </>
   )
 }
 

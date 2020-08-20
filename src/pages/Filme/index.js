@@ -5,6 +5,7 @@ import CatMenu from '../../comp/CatMenu';
 import Base from '../../comp/Base';
 import filmRepo from '../../repositories/filmes';
 import { FinalNote } from './style.js'
+import {Helmet} from 'react-helmet';
 
 function Filme() {
 
@@ -29,6 +30,10 @@ function Filme() {
   }, []);
 
   return (
+    <>
+      <Helmet>
+        <title>Paranáflix{filmes.length > 0 ? ` - ${filmes[0].titulo}` : ""}</title>
+      </Helmet>
       <Base>
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
         {filmes.length === 0 && (<div>Carregando...</div>)}
@@ -55,6 +60,7 @@ function Filme() {
 
        <CatMenu />
       </Base>
+      </>
   );
 }
 

@@ -70,8 +70,7 @@ function getAllWithVideos() {
           return resposta;
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 function getCatWithFilms(catId) {
@@ -82,8 +81,7 @@ function getCatWithFilms(catId) {
           return resposta[0];
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 function getAll() {
@@ -94,8 +92,7 @@ function getAll() {
           return resposta;
         }
 
-        throw new Error('Deu ruim nos dados :(');
-      });
+      }).catch((err) => {console.log(err)});
 }
 
 function getCat(catId) {
@@ -107,7 +104,6 @@ function getCat(catId) {
 
           return resposta;
         }
-        throw new Error('Deu ruim nos dados :(');
   }).catch((err)=>{console.log(err)});
 }
 
