@@ -76,7 +76,9 @@
         "49ZjBoQR5iU",
         "13146534",
         "87245795",
-        "217713189"
+        "217713189",
+        "ihC_-edD63o",
+        "1826001512f6284b211"
       ],
       "id": 8
     },
@@ -86,7 +88,8 @@
       "titulo": "Animação",
       "filmes": [
         "nNXszan9nxk",
-        "nLql39jPv00"
+        "nLql39jPv00",
+        "ihC_-edD63o"
       ],
       "id": 9
     },
@@ -102,7 +105,8 @@
         "3A-lQzrXCYg",
         "s1okrWkRLys",
         "13160858",
-        "HAW8TpF668E"
+        "HAW8TpF668E",
+        "CcoIc4vlixA"
       ],
       "id": 10
     },
@@ -122,7 +126,8 @@
         "wA-pFpEyguE",
         "jx__v2Dku18",
         "13146534",
-        "HAW8TpF668E"
+        "HAW8TpF668E",
+        "CcoIc4vlixA"
       ],
       "id": 12
     },
@@ -154,7 +159,9 @@
         "-ZRcgkU_Ktk",
         "217713189",
         "HAW8TpF668E",
-        "jGWoXPxi3Fs"
+        "jGWoXPxi3Fs",
+        "ihC_-edD63o",
+        "1826001512f6284b211"
       ],
       "id": 13
     },
@@ -162,7 +169,9 @@
       "cor": "#0086c6",
       "desc": "",
       "titulo": "Média-metragem",
-      "filmes": [],
+      "filmes": [
+        "CcoIc4vlixA"
+      ],
       "id": 14
     },
     {
@@ -187,7 +196,9 @@
         "k1Y4v0JXNTs",
         "3A-lQzrXCYg",
         "s1okrWkRLys",
-        "217713189"
+        "217713189",
+        "ihC_-edD63o",
+        "CcoIc4vlixA"
       ],
       "id": 16
     },
@@ -997,6 +1008,135 @@
       "mostrar": true,
       "destaque": false,
       "id": 29
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Animação",
+        "Ficção",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Francisco Gusso e Pedro Giongo",
+      "duracao": "13 min",
+      "outras": "Tango é uma animação stop-motion, produzida entre os anos de 2015 e 2016, em Curitiba/PR. Uma obra impregnada por sentimentos latentes que dominaram o período pré-golpe presidencial. Sentimentos que serviram para destruir a confiança conquistada pelo povo em relação a soberania de uma  democracia verdadeira. Tempos confusos, de revolta e desequilíbrios que terminariam por fim dividindo o Brasil em duas grandes polaridades conflitantes. Tango fala sobre o surgimento e insurreição de mitos. Tango é a eterna profecia de um futuro melhor. Aprecie o amor, a desolação, a histeria e o sacrifício neste filme repleto de inspiração e simbolismos.   Uma livre adaptação do conto “Um Artista da Fome”de Franz Kafka, Tango é um mergulho na psique humana em todas as suas contradições.",
+      "producao": "",
+      "equipe": "roteiro e direção  Francisco Gusso e Pedro Giongo direção de arte e animação  Jéssica Luz, Francisco Gusso e Pedro Giongo pintura  Mario de Alencar, Jéssica Luz personagens  Francisco Gusso cenários Jéssica Luz montagem de bonecos Victória Rossini assistente de animação José Augusto trilha sonora Francisco Gusso e Pedro Giongo músicos convidados Alexandre Stresser, Bruno Silvério, Lígia Teixeira desenho de som Alexandre Rogoski e Pedro Giongo montagem Pedro Giongo finalização Guilherme Delamuta dublagem William Biagioli, Francisco Gusso, Gato Fritz, Jéssica Luz, Nathália Tereza e Pedro Giongo produção  Antonio Junior, Ligia Teixeira, Francisco Gusso e Pedro Giongo",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Após anos de seca, uma batata mágica brota nas distantes nascentes do rio Aiatak. Em breve tudo estará preparado para o grande ritual de Tango. Para o povo de Mapugundum, este é o início de uma nova era.",
+      "titulo": "Tango",
+      "urlId": "ihC_-edD63o",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 30
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Média-metragem",
+        "Cineclube Aurora",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Pedro Monte Kling",
+      "duracao": "45 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Anos após o fim de uma experiência traumática, de vícios, descobertas e angústias profundas, Paulo regressa ao lugar onde tudo começou. Dessa vez, entretanto, ele não esconde seu nome verdadeiro.",
+      "titulo": "Fale com estranhos",
+      "urlId": "CcoIc4vlixA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 31
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "William Biagioli",
+      "duracao": "16 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Jean é um imigrante haitiano que veio para o Brasil. Para sobreviver, ele arruma emprego em um estacionamento de carros e passa a viver lá. Jean descobrirá que essa rotina pode ser enlouquecedora. ",
+      "titulo": "O estacionamento",
+      "urlId": "1826001512f6284b211",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 32
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Cauby Monteiro",
+      "duracao": "28 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "ELENCO Cauby Monteiro, Beatriz Tomilhero Rosa, Erick Moro, Miguel Haoni, Eduardo Savella, Fernando Costa, Guilherme Daldin e Heloisa Reitenbach.  EQUIPE Cauby Monteiro (diretor/produtor/escritor) Giovanni Comodo (produtor/diretor de arte) Matheus Kerniski (escritor/diretor assistente) Erick Moro (diretor assistente) Lucas Kosinski (diretor de fotografia) Eduardo Savella (assistente de fotografia) Fernando Costa (assistente de fotografia) Pedro Favaro (som direto) Alexandre Magno (assistente de som) Christofer Pallu (editor/colorista/desenho de som/mix) Ludwig van Beethoven (música)",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O péssimo dia de um cineclubista na Cinemateca de Curitiba. Uma estranha que se projeta na tela muda seu rumo.",
+      "titulo": "Uma tarde na Cinemateca",
+      "urlId": "DAmZbMfH5ks",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 33
+    },{
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Média-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Paula Negri",
+      "duracao": "36 min",
+      "outras": "Direção: Paula Negri Produção: Miguel Haoni e Giovanni Comodo Roteiro: Paula Negri e Murilo Coelho Fotografia: Eduardo Savella Ass. Foto: Pedro Bento Arte: Leticia Weber Jarek Ass. Arte: Diego Marchioro Som: Felipe Ribeiro  Ass. Som: Mariana Hodniuk Assistente de direção: Lou Bueno Montagem: Cauby Monteiro Finalização: Lucas Kosinski Elenco: Gerrah Tenfuss e Marina Cananda",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "João está desencantado com a vida e passa seus dias trabalhando numa locadora. Sem aviso, uma nova cliente aparece e lhe faz uma proposta.",
+      "titulo": "Encontro",
+      "urlId": "eJWVaWzK2DE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 31
     }
   ]
 }
