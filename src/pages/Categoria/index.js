@@ -21,7 +21,7 @@ const [catInfo, setCatInfo] = useState([]);
 
 function GetCatInfo() {
     useEffect(() => {
-      if(catId > 5) {
+      if(catId > 6) {
         catRepo.getCat(catId)
         .then((dbCatInfo) => {
             setCatInfo(dbCatInfo)

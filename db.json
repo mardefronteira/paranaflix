@@ -59,7 +59,13 @@
         "wA-pFpEyguE",
         "jx__v2Dku18",
         "HAW8TpF668E",
-        "jGWoXPxi3Fs"
+        "jGWoXPxi3Fs",
+        "i9NA72pGkFk",
+        "wXqA589aTxE",
+        "2lW528AXLKI",
+        "135074275",
+        "zvqmZLtiZic",
+        "VSbAz-1TqD8"
       ],
       "id": 7
     },
@@ -74,11 +80,18 @@
         "87221575",
         "7883371",
         "49ZjBoQR5iU",
+        "eJWVaWzK2DE",
+        "DAmZbMfH5ks",
         "13146534",
         "87245795",
         "217713189",
         "ihC_-edD63o",
-        "182600151"
+        "182600151",
+        "kPqxwq8xqvM",
+        "OEbVigAL25s",
+        "108414566",
+        "XyowQl89CEw",
+        "iTrL7KcKMlU"
       ],
       "id": 8
     },
@@ -89,7 +102,8 @@
       "filmes": [
         "nNXszan9nxk",
         "nLql39jPv00",
-        "ihC_-edD63o"
+        "ihC_-edD63o",
+        "LM376HfIerY"
       ],
       "id": 9
     },
@@ -127,7 +141,11 @@
         "jx__v2Dku18",
         "13146534",
         "HAW8TpF668E",
-        "CcoIc4vlixA"
+        "CcoIc4vlixA",
+        "kPqxwq8xqvM",
+        "LM376HfIerY",
+        "jGWoXPxi3Fs",
+        "25764297"
       ],
       "id": 12
     },
@@ -145,6 +163,7 @@
         "jdhTZjZ-pFM",
         "35189302",
         "s1okrWkRLys",
+        "DAmZbMfH5ks",
         "nLql39jPv00",
         "87221575",
         "7883371",
@@ -161,7 +180,12 @@
         "HAW8TpF668E",
         "jGWoXPxi3Fs",
         "ihC_-edD63o",
-        "182600151"
+        "182600151",
+        "kPqxwq8xqvM",
+        "OEbVigAL25s",
+        "LM376HfIerY",
+        "zvqmZLtiZic",
+        "VSbAz-1TqD8"
       ],
       "id": 13
     },
@@ -170,7 +194,10 @@
       "desc": "",
       "titulo": "Média-metragem",
       "filmes": [
-        "CcoIc4vlixA"
+        "CcoIc4vlixA",
+        "wXqA589aTxE",
+        "iTrL7KcKMlU",
+        "eJWVaWzK2DE"
       ],
       "id": 14
     },
@@ -180,7 +207,10 @@
       "titulo": "Longa-metragem",
       "filmes": [
         "QcSAx-W1NoA",
-        "Dizf1RdPeyg"
+        "Dizf1RdPeyg",
+        "2lW528AXLKI",
+        "108414566",
+        "135074275"
       ],
       "id": 15
     },
@@ -219,13 +249,16 @@
         "hTtsGcsqwYw",
         "35189302",
         "217713189",
-        "jGWoXPxi3Fs"
+        "jGWoXPxi3Fs",
+        "LM376HfIerY",
+        "eJWVaWzK2DE",
+        "zvqmZLtiZic"
       ],
       "id": 18
     },
     {
       "cor": "#dde136",
-      "desc": "FIlmes dirigidos e/ou escritos por pessoas LGBTQIA+",
+      "desc": "FIlmes dirigidos e/ou escritos por pessoas LGBTQIA+, ou relacionados.",
       "titulo": "Cinema LGBTQIA+",
       "filmes": [
         "-ZRcgkU_Ktk",
@@ -240,7 +273,9 @@
       "filmes": [
         "nNXszan9nxk",
         "87221575",
-        "87245795"
+        "87245795",
+        "zvqmZLtiZic",
+        "iTrL7KcKMlU"
       ],
       "id": 20
     },
@@ -254,6 +289,15 @@
         "13160858"
       ],
       "id": 21
+    },
+    {
+      "cor": "#fe548c",
+      "desc": "",
+      "titulo": "Série",
+      "filmes": [
+        "XyowQl89CEw"
+      ],
+      "id": 22
     }
   ],
   "filmes": [
@@ -989,7 +1033,8 @@
         "Documentário",
         "Curta-metragem",
         "Cinema Negro",
-        "Dirigido por mulheres"
+        "Dirigido por mulheres",
+        "Universitário"
       ],
       "cidade": "Curitiba",
       "direcao": "Bea Gerolim",
@@ -1001,7 +1046,7 @@
         "email": "paranaflix@pm.me",
         "nome": "Paranáflix"
       },
-      "sinopse": "  Sabe quando você fala de uma pessoa que parece que você tá vendo essa pessoa na sua frente? Que você quer essa pessoa perto de você, mas não tem essa pessoa? É assim que ele fala.",
+      "sinopse": "Sabe quando você fala de uma pessoa que parece que você tá vendo essa pessoa na sua frente? Que você quer essa pessoa perto de você, mas não tem essa pessoa? É assim que ele fala.",
       "titulo": "Ferradura",
       "urlId": "jGWoXPxi3Fs",
       "urlHost": "youtube",
@@ -1112,7 +1157,8 @@
       "mostrar": true,
       "destaque": false,
       "id": 33
-    },{
+    },
+    {
       "ano": 2016,
       "categoriaId": 5,
       "categorias": [
@@ -1137,6 +1183,311 @@
       "mostrar": true,
       "destaque": false,
       "id": 31
+    },
+    {
+      "ano": 1936,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "João Baptista Groff",
+      "duracao": "7 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Groff foi contratado em 1936 para filmar cidades e agências da CEF pelo Paraná. Disso resultou o filme \"Cidades do Paraná\"",
+      "titulo": "Cidades do Paraná: Curitiba em 1936",
+      "urlId": "i9NA72pGkFk",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 34
+    },
+    {
+      "ano": 1930,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário",
+        "Média-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "João Baptista Groff",
+      "duracao": "45 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": " Em 1930, João Baptista Groff acompanhou a passagem de Getúlio Vargas por Curitiba, seguindo-o até o Rio de Janeiro, filmando o movimento das tropas que viriam por fazer a Revolução de 1930, assim nasceu o documentário Pátria Redimida, filme mais importante do cinema antigo do Paraná. ",
+      "titulo": "Pátria Redimida",
+      "urlId": "wXqA589aTxE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 35
+    },
+    {
+      "ano": 1981,
+      "categoriaId": 2,
+      "categorias": [
+        "Longa-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Sylvio Back",
+      "duracao": "96 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "República Guarani é um documentário brasileiro de 1981, dirigido por Sylvio Back. Conta através de depoimentos de estudiosos e pesquisadores históricos do Brasil, Argentina, Paraguai e Uruguai e extensa iconografia, a história dos índios Guaranis que sofreram a catequese dos jesuítas e foram organizados em missões localizadas naqueles países, de 1609 a 1768. São exibidos trechos do filme \"Xetás na Serra dos Dourados\" de Vladimir Kosák (1956), do acervo do Departamento de Psicologia e Antropologia da Universidade Federal do Paraná.",
+      "titulo": "República Guarani",
+      "urlId": "2lW528AXLKI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 36
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Universitário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Christopher Faust",
+      "duracao": "12 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Elenco: Evandro Scorsin, Alexandre Canetta, Leandro Rocha, Monique Rau.  Direção e roteiro: Christopher Faust Produção: Christopher Faust e Wellington Sari Direção de fotografia: Renata Corrêa Direção de arte: Christopher Faust Montagem: Diego Florentino Som Direto: Wellington Sari e Rodrigo Janiszeswki",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Toni irá se mudar. Decide passar seu último dia na cidade bebendo com os amigos de infância. ",
+      "titulo": "O último dia",
+      "urlId": "kPqxwq8xqvM",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 37
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Aly Muritiba",
+      "duracao": "15 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Um presidiário convence sua mãe a arriscar a própria segurança para levar um aparelho celular para ele dentro da penitenciária.",
+      "titulo": "A fábrica",
+      "urlId": "OEbVigAL25s",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 38
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Longa-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Aly Muritiba",
+      "duracao": "113 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Após a morte de sua mulher, Ana, Fernando se torna um homem calado e introspectivo, que cuida sozinho do filho Daniel. Todas as noites, enquanto o menino dorme, ele recorda o seu amor arrumando as coisas de Ana. Um dia, encontra uma fita VHS e, ao assisti-la, descobre que a esposa foi infiel. Fernando, então, decide ir à procura do homem que arruinou a imagem que ele tinha de sua amada morta. ",
+      "titulo": "Para minha amada morta",
+      "urlId": "108414566",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 39
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Longa-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marcelo Munhoz",
+      "duracao": "71 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Em uma pequena cidade no sul do Brasil, Lidia passa seus dias vendo os outros trabalhando à sua volta e à noite sonha com tempos passados no cultivo do fumo, quando ainda conseguia andar. Junto com o resgate de sua história, conhecemos a vida de quatro outros plantadores de fumo. Guiados pela tradição, misticismo ou puro pragmatismo, vivem na linha tênue entre o amor e a luta com a terra.",
+      "titulo": "A Grande Nuvem Cinza",
+      "urlId": "135074275",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 40
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Animação",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Janaína da Veiga",
+      "duracao": "8 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção, ilustração e animação: Janaina da Veiga  Mentor: Lucas Negrão  Montagem e lighting: Alexandre Spiacci  Desenho de som: Bruno Ito  Trilha sonora: Shannn e Machado",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Fátima vê uma estrela cadente e faz um pedido.",
+      "titulo": "Mira",
+      "urlId": "LM376HfIerY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 41
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Série"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min (5 episódios)",
+      "outras": "Episódio 02: https://www.youtube.com/watch?v=5a6R6vXyeHw   \\   Episódio 03: https://www.youtube.com/watch?v=uUqnyufUxAI   /     EPISÓDIO 04: https://www.youtube.com/watch?v=hsfw4vE5aiY     /     EPISÓDIO 05: https://www.youtube.com/watch?v=QKqN4VtL1bI",
+      "producao": "",
+      "equipe": "Produção Executiva: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção: Ana Paula Málaga Produtor Associado: Gil Baroni e Andréa Tomeleri Diretor de Fotografia: Renato Ogata Diretor de Arte: Alex Rocca Edição: Nathália Tereza & Pedro Giongo Música: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco: Marcelo Munhoz.  Assistentes de Direção: Rudolfo Auffinger & Lígia Teixeira Figurino: Isabella Fonseca Maquiagem: Andréia Tristão Desenho de Som: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Cristian Nazário, primeiro brasileiro negro a ter escalado o monte Everest, retorna para casa. Nesse retorno, ele traz consigo uma doença misteriosa. ",
+      "titulo": "Rarefeito (episódio 01)",
+      "urlId": "XyowQl89CEw",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 42
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Filmes do interior"
+      ],
+      "cidade": "Foz do Iguaçu",
+      "direcao": "Lílian de Alcântara",
+      "duracao": "28 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Putta acompanha o relato biográfico de três mulheres da fronteira Brasil, Paraguay e Argentina. As três vivem em Foz do Iguaçu (Brasil) e trabalham no ambiente da prostituição. O filme atravessa as complexidades da vida pessoal destas três prostitutas, que trabalham na rua ou em casas de prostituição, a transexualidade, a família e a maternidade nestes contextos. Diva, uma doce mulher trans, nos leva a sua casa para recordar suas difíceis relações com a família que deixou para trás e a que quis formar. Xayenne, uma travesti, que sempre tenta dar a volta em suas memórias e não reviver seus sofrimentos. Pantera, dona de um bordel, vive há 40 anos em prostíbulos, no mesmo bairro, da mesma cidade, onde criou a seus filhos.",
+      "titulo": "Putta",
+      "urlId": "zvqmZLtiZic",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 43
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Média-metragem",
+        "Filmes do interior"
+      ],
+      "cidade": "Cascavel",
+      "direcao": "Vander Colombo",
+      "duracao": "32 min",
+      "outras": "",
+      "producao": "Estúdio L'avant Produções/Baiacu",
+      "equipe": "Estrelando Adriano dos Santos Brandão, Jean Cezar Salustiano, Tayssa Mazetto Escrito e Dirigido por: Vander Colombo Produzido por Laysmara Carneiro Edoardo, Luiz Carlos Machado com assistência de Jeferson Kaibers e Alfredo Lírio da Cruz  Direção de Fotografia: Caroline Mariga Assistência de Fotografia: Julia Dalbosco Direção de Som: Derek W. Stavis Trilha Sonora Original: Valter Mazo da Cruz Preparação de Atores: Jhonatan Mazo da Cruz Direção de Arte: Marcelo Kutianski, Luiz Carlos Machado Maquiagem e Figurino: Marcelo Kutianski, Camylla Galante Making Of: Ana Paula Seixlack Assistência de Direção: Laysmara Carneiro Edoardo",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Atenção, atenção caros ouvintes: Aos pés de uma árvore seca junto a um caminho que não leva a lugar algum, no meio do deserto cultural, jazem três seres singulares, semifranceses, semicaipiras, à espera de um ser supremo que traga arte aos campos de soja, que eleve a cultura ao patamar do agronegócio, que com sua espada de celulóide fure o bucho dos sectários corruptos das pastas mal administradas. E assim esperam, infidáfeis eras que o juiz do tempo lhes traga a vendeta que as cartas lhe destinaram. Godard vive e está entre nós! Confuso e enganado, nosso padroeiro virou souvenir... nada resta!",
+      "titulo": "Esperando Godard",
+      "urlId": "iTrL7KcKMlU",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 44
+    },
+    {
+      "ano": 1979,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Cláudio Paciornik",
+      "duracao": "20 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "--",
+      "titulo": "Índios do Sul do Brasil",
+      "urlId": "VSbAz-1TqD8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 45
     }
   ]
 }

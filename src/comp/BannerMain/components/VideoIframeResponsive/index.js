@@ -4,7 +4,7 @@ import { VideoContainer, ResponsiveIframe } from './styles';
 function VideoIframeResponsive({ urlId, urlHost }) {
 
   const filmUrl = urlHost === 'youtube' ?
-  `https://www.youtube.com/embed/${urlId}?autoplay=0&mute=1`
+  `https://www.youtube.com/embed/${urlId}?autoplay=0&mute=0`
   : `https://player.vimeo.com/video/${urlId}`;
 
   return (
