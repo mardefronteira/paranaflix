@@ -49,6 +49,8 @@ function Filme() {
                 direcao={filme.direcao}
                 cidade={filme.cidade}
                 outras={filme.outras}
+                producao={filme.producao}
+                equipe={filme.equipe}
                 categorias={filme.categorias}
               />
             </div>

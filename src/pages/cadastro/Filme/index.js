@@ -15,7 +15,7 @@ function CadastroFilme() {
       </Helmet>
     <Base>
       <FormWrapper>
-        <h1>Novo filme</h1>
+        <h1>Informações sobre o filme:</h1>
 
         <FilmFormik />
 

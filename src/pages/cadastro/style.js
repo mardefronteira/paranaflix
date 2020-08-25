@@ -1,5 +1,13 @@
 import styled, { css } from 'styled-components';
 
+export const ExtraInfo = styled.span`
+  cursor: default;
+  display: inline;
+  position: relative;
+  text-align: right;
+  align-items:right;
+  margin-left: 5vw;
+`;
 
 export const Warning = styled.div`
   color:red;
@@ -97,7 +105,7 @@ export const Input = styled.input`
 
   display: block;
   width: 70%;
-  max-width: 500px;
+  max-width: 800px;
   height: 50px;
   font-size: 18px;
 

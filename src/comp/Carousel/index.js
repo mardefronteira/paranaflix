@@ -4,7 +4,6 @@ import VideoCard from './components/VideoCard';
 import Slider, { SliderItem } from './components/Slider';
 
 function Carousel({
-  ignoreFirstVideo,
   category,
 }) {
   const catId = category.id;
@@ -22,9 +21,6 @@ function Carousel({
       )}
       <Slider>
         {filmes.map((filme, index) => {
-          if (ignoreFirstVideo && index === 0) {
-            return null;
-          }
 
           return (
             <SliderItem key={filme.titulo}>

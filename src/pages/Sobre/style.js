@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+import React from 'react';
 
 export const SobreWrapper = styled.div`
   padding: 5vh 15vw;
@@ -15,4 +16,9 @@ export const SobreWrapper = styled.div`
   h2 {
     font-size: 1.5rem;
   }
+`;
+
+export const Subtitulo = styled.h2`
+  color: ${props => props.cor};
+  font-variant: small-caps;
 `;

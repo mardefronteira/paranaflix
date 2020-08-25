@@ -6,6 +6,7 @@ import CatMenu from '../../comp/CatMenu';
 import catRepo from '../../repositories/categorias';
 import filmRepo from '../../repositories/filmes';
 import {Helmet} from 'react-helmet';
+import { Loading } from './style.js';
 
 function Home() {
 
@@ -42,8 +43,6 @@ function Home() {
         <title>Paranáflix</title>
       </Helmet>
       <Base>
-        {/*destaque.length === 0 && console.log("chegou esse destaque: ",destaque)*/}
-
         {destaque.map((filme) => {
           return (
             <>
@@ -54,6 +53,9 @@ function Home() {
                 sinopse={filme.sinopse}
                 ano={filme.ano}
                 direcao={filme.direcao}
+                producao={filme.producao}
+                equipe={filme.equipe}
+                outras={filme.outras}
                 cidade={filme.cidade}
                 categorias={filme.categorias}
               />
@@ -63,7 +65,13 @@ function Home() {
         })}
 
         {/*caso db não tenha retornado os dados, aparecer o texto*/}
-        {categorias.length === 0 && (<div>Carregando...</div>)}
+        {categorias.length === 0 && (<Loading><h1>O acervo está carregando, aguarde um instante...</h1>
+        <br/>
+          <p>O Paranáflix é uma plataforma colaborativa criada para difundir produções cinematográficas produzidas em todo o estado do Paraná.</p>
+          <p>Buscamos construir uma forma livre, popular e coletiva para dar visibilidade às produções do estado, e oferecer o acesso gratuito de filmes para quem busca informações culturais.</p>
+          <p>Este gesto surge como sintoma da insuficiência de políticas públicas consistentes, ativas, e longevas de distribuição, produção, exibição e preservação do cinema no Paraná, e de modo algum pretende trazer soluções paliativas a estes problemas de imenso interesse público.</p>
+          <p>Vamos fortalecer o cinema brasileiro!</p>
+          </Loading>)}
 
         {categorias.map((categoria, i) => {
           if (i < 6) {

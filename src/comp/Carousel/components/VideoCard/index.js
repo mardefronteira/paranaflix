@@ -28,7 +28,10 @@ function VideoCard({ titulo, id, host, sinopse, ano, categoryColor }) {
   }, [])
 
 
-  const sin = sinopse.split(" ").slice(0,30).join(" ")+"...";
+    var sin = sinopse.split(" ").slice(0,20).join(" ");
+
+    if (sinopse.split(" ").length > 19) { sin += "..."; }
+
 
     return (
 

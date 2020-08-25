@@ -11,6 +11,8 @@ export default function BannerMain({
   cidade,
   ano,
   outras,
+  producao,
+  equipe,
   categorias
 }) {
 
@@ -27,8 +29,16 @@ export default function BannerMain({
           <ContentAreaContainer.Description>
            {sinopse}
           </ContentAreaContainer.Description>
+          { producao && <ContentAreaContainer.Description>
+             Produção: {producao}
+           </ContentAreaContainer.Description>
+          }
+          { equipe && <ContentAreaContainer.Description>
+             Equipe:<br/>{equipe}
+           </ContentAreaContainer.Description>
+          }
           { outras && <ContentAreaContainer.Description>
-             {outras}
+             Outras informações:<br/>{outras}
            </ContentAreaContainer.Description>
           }
           <ContentAreaContainer.Description>

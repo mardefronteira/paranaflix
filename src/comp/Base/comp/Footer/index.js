@@ -7,7 +7,7 @@ function Footer() {
     <FooterBase>
       <Link to="/sobre">Sobre</Link>
       <a href="http://www.instagram.com/paranaflix" target="_blank">Instagram</a>
-      <a href="http://www.apoia.se" target="_blank">Apoia.se</a>
+      <a href="http://www.apoia.se" target="_blank">Contribua com o projeto!</a>
     </FooterBase>
   );
 }

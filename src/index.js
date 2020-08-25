@@ -10,6 +10,13 @@ import CadastroFilme from './pages/cadastro/Filme';
 import CadastroCategoria from './pages/cadastro/Categoria';
 import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import NotFound from './pages/NotFound';
+import ReactGA from 'react-ga';
+
+
+
+ReactGA.initialize('UA-176125617-1');
+ReactGA.pageview(window.location.pathname + window.location.search);
+
 
 ReactDOM.render(
   <BrowserRouter>

@@ -2,7 +2,7 @@ import React from 'react';
 import { Form, Field, FieldArray, ErrorMessage } from 'formik';
 import CatOptions from './CatOptions';
 
-import { Input, CatButton, CatButtonX, Select } from '../../style.js';
+import { Input, CatButton, CatButtonX, Select, ExtraInfo } from '../../style.js';
 import FormField from '../../FormField';
 import Button from '../../../../comp/Button';
 
@@ -59,18 +59,7 @@ const FilmForm = ({
     </FormField>
 
     <FormField
-      label="Direção"
-      name="direcao"
-    >
-      <Input
-        as={Field}
-        name="direcao"
-        hasvalue = {values.direcao !== '' ? 1 : 0}
-      />
-    </FormField>
-
-    <FormField
-      label="URL"
+      label="Link do filme (Youtube ou Vimeo)"
       name="url"
       >
       <Input
@@ -93,7 +82,40 @@ const FilmForm = ({
     </FormField>
 
     <FormField
-      label="Outras informações (equipe, prêmios, etc)"
+      label="Direção"
+      name="direcao"
+    >
+      <Input
+        as={Field}
+        name="direcao"
+        hasvalue = {values.direcao !== '' ? 1 : 0}
+      />
+    </FormField>
+
+    <FormField
+      label="Produção"
+      name="producao"
+    >
+      <Input
+        as={Field}
+        name="producao"
+        hasvalue = {values.producao !== '' ? 1 : 0}
+      />
+    </FormField>
+
+    <FormField
+      label="Equipe"
+      name="equipe"
+    >
+      <Input
+        as={Field}
+        name="equipe"
+        hasvalue = {values.direcao !== '' ? 1 : 0}
+      />
+    </FormField>
+
+    <FormField
+      label="Outras informações"
       name="outras"
       >
       <Input
@@ -151,8 +173,41 @@ const FilmForm = ({
           </div>
         )}
       </FieldArray>
+
       <br/><br/>
+
+      <p id="catLabel">Quem está cadastrando este filme?
+        <ExtraInfo
+          title="informação para controle interno, não será exibida nem utilizada para outros fins"
+        >👀❔</ExtraInfo>
+      </p>
+
+      <FormField
+        label="Seu nome"
+        name="respNome"
+      >
+        <Input
+          as={Field}
+          name="respNome"
+          hasvalue = {values.respNome !== '' ? 1 : 0}
+        />
+      </FormField>
+
+      <FormField
+        label="Seu email"
+        name="respEmail"
+      >
+        <Input
+          as={Field}
+          name="respEmail"
+          hasvalue = {values.respEmail !== '' ? 1 : 0}
+        />
+      </FormField>
+
+      <br/><br/>
+
       <Button type="submit" disabled={isSubmitting}>Cadastrar</Button>
+
   </Form>
 )
 

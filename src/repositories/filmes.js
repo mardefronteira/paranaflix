@@ -21,13 +21,13 @@ function newFilm(objInfo) {
             }).then(async (respostaDoServidor) => {
               if(respostaDoServidor.ok) {
                 const resposta = await respostaDoServidor.json();
-                console.log("filme adicionado! >> ",resposta);
+                //alert(`Feito! Agradecemos sua contribuição!`);
               }
             }).catch((err)=>{
               console.log(err)
             });
           } else {
-            alert("Este filme já está em nossa database!")
+            alert("Epa! Este filme já está no Paranáflix.")
           }
     }).catch((err) => {
       console.log(err);

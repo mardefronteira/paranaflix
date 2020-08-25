@@ -1,8 +1,6 @@
 import { withFormik } from 'formik';
 import * as Yup from 'yup';
-
 import FilmForm from './FilmForm';
-
 import getUrlInfo from '../../../../hooks/getUrlInfo';
 import filmRepo from '../../../../repositories/filmes';
 import catRepo from '../../../../repositories/categorias';
@@ -16,6 +14,10 @@ const FilmFormik = withFormik ({
     direcao,
     duracao,
     outras,
+    producao,
+    equipe,
+    respEmail,
+    respNome,
     sinopse,
     titulo,
     url,
@@ -27,6 +29,10 @@ const FilmFormik = withFormik ({
       direcao: '',
       duracao: '',
       outras: '',
+      producao: '',
+      equipe: '',
+      respEmail: 'paranaflix@pm.me',
+      respNome: 'Paranáflix',
       sinopse: '',
       titulo: '',
       url: '',
@@ -37,9 +43,13 @@ const FilmFormik = withFormik ({
     ano: Yup.number('Nos últimos séculos, anos são números de 4 dígitos!').moreThan(1900, 'Este campo só aceita anos entre hoje e a invenção do cinema.').lessThan(2021, 'Este campo só aceita anos entre hoje e a invenção do cinema.').required('Este campo é obrigatório.'),
     categorias: Yup.array().of(Yup.string()).required('Escolha ao menos uma categoria.'),
     cidade: Yup.string().required('Este campo é obrigatório.'),
-    direcao: Yup.string(),
+    direcao: Yup.string().required('Este campo é obrigatório.'),
     duracao: Yup.string().required('Este campo é obrigatório.'),
-    outras: Yup.string(),
+    outras: Yup.string().max(800, 'Máximo de 800 caracteres.'),
+    producao: Yup.string(),
+    equipe: Yup.string().max(800, 'Máximo de 800 caracteres.'),
+    respEmail: Yup.string().email('Tem algo errado com este email! Por favor, adicione um email válido.'),
+    respNome: Yup.string(),
     sinopse: Yup.string().required('Este campo é obrigatório.'),
     titulo: Yup.string().required('Este campo é obrigatório.'),
     url: Yup.string().url('Tem algo errado com a URL! Este campo aceita somente links do Vimeo ou YouTube.').required('Este campo é obrigatório.'),
@@ -98,6 +108,12 @@ const FilmFormik = withFormik ({
         direcao: values.direcao,
         duracao: values.duracao,
         outras: values.outras,
+        producao: values.producao,
+        equipe: values.equipe,
+        resp: {
+          email: values.respEmail,
+          nome: values.respNome,
+        },
         sinopse: values.sinopse,
         titulo: values.titulo,
         urlId: urlInfo.filmId,

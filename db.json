@@ -1,12 +1,10 @@
 {
   "categorias": [
     {
-      "cor": "#079eab",
+      "cor": "#12ba73",
       "desc": "Filmes realizados até o ano 1979",
-      "titulo": "Antes de 1979",
-      "filmes": [
-        1
-      ],
+      "titulo": "Antes de 1980",
+      "filmes": [],
       "id": 1
     },
     {
@@ -17,14 +15,14 @@
       "id": 2
     },
     {
-      "cor": "#008f9f",
+      "cor": "#dde136",
       "desc": "Filmes realizados entre 1990 e 1999.",
       "titulo": "Década de 1990",
       "filmes": [],
       "id": 3
     },
     {
-      "cor": "#1fab57",
+      "cor": "#fe548c",
       "desc": "Filmes realizados entre 2000 e 2009.",
       "titulo": "Década de 2000",
       "filmes": [],
@@ -45,40 +43,960 @@
       "id": 6
     },
     {
-      "cor": "#ff8040",
-      "desc": "Filmes de animação em qualquer técnica.",
-      "titulo": "Animação",
-      "filmes": [],
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Documentário",
+      "filmes": [
+        "v4DiId9CVhI",
+        "S2Gm18fqqDA",
+        "lS230tWjsP4",
+        "hTtsGcsqwYw",
+        "7poNxLwQjGE",
+        "35189302",
+        "s1okrWkRLys",
+        "12753143",
+        "R9g89wDQqlg",
+        "wA-pFpEyguE",
+        "jx__v2Dku18",
+        "HAW8TpF668E",
+        "jGWoXPxi3Fs"
+      ],
       "id": 7
     },
     {
-      "cor": "#ff80c0",
-      "desc": "Documentários",
-      "titulo": "Documentário",
+      "cor": "#0086c6",
+      "desc": "",
+      "titulo": "Ficção",
       "filmes": [
-        "-ZRcgkU_Ktk"
+        "QcSAx-W1NoA",
+        "Dizf1RdPeyg",
+        "7KnHJy6IqlQ",
+        "87221575",
+        "7883371",
+        "49ZjBoQR5iU",
+        "13146534",
+        "87245795",
+        "217713189"
       ],
       "id": 8
+    },
+    {
+      "cor": "#fe548c",
+      "desc": "",
+      "titulo": "Animação",
+      "filmes": [
+        "nNXszan9nxk",
+        "nLql39jPv00"
+      ],
+      "id": 9
+    },
+    {
+      "cor": "#60fce8",
+      "desc": "",
+      "titulo": "Experimental",
+      "filmes": [
+        "k1Y4v0JXNTs",
+        "v4DiId9CVhI",
+        "7KnHJy6IqlQ",
+        "jdhTZjZ-pFM",
+        "3A-lQzrXCYg",
+        "s1okrWkRLys",
+        "13160858",
+        "HAW8TpF668E"
+      ],
+      "id": 10
+    },
+    {
+      "cor": "#dde136",
+      "desc": "",
+      "titulo": "Infantil",
+      "filmes": [],
+      "id": 11
+    },
+    {
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Universitário",
+      "filmes": [
+        "49ZjBoQR5iU",
+        "wA-pFpEyguE",
+        "jx__v2Dku18",
+        "13146534",
+        "HAW8TpF668E"
+      ],
+      "id": 12
+    },
+    {
+      "cor": "#fe548c",
+      "desc": "",
+      "titulo": "Curta-metragem",
+      "filmes": [
+        "k1Y4v0JXNTs",
+        "v4DiId9CVhI",
+        "nNXszan9nxk",
+        "hTtsGcsqwYw",
+        "7poNxLwQjGE",
+        "7KnHJy6IqlQ",
+        "jdhTZjZ-pFM",
+        "35189302",
+        "s1okrWkRLys",
+        "nLql39jPv00",
+        "87221575",
+        "7883371",
+        "13160858",
+        "12753143",
+        "49ZjBoQR5iU",
+        "R9g89wDQqlg",
+        "wA-pFpEyguE",
+        "jx__v2Dku18",
+        "13146534",
+        "87245795",
+        "-ZRcgkU_Ktk",
+        "217713189",
+        "HAW8TpF668E",
+        "jGWoXPxi3Fs"
+      ],
+      "id": 13
+    },
+    {
+      "cor": "#0086c6",
+      "desc": "",
+      "titulo": "Média-metragem",
+      "filmes": [],
+      "id": 14
+    },
+    {
+      "cor": "#60fce8",
+      "desc": "",
+      "titulo": "Longa-metragem",
+      "filmes": [
+        "QcSAx-W1NoA",
+        "Dizf1RdPeyg"
+      ],
+      "id": 15
+    },
+    {
+      "cor": "#dde136",
+      "desc": "Filmes já exibidos na programação do @cineclubeaurora",
+      "titulo": "Cineclube Aurora",
+      "filmes": [
+        "7poNxLwQjGE",
+        "7KnHJy6IqlQ",
+        "-ZRcgkU_Ktk",
+        "jdhTZjZ-pFM",
+        "k1Y4v0JXNTs",
+        "3A-lQzrXCYg",
+        "s1okrWkRLys",
+        "217713189"
+      ],
+      "id": 16
+    },
+    {
+      "cor": "#FB2B7D",
+      "desc": "Filmes dirigidos e/ou escritos por pessoas negras.",
+      "titulo": "Cinema Negro",
+      "filmes": [
+        "jGWoXPxi3Fs"
+      ],
+      "id": 17
+    },
+    {
+      "cor": "#60fce8",
+      "desc": "Filmes dirigidos por mulheres.",
+      "titulo": "Dirigido por mulheres",
+      "filmes": [
+        "hTtsGcsqwYw",
+        "35189302",
+        "217713189",
+        "jGWoXPxi3Fs"
+      ],
+      "id": 18
+    },
+    {
+      "cor": "#dde136",
+      "desc": "FIlmes dirigidos e/ou escritos por pessoas LGBTQIA+",
+      "titulo": "Cinema LGBTQIA+",
+      "filmes": [
+        "-ZRcgkU_Ktk",
+        "R9g89wDQqlg"
+      ],
+      "id": 19
+    },
+    {
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Filmes do interior",
+      "filmes": [
+        "nNXszan9nxk",
+        "87221575",
+        "87245795"
+      ],
+      "id": 20
+    },
+    {
+      "cor": "#0086c6",
+      "desc": "Filmados em super-8.",
+      "titulo": "Super-8",
+      "filmes": [
+        "k1Y4v0JXNTs",
+        "nNXszan9nxk",
+        "13160858"
+      ],
+      "id": 21
     }
   ],
   "filmes": [
     {
-      "ano": 2020,
-      "categoriaId": 6,
+      "ano": 2019,
+      "categoriaId": 5,
       "categorias": [
-        "Documentário"
+        "Documentário",
+        "Cineclube Aurora",
+        "Curta-metragem",
+        "Cinema LGBTQIA+"
       ],
       "cidade": "Curitiba",
       "direcao": "Renan de Cillo",
       "duracao": "28 min",
-      "outras": "Metrô - Festival do Cinema Universitário Brasileiro",
+      "outras": "Prêmio Troféu Sertão e Diversidade no 12º Curta Taquary Festival Internacional de Curta-metragem (Brasil, 2019), Prêmio de Melhor Filme pelo Júri Técnico e Melhor Filme pelo Júri Popular na Mostra Queerança do 2º TRANSFORMA - Festival de Cinema da Diversidade de Santa Catarina (Brasil, 2019)",
+      "producao": "Beija Flor Filmes",
+      "equipe": "",
       "sinopse": "Este filme não é capaz de vingar as mortes, redimir os sofrimentos, virar o jogo e mudar o mundo. Não há salvação. Isso aqui é uma barricada! Não uma bíblia.",
       "titulo": "Bicha-bomba",
       "urlId": "-ZRcgkU_Ktk",
       "urlHost": "youtube",
       "mostrar": true,
       "destaque": true,
+      "resp": [
+        "Paranáflix",
+        "paranaflix@pm.me"
+      ],
+      "id": 1
+    },
+    {
+      "ano": 1979,
+      "categoriaId": 1,
+      "categorias": [
+        "Experimental",
+        "Curta-metragem",
+        "Cineclube Aurora",
+        "Super-8"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "7 min",
+      "equipe": "Roteiro: Fernando Severo, Fotografia: Fernando Severo, Montagem: Fernando Severo",
+      "producao": "Universidade Federal do Paraná",
+      "outras": "PREMIAÇÕES  VII Super Festival Nacional do Filme Super 8 (Grife) São Paulo (SP) – Agosto de 1980  - Melhor Filme Experimental  VII Festival Nacional do Filme Super 8  Campinas (SP) – Março de 1980  - Melhor Filme Experimental  I Mostra de Cinema Super 8 da Região Sul (Abertura 8)  Curitiba (PR) – Fevereiro de 1980  - Prêmio Destaque  - Melhor Montagem",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A morte em três tempos.",
+      "titulo": "Escura Maravilha",
+      "urlId": "k1Y4v0JXNTs",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
       "id": 2
+    },
+    {
+      "ano": 1979,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário",
+        "Experimental",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Valêncio Xavier",
+      "duracao": "11 min",
+      "outras": "Foi vencedor do prêmio de Melhor Filme de Ficção, na IX Jornada de Curta Metragem em 1980.",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Filme de Valêncio Xavier realizado em 1979, sob encomenda do então prefeito de Curitiba, Jaime Lerner, com o pretexto de convidar Federico Fellini a conhecer a cidade. O filme apresenta uma curiosa visão da cidade naquela época, mostrando uma Curitiba onírica e grotesca. É conhecido por dois títulos diferentes: \"Caro signore Fellini\", e \"Carta a Fellini\".",
+      "titulo": "Caro Signore Fellini (Carta a Fellini)",
+      "urlId": "v4DiId9CVhI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 3
+    },
+    {
+      "ano": 1979,
+      "categoriaId": 1,
+      "categorias": [
+        "Filmes do interior",
+        "Curta-metragem",
+        "Animação",
+        "Super-8"
+      ],
+      "cidade": "Paranaguá",
+      "direcao": "Cyro Matoso",
+      "duracao": "7 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Curta-metragem de animação filmada em Super-8 pelo cineasta parananguara Cyro Matoso. ",
+      "titulo": "Grazi na terra de King Kong",
+      "urlId": "nNXszan9nxk",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 4
+    },
+    {
+      "ano": 1968,
+      "categoriaId": 1,
+      "categorias": [
+        "Ficção",
+        "Longa-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Sylvio Back",
+      "duracao": "98 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Em Curitiba, Mário é um bancário pobre que mora numa pensão e namora duas mulheres, a lojista sonhadora também pobre Neusa e a universitária de família rica, Cristina. Ele engana as duas, tentando conseguir os favores amorosos da relutante Neusa que se guarda para o casamento; e se unir a Cristina para alcançar ascensão social. Paralelamente, os amigos do banco pensam em fazer greve, o pai que vive no interior sofre de uma doença indeterminada e o próprio Mário é acometido de doença venérea por sair com prostitutas. ",
+      "titulo": "Lance Maior",
+      "urlId": "QcSAx-W1NoA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 5
+    },
+    {
+      "ano": 1967,
+      "categoriaId": 1,
+      "categorias": [
+        "Longa-metragem",
+        "Ficção"
+      ],
+      "cidade": "?",
+      "direcao": "Frei Gabrielangelo Caramori",
+      "duracao": "93 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O filme do Senhor Bom Jesus da Cana Verde, foi o primeiro  longa metragem colorido do paraná, gravado na década de 1960 e tendo como direção Frei Gabrielangelo Caramori.",
+      "titulo": "Senhor Bom Jesus da Cana Verde",
+      "urlId": "Dizf1RdPeyg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 6
+    },
+    {
+      "ano": 1936,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário"
+      ],
+      "cidade": "Ponta Grossa",
+      "direcao": "João Baptista Groff ",
+      "duracao": "2 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Groff foi contratado em 1936 para filmar cidades e agência da CEF pelo Paraná. Disso resultou o filme \"Cidades do Paraná\".",
+      "titulo": "Ponta Grossa em 1936",
+      "urlId": "S2Gm18fqqDA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 7
+    },
+    {
+      "ano": 1926,
+      "categoriaId": 1,
+      "categorias": [
+        "Documentário"
+      ],
+      "cidade": "Foz do Iguaçu / Curitiba",
+      "direcao": "João Baptista Groff",
+      "duracao": "8 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Filme de 1926 mostra cenas de Curitiba,  quedas d'água entre  Curitiba e Foz do Iguaçu. Curitiba, Salto de Caiacanga, salto das marrecas, Curucacas, Iguaçu.",
+      "titulo": "Iguassu e Guayra",
+      "urlId": "lS230tWjsP4",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 8
+    },
+    {
+      "ano": 1985,
+      "categoriaId": 2,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "?",
+      "direcao": "Berenice Mendes",
+      "duracao": "20 min",
+      "outras": "Documentário produzido nos anos 80 por Berenice Mendes retrata a luta pela terra no Paraná e a formação do MST neste estado como resposta à inoperãncia do 1º Plano Nacional de Reforma Agrária. Guarda o registro das músicas cantadas pelos acampados para motivar a luta de todos.",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Nos acampamentos, à margem das rodovias, a opção pela permanência no campo. A árdua sobrevivência e os hábitos culturais. O chimarrão e as músicas sertanejas como fator de integração e resistência. A organização política: comissões, passeatas, assembleias e bloqueios. A posição dos latifúndios. O confronto: a luta pela reforma agrária.",
+      "titulo": "A Classe Roceira",
+      "urlId": "hTtsGcsqwYw",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 9
+    },
+    {
+      "ano": 1988,
+      "categoriaId": 2,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "14 min",
+      "outras": "Melhor Curta no Festival de Brasília em 1988 Melhor Diretor no Festival de Brasília em 1988 Melhor Diretor no Rio Cine em 1988 Melhor Documentário no Jornada da Bahia em 1988 Melhor Filme no Rio Cine em 1988 Melhor Montagem no Festival de Brasília em 1988 Melhor Roteiro no Festival de Brasília em 1988 Melhor Roteiro no Festival de Gramado em 1988 Prêmio Especial do Júri no Festival de Brasília em 1988 Troféu Macunaíma no Rio Cine em 1988",
+      "producao": "",
+      "equipe": " Produção: Lu Rufalco Fotografia: Peter Lorenzo Roteiro: Fernando Severo Edição: Fernando Severo Trilha original: Uakti Empresa(s) produtora(s): Embrafilme",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Vida e obra de Vladimir Kozák, tcheco naturalizado brasileiro que morou em Curitiba por mais de 40 anos.",
+      "titulo": "O mundo perdido de Kozak",
+      "urlId": "7poNxLwQjGE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 10
+    },
+    {
+      "ano": 1991,
+      "categoriaId": 3,
+      "categorias": [
+        "Cineclube Aurora",
+        "Ficção",
+        "Experimental",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "17 min",
+      "outras": "PREMIAÇÕES  XIV Guarnicê de Cine Vídeo São Luís (MA) – Setembro de 1991  - Melhor Filme  - Melhor Fotografia  XVIII Jornada Internacional de Cinema da Bahia Salvador (BA) - Setembro de 1991  - Menção Honrosa  III Festival Sudamericano de Cortometrajes y Muestra Internacional Asunción (Paraguai) – Setembro de 1992  - Melhor Fotografia",
+      "producao": "",
+      "equipe": "Roteiro: Fernando Severo, Valêncio Xavier e José Rubens Siqueira Fotografia: Flávio Ferreira Montagem: Fernando Severo Elenco: José Rubens Siqueira Produção:Rubens Gennaro, Cygo Cinema e Vídeo, IBAC, Secretaria do Estado da Cultura do Paraná e Bamerindus",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Para fugir da repressão em seu país, militante político latino-americano se refugia no litoral do Paraná, onde vive na constante expectativa de ser descoberto e eliminado.",
+      "titulo": "Os desertos dias",
+      "urlId": "7KnHJy6IqlQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 11
+    },
+    {
+      "ano": 1990,
+      "categoriaId": 3,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "5 min",
+      "outras": "Por Fernando Severo (extraído do seu canal no Youtube):  Em 1990 participei do curso \"Iluminação para Vídeo\", que aconteceu no Museu da Imagem e do Som, na época dirigido pelo Valêncio Xavier. Era ministrado pelo Dante Lecioli, na época o iluminador favorito do Walter Avancini na Globo. O Valêncio pediu que os alunos criassem curtas para aproveitar melhor as aulas, que depois de filmados seriam editados pelo Mauro Alice, decano dos montadores brasileiros, num outro curso que ia rolar em seguida. Como não tinha verba nenhuma, pedi ajuda a alguns amigos e resolvi adaptar na raça um texto do Cortázar que eu curtia muito, do livro \"Histórias de Cronópios e de Famas\". Acabou selecionado para alguns festivais, onde as pessoas que entenderam a levada meio trash curtiram muito. O problema foi em Curitiba, onde descobri horrorizado que algumas pessoas acharam que era um trabalho sério e por essa razão ruim. Sempre que deparo com amigos reclamando no Facebook a dificuldade de algumas pessoas entenderem ironia nas redes sociais, lembro desse caso. E recomendo o uso de #ironia A cópia é bem ruinzinha, mas é a única que restou, copiada para VHS do original U-Matic PAL-M, e na passagem para arquivo distorceu as cores, mas cá entre nós, não faz a menor diferença kkk!",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Instruções para subir uma escada, adaptação de texto de Julio Cortázar.",
+      "titulo": "Instruções para subir uma escada",
+      "urlId": "jdhTZjZ-pFM",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 12
+    },
+    {
+      "ano": 1991,
+      "categoriaId": 3,
+      "categorias": [
+        "Experimental",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": " Fernando Severo",
+      "duracao": "1 min",
+      "outras": "PREMIAÇÕES I Festival do Minuto São Paulo (SP) – Dezembro de 1991  - Menção Especial do Juri II Festival Nacional de Video/Vitoria (ES) – Novembro de 1992  - Melhor Videoarte e Melhor Edição  EXIBIÇÃO “HORS CONCOURS” 42º Internationale FilmFestSpiele Berlim (Alemanha) – Maio de 1992 I Encontro de Videomakers Latino-Americanos Bremen (Alemanha) – Julho de 1992 VII Manifestação Internacional de Vídeo e TV Montbéliard (França) – Junho de 1992 III Festival Internacional de Curtas Metragens São Paulo (SP) – Agosto de 1992 XV Guarnicê de Cine-Video São Luís (MA) – Setembro de 1992",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Um mito se moderniza.",
+      "titulo": "Fred Histérico",
+      "urlId": "3A-lQzrXCYg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 13
+    },
+    {
+      "ano": 2005,
+      "categoriaId": 4,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Joana Nin",
+      "duracao": "15 min",
+      "outras": "O curta-metragem traz relatos de amor e dedicação. Entre os personagens há uma mulher visitou o marido preso por 31 anos. Outra, analfabeta, recebe cartas de amor com até sete metros de comprimento. Elas se sentem valorizados e amadas alta, e por isso insistem em relacionamentos cheio de constrangimentos e privações, mesmo sofrendo no dia a dia as várias consequências desta opção. O universo carcerário está presente exclusivamente em relatos das mulheres, nunca através do ponto de vista dos maridos. É um olhar sobre o outro, aquele que não está no centro das atenções. O curta-metragem Visita Íntima é o resultado de três anos de pesquisas e observação. As filmagens foram feitas em 2004 na maior penitenciária do Estado do Paraná - um complexo com 7 mil detentos.",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Visita Íntima é um filme sobre amor em condições especiais: mulheres livres que mantêm relacionamentos estáveis com presidiários na Penitenciária Central do Estado do Paraná, em Piraquara, a 40 quilômetros de Curitiba.",
+      "titulo": "Visita Íntima",
+      "urlId": "35189302",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 14
+    },
+    {
+      "ano": 2002,
+      "categoriaId": 4,
+      "categorias": [
+        "Documentário",
+        "Experimental",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "15 min",
+      "outras": "PREMIAÇÕES:  55 Mostra Internazionale del Cortometraggio di Montecatini Montecatini-Terme (Itália) – Julho de 2004 - Prêmio Lions  XXXI Festival de Cinema de Gramado Gramado (RS) – Agosto de 2003 - Prêmio de Aquisição do Canal Brasil  XXX Jornada Internacional de Cinema da Bahia Salvador (BA) – Setembro de 2003 - Prêmio Especial do Júri - Prêmio Melhor Fotografia - Menção Honrosa no Prêmio OCIC  VII Festival de Cinema, Vídeo e Dcine de Curitiba - Prêmio Melhor Documentário - Prêmio Melhor Trilha Sonora  II Catarina Festival de Documentários Camboriú (SC) – Agosto de 2003 - Prêmio da Crítica (Melhor Filme) - Prêmio Melhor Direção - Prêmio Melhor Fotografia  I Cineamazônia Porto Velho (RO) – Agosto de 2004 - Prêmio Melhor Filme Experimental  X Festival de Cinema de Vitória Vitória (ES) – Setembro de 2004 - Prêmio Pesquisa de Linguagem  Indicado ao Prêmio de Melhor Documentário pela Academia Brasileira de Cinema (ABC) 2003",
+      "producao": "",
+      "equipe": "Direção, roteiro e montagem : FERNANDO SEVERO Produção executiva : CAIO CESARO e JOSINA MELO Direção de fotografia e câmera : HELOISA PASSOS Trilha sonora : HARRY CROWL Som : ALESSANDRO LAROCA Produtora : CELLULOID CINEVÍDEO",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Documentário poético que registra os últimos vestígios de dois santuários construidos ao Norte do Paraná por pequenos agricultores, nos anos 60 e 70, inspirados por visões místicas. José de Freitas Miranda construiu uma cidade em miniatura, que chamou de “Aluminosa”, destinada a abrigar os sobreviventes de um futuro Apocalipse. Kekuno Warikoda erigiu um santuário composto por estátuas de divindades orientais que deveria oferecer proteção contra catástrofes climáticas ou uma hecatombe nuclear.",
+      "titulo": "Visionários",
+      "urlId": "s1okrWkRLys",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 15
+    },
+    {
+      "ano": 2008,
+      "categoriaId": 4,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Cinema LGBTQIA+"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Yanko del Pino",
+      "duracao": "16 min",
+      "outras": "PRÊMIO MELHOR CURTA-METRAGEM  REcine -- Festival Internacional de Cinema de Arquivo Rio de Janeiro - 2008. Financiamento: Financiamento público via Lei Municipal de Incentivo à Cultura (renúncia fiscal)",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Resgate documental de uma figura icônica da Boca Maldita do anos 70, a travesti Gilda. ",
+      "titulo": "Beijo na Boca Maldita",
+      "urlId": "R9g89wDQqlg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 16
+    },
+    {
+      "ano": 2007,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Filmes do interior"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Rodrigo Grota",
+      "duracao": "17 min",
+      "outras": "Prêmios Melhor Filme (Crítica), Melhor Fotografia (Júri Oficial) e Prêmio de Aquisição do Canal Brasil no 35º Festival de Cinema de Gramado (RS) Menção Honrosa no 14th International Short Film Festival in Drama, na Grécia Melhor Filme (Júri Oficial) e Melhor Fotografiano FAM 2008 (SC) Melhor Filme (Júri Oficial) no 15º Festival de Cinema e Vídeo de Cuiabá (MT) Melhor Fotografia (Júri Popular) no 5º Festival de Cinema de Maringá (PR) Melhor Fotografia (Júri Oficial) no Festival Primeiro Plano 2008 (MG) Melhor Direção de Arte (José de Aguiar) no 7º Santa Maria Vídeo e Cinema (RS) Melhor Fotografia para Curta-Metragem (Carlos Ebert) no Prêmio ABC 2008 Melhor Roteiro (Rodrigo Grota e Rodrigo Garcia Lopes) no 6º Curta Santos (SP) Melhor Filme (Júri Oficial) no Arraial CineFest 2009 (BA)",
+      "producao": "Kinoarte",
+      "equipe": "Elenco Rogério Hiwano, Caren Utino e Jim Kleist. Direção e Montagem: Rodrigo Grota Roteiro: Rodrigo Grota & Rodrigo Garcia Lopes Direção de Fotografia: Carlos Ebert, ABC Direção de Arte: José de Aguiar Direção de Produção: Bruno Gehring & Guilherme Peraro Produção Executiva: Rodrigo Grota & Caio Cesaro Finalização: Guilherme Baracat 1º Assistente de Direção de Fotografia: Anderson Craveiro Eletricista: Cícero Barbosa Figurino: Luciana Gadotti Maquiagem: Lilian Manganaro Projeto Gráfico: Guilherme Baracat Assistentes de Direção: Bruno Gehring, Guilherme Peraro & Mariana Soares Assistentes de Direção de Fotografia: Danilo Miranda, Edu C. Neto e Paulo Yamagute Assistentes de Produção: Argel Medeiros Assistente de Direção de Arte: Leonardo Delai Lucas",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Um poeta das sombras, um cineasta sem filmes e uma musa enigmática. Um falso documentário sobre um poeta que nunca existiu apresentado por um cineasta imaginário: Jim Kleist. Inspirado na obra poética de Rodrigo Garcia Lopes.",
+      "titulo": "Satori Uso",
+      "urlId": "87221575",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 17
+    },
+    {
+      "ano": 2007,
+      "categoriaId": 4,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Murilo Hauser",
+      "duracao": "16 min",
+      "outras": "EXIBIÇÕES Festival de Curtas Metragens do Rio de Janeiro 2007 Mostra de Cinema de Londrina 2007 Mostra de Cinema de Tiradentes 2008 Cine Ceará 2008, Curta Circuita Mostra “novos olhares”, Belo Horizonte 2008 Mostra Vídeo Itaú Cultural, mostra “neutro”, Belo Horizonte e Rio de Janeiro, 2008 Curta Cultura, mostra “olhar interior” – Cultura Inglesa de São Paulo Mostra CineBH 2008 8 Goiânia Mostra Curtas",
+      "producao": "",
+      "equipe": "Roteiro: Murilo Hauser e Denis Pedroso Dir.Fotografia: Claudia Guimarães Montagem: Benedito Moreira Neto Trilha Sonora: Felipe Valério Editor de Som: Alessandro Laroca Direção de Arte: Hugo Timm Figurino: Daniela Nogueira Elenco: Débora Zanatta, Mauro Zanatta, André Coelho, Christiane de Macedo e Fabíola Werlang",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O filme acompanha Ana, uma garota de vinte anos, nos últimos dias de sua vida. Fragmentos de sua cidade, de sua família e de seus amigos investigam as diferentes camadas do tempo onde habitam as pessoas ao seu redor.",
+      "titulo": "Outubro",
+      "urlId": "7883371",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 18
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Experimental",
+        "Curta-metragem",
+        "Super-8"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fábio Allon",
+      "duracao": "3 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Produção: Processo MultiArtes | Patrocínio: Caixa Cultural | Direção e Roteiro: Fábio Allon | Elenco: Camila Hubner, Pablito Kucarz e Evandro Scorsin | Dir. de Fotografia: Pedro Merege | Câmera: Fábio Allon | Produção: Bruno de Oliveira e Fábio Allon | Trilha Sonora: Maurício Ramos Marques",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Um lago de lágrimas fritas!",
+      "titulo": "Cru",
+      "urlId": "13160858",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 19
+    },
+    {
+      "ano": 2008,
+      "categoriaId": 4,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "João Marcelo Gomes",
+      "duracao": "15 min",
+      "outras": "FESTIVAIS/PRÊMIOS Seleção Oficial do Festival de Maringá; Seleção Oficial no III Prêmio Itamaraty de Cinema; Exibido no programa Curta Doc, da SescTV;  INCENTIVO Lei de Incentivo de Curitiba, Fundação Cultural de Curitiba, Prefeitura Municipal de Curitiba.  APOIO Cinetvpr, Locall, Padaria América, Teatro Paiol, Pizzaria Don Max.",
+      "producao": "",
+      "equipe": "Roteiro: André Meirelles, Flávio Rocha, João Marcelo Gomes Direção: João Marcelo Gomes Produção Executiva: João Marcelo Gomes e Patrícia Braga Carneiro Direção de produção: Patrícia Braga Carneiro Direção de fotografia: André Meirelles e Maurício Vianna Baggio Edição de som: Miriam Noronha Mixagem: Lilian Nakahodo Trilha sonora: Felipe Hickmann  e João Marcelo Gomes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": " Documentário sobre o teatro Paiol, de Curitiba, construido a partir de um antigo armazem de pólvora.",
+      "titulo": "Paiol",
+      "urlId": "12753143",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 20
+    },
+    {
+      "ano": 2008,
+      "categoriaId": 4,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Wellington Sari",
+      "duracao": "20 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Elenco: Arno Pruner, Juliana Biancato, Leandro Daniel Colombo, Rafael Magaldi  Direção e roteiro: Wellington Sari Assistente de direção: Christopher Faust Produção executiva: Diego Florentino e Wellington Sari Direção de produção: Diego Florentino Direção de fotografia: Antonio Junior Direção de arte: Ana Paula Málaga Montagem: Christopher Faust Desenho de som: Alexandre Rogoski e Vinícius Nisi Som direto: João Marcelo Gomes e Guilherme Cordova Música: Mordida",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Quatro jovens ficam presos dentro da Lavanderia Shermer. Enquanto esperam o problema ser resolvido, Wilson Borges, Norberto, Jo e o funcionário Waldo começam a interagir. A partir daí, conversas profundas sobre Scooby Doo, guarda-chuvas e o Pica-Pau, se misturam à tentativas frustradas de quebrar a porta de vidro usando o ombro, execuções de planos mirabolantes, danças exóticas e declarações de amor. Ao fim de tudo, eles descobrem que tem muito mais coisas em comum do que apenas roupas sujas.",
+      "titulo": "Lavanderia Shermer",
+      "urlId": "49ZjBoQR5iU",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 21
+    },
+    {
+      "ano": 2001,
+      "categoriaId": 4,
+      "categorias": [
+        "Animação",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Paulo Munhoz",
+      "duracao": "9 min",
+      "outras": "Roteirista: Paulo Munhoz  Produtor: Paulo Munhoz, Daniela Michelena  Diretor de Fotografia: Paulo Munhoz, Euclides Fantin, Beto Caminatti  Montador: Paulo Munhoz  Direção Musical: Vadeco  Direção de Arte: Aluisio Barbosa, Antonio Eder  Animador: Aluisio Barbosa, Luciano Lagares  Financiamento: Financiamento público via Lei Municipal de Incentivo à Cultura (renúncia fiscal)",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Misturando técnicas de animação 2D, 3D e rotoscopia sobre imagens captadas digitalmente, mostra um poeta cercado por sua imaginação, lembranças e delírios enquanto escreve uma carta.",
+      "titulo": "O Poeta",
+      "urlId": "nLql39jPv00",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 22
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Alexandre Rafael Garcia",
+      "duracao": "17 min",
+      "outras": "Pastoreio é curta-metragem dirigido por Alexandre Rafael Garcia e realizado para a disciplina Direção Audiovisual III, sob orientação de Maria Augusta Ramos, do curso de Cinema e Vídeo da Faculdade de Artes do Paraná -- CINETVPR, e lançado em maio de 2009.** Prêmio de \"melhor documentário\" no 3° MIAU (Mostra Independente do Audiovisual Universitário) ** \"TROFÉU FILME LIVRE\" na 10° MOSTRA DO FILME LIVRE - 2011",
+      "producao": "",
+      "equipe": "Apresentando: Laudelino Matoso Direção e Produção executiva: Alexandre Rafael Garcia Direção de fotografia: Andressa Cor Roteiro, Montagem, Edição de som e Finalização: Alexandre Rafael Garcia, João Krefer Direção de produção: Adelmar Mello Som direto: Alvaro Zeini Cruz, Rodrigo Janiszewski, Sandra Zawadzki",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A rotina do trabalho de Laudelino, pastor de ovelhas no Parque Barigüi em Curitiba há quase 20 anos, em meio à região urbana e inúmeras pessoas que praticam esportes ou passam suas horas de lazer. ",
+      "titulo": "Pastoreio",
+      "urlId": "wA-pFpEyguE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 23
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Universitário",
+        "Documentário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Anderson Simão, Evandro Scorsin, Nuno Chinaglia",
+      "duracao": "5 min",
+      "outras": "\"Melhor Documentário\" REC -- Rumo Estação Cinema 2009",
+      "producao": "",
+      "equipe": "Com a participação de Sarah Scorsin, José Zaleski, Ailen Scandurra e Pedro Henrique Mello.",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Diante de uma fotografia antiga, dois casais são convidados a resgatar lembranças que instiguem as memórias da fotografia em questão.",
+      "titulo": "Memória a Dois",
+      "urlId": "jx__v2Dku18",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 24
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Diego Florentino",
+      "duracao": "6 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Produção: Processo MultiArtes; CineTvPr | Direção e Roteiro: Diego Florentino | Elenco: Tiago da Rosa, Guto Affonso | Dir. de Fotografia: Antônio Junior | Câmera: Diego Florentino | Produção: Antônio Junior e Diego Florentino | Direção de Arte: Christopher Faust | Desenho de Som: Rodrigo Janiszewski | Som Direto: Wellington Sari | Agradecimentos: Adriano Esturilho, Lina Chamie.",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A bola de um garoto novo em um bairro cai no quintal vizinho. Na tentativa de resgatar o brinquedo, duela com o desconhecido.",
+      "titulo": "O muro",
+      "urlId": "13146534",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 25
+    },
+    {
+      "ano": 2008,
+      "categoriaId": 4,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Filmes do interior"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Rodrigo Grota",
+      "duracao": "15 min",
+      "outras": "./Premiações Melhor Filme (Prêmio da Crítica), Prêmio Especial do Júri, Prêmio Aquisição do Canal Brasil, Melhor Direção de Arte (para José de Aguiar) e Melhor Música (para Booker Pittman) no 36º Festival de Cinema de Gramado (RS) Troféu ABD no 19º Festival Internacional de Curtas Metragens de São Paulo (SP) Prêmio ABC de Melhor Fotografia para Curta-Metragem 2009 (para Carlos Ebert) Melhor Filme (Júri Popular) no 5º Festival Cinema de Arte de Salvador (BA) Troféu Curta-Light de Melhor Trilha Musical no 2º Festival Cine Música – Conservatória (RJ) *O filme foi indicado na categoria curta-metragem de ficção no Grande Prêmio do Cinema Brasileiro 2010",
+      "producao": "Kinoarte",
+      "equipe": "./Elenco Edson Montenegro e Cléo de Páris. ./Ficha Técnica Direção e Montagem: Rodrigo Grota Roteiro: Rodrigo Grota & Artur Ianckievicz Direção de Fotografia: Carlos Ebert, ABC Direção de Arte: José de Aguiar Direção de Produção: Argel Medeiros Produção Executiva: Bruno Gehring",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Londrina, jazz, 1950.",
+      "titulo": "Booker Pittman",
+      "urlId": "87245795",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 26
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba/Campo Grande",
+      "direcao": "Nathália Tereza",
+      "duracao": "26 min",
+      "outras": "Melhor direção de curta ou média metragem, 48º Festival de Brasília do Cinema Brasileiro, Brasil, 2015. Prêmio da crítica ABRACCINE, 48º Festival de Brasília do Cinema Brasileiro, Brasil, 2015. Melhor curta metragem - Prêmio ABC - PE, VIII Janela Internacional de Cinema do Recife, Brasil, 2015. Prêmio de Aquisição do Canal Curta!, VIII Janela Internacional de Cinema do Recife, Brasil, 2015. Melhor Direção no 22º Festival de Cinema de Vitória, Brasil, 2015. Melhor Ator no 22º Festival de Cinema de Vitória, Brasil, 2015.",
+      "producao": "",
+      "equipe": "- - Produção Executiva Ana Paula Málaga e Breno Benetti - - Direção de Fotografia Eduardo Azevedo - - Direção de Arte Camila Nham - - Som direto Lucas Maffini - - Desenho de som e mixagem Tiago Bello - - Montagem Nathália Tereza e Tomás von der Osten - - Correção de cor e finalização Lucas Negrão - - Projeto Gráfico Pedro Giongo - - Arte Cartaz Jéssica Luz",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Sábado à noite, Centro­-Oeste Brasileiro.",
+      "titulo": "A outra margem",
+      "urlId": "217713189",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 27
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Experimental",
+        "Universitário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Tomás von der Osten",
+      "duracao": "6 min",
+      "outras": "Prêmios:  • Melhor curta metragem - Mostra de Cinema de Tiradentes 2011 • Primer Premio - Festival Iberoamericano de cortos Imágenes Jóvenes en la Diversidad Cultural 2012 • Menção honrosa pela originalidade – REcine 2011 • Melhor Fotografia e Melhor Direção - Mostra Londrina de Cinema 2011",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Memória em três tempos.",
+      "titulo": "Vó Maria",
+      "urlId": "25764297",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 28
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Cinema Negro",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Bea Gerolim",
+      "duracao": "9 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e Montagem: Bea Gerolin Elenco: Lucia Gerolim, Beatriz Gerolim, Vitória Gerolim e Otávio Gerolim Direção de Fotografia: Kariny Martins Direção de Som: Túlio Borges Produção: Michel Urânia e Bea Gerolin",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "  Sabe quando você fala de uma pessoa que parece que você tá vendo essa pessoa na sua frente? Que você quer essa pessoa perto de você, mas não tem essa pessoa? É assim que ele fala.",
+      "titulo": "Ferradura",
+      "urlId": "jGWoXPxi3Fs",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 29
     }
   ]
 }

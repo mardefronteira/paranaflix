@@ -33,7 +33,7 @@ const CatFormik =
   },
   validationSchema: Yup.object().shape({
     cor: Yup.string(),
-    desc: Yup.string().required('Este campo é obrigatório.'),
+    desc: Yup.string(),
     titulo: Yup.string().required('Este campo é obrigatório.'),
   }),
   handleSubmit(values, { resetForm, setErrors, setSubmitting }) {
@@ -49,7 +49,7 @@ const CatFormik =
         filmes: []
       }
       catRepo.newCat(thisCat);
-      
+
       resetForm();
       alert("Categoria cadastrada!");
       return (BackToFilm())

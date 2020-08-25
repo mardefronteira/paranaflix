@@ -8,6 +8,7 @@ cursor: pointer;
 color: white;
 flex: 0 0 298px;
 width: 298px;
+height: 150px;
 background: none;
 position: relative;
 padding: 0px;

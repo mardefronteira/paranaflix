@@ -22,7 +22,7 @@ function CatMenu () {
       if (i > 5){
         return (
           <Label
-            key = {`catmenu_${categoria.id}`}
+            key = {`catmenu_${categoria.id}_${i}`}
             to={`/categoria/${categoria.id}`}
             style={{ color: categoria.cor || 'red' }}
           >

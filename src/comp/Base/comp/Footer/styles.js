@@ -12,4 +12,8 @@ export const FooterBase = styled.footer`
   padding: 5vh 25vw;
   text-align: center;
   font-size: 1rem;
+
+  @media (max-width: 800px) {
+    padding: 5vh 5vw;
+  }
 `;
