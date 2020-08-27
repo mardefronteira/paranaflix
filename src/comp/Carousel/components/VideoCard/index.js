@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { VideoCardContainer, Desc } from './styles';
 
 
-function VideoCard({ titulo, id, host, sinopse, ano, categoryColor }) {
+function VideoCard({ titulo, id, host, sinopse, duracao, ano, categoryColor }) {
   const [imgSrc, setImgSrc] = useState();
 
   useEffect(() => {
@@ -43,7 +43,7 @@ function VideoCard({ titulo, id, host, sinopse, ano, categoryColor }) {
         title={titulo}
       />
       <Desc>
-        <p><strong>{titulo}</strong> ({ano})</p>
+        <p><strong>{titulo}</strong> ({ano}, {duracao})</p>
         <p>{sin}</p>
       </Desc>
     </>

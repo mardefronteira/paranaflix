@@ -15,6 +15,13 @@ width: 100%;
  @media(max-width:800px) {
    padding-top:60px;
  }
+
+ a {
+   transition: opacity .3s;
+   &:hover{
+     opacity: .7;
+   }
+ }
 `;
 
 function Base({ children }) {

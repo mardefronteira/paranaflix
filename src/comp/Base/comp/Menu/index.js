@@ -17,6 +17,7 @@ function Menu() {
 
       <MenuAligner align="right">
         <MenuLink to="/sobre">Sobre</MenuLink>
+        <MenuLink to="/apoie">Apoie o projeto</MenuLink>
         <ButtonLink as={Link} className="ButtonLink" to="/novo_filme">
           Adicione um filme
         </ButtonLink>

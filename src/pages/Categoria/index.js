@@ -86,6 +86,7 @@ function GetCatInfo() {
                       ano={filme.ano || ""}
                       id={filme.urlId || ""}
                       host={filme.urlHost || ""}
+                      duracao={filme.duracao || ""}
                       categoryColor={catInfo.cor || ""}
                     />
                 </GridPosition>

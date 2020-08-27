@@ -43,29 +43,16 @@
       "id": 6
     },
     {
-      "cor": "#12ba73",
+      "cor": "#dde136",
       "desc": "",
-      "titulo": "Documentário",
+      "titulo": "Audiodescrição",
       "filmes": [
-        "v4DiId9CVhI",
-        "S2Gm18fqqDA",
-        "lS230tWjsP4",
-        "hTtsGcsqwYw",
-        "7poNxLwQjGE",
-        "35189302",
-        "s1okrWkRLys",
-        "12753143",
-        "R9g89wDQqlg",
-        "wA-pFpEyguE",
-        "jx__v2Dku18",
-        "HAW8TpF668E",
-        "jGWoXPxi3Fs",
-        "i9NA72pGkFk",
-        "wXqA589aTxE",
-        "2lW528AXLKI",
-        "135074275",
-        "zvqmZLtiZic",
-        "VSbAz-1TqD8"
+        "lmUs4j2NYe4",
+        "RaWnASSQdNw",
+        "jWXw0v6fdKI",
+        "9jF__op3qrQ",
+        "v49O3LtefDA",
+        "RI47_VUlsT8"
       ],
       "id": 7
     },
@@ -91,7 +78,23 @@
         "OEbVigAL25s",
         "108414566",
         "XyowQl89CEw",
-        "iTrL7KcKMlU"
+        "iTrL7KcKMlU",
+        "LjxNymLSiFE",
+        "9Dt4LrUq8SE",
+        "452027411",
+        "227538554",
+        "AjnmWpmXMZo",
+        "visI4mFODcs",
+        "217730802",
+        "ZsO44i5cFu8",
+        "5IdN79q8rWQ",
+        "faPUt0aaWyE",
+        "42641130",
+        "1AbLiYUY4ck",
+        "97229315",
+        "137129227",
+        "aXNUMHCMVTQ",
+        "r4mkbAAL_VI"
       ],
       "id": 8
     },
@@ -103,7 +106,8 @@
         "nNXszan9nxk",
         "nLql39jPv00",
         "ihC_-edD63o",
-        "LM376HfIerY"
+        "LM376HfIerY",
+        "277742396"
       ],
       "id": 9
     },
@@ -120,7 +124,16 @@
         "s1okrWkRLys",
         "13160858",
         "HAW8TpF668E",
-        "CcoIc4vlixA"
+        "CcoIc4vlixA",
+        "eYZzm_z4pPs",
+        "227538554",
+        "25373253",
+        "97229315",
+        "kfge674zh7A",
+        "137129227",
+        "25764281",
+        "65684658",
+        "56887671"
       ],
       "id": 10
     },
@@ -128,7 +141,10 @@
       "cor": "#dde136",
       "desc": "",
       "titulo": "Infantil",
-      "filmes": [],
+      "filmes": [
+        "277742396",
+        "1AbLiYUY4ck"
+      ],
       "id": 11
     },
     {
@@ -145,7 +161,15 @@
         "kPqxwq8xqvM",
         "LM376HfIerY",
         "jGWoXPxi3Fs",
-        "25764297"
+        "25764297",
+        "LjxNymLSiFE",
+        "vE4IPIMCm18",
+        "9Dt4LrUq8SE",
+        "eYZzm_z4pPs",
+        "227538554",
+        "42641130",
+        "25764281",
+        "65684658"
       ],
       "id": 12
     },
@@ -185,7 +209,34 @@
         "OEbVigAL25s",
         "LM376HfIerY",
         "zvqmZLtiZic",
-        "VSbAz-1TqD8"
+        "VSbAz-1TqD8",
+        "LjxNymLSiFE",
+        "vE4IPIMCm18",
+        "9Dt4LrUq8SE",
+        "eYZzm_z4pPs",
+        "227538554",
+        "32807875",
+        "AjnmWpmXMZo",
+        "visI4mFODcs",
+        "217730802",
+        "ZsO44i5cFu8",
+        "5IdN79q8rWQ",
+        "faPUt0aaWyE",
+        "25373253",
+        "277742396",
+        "42641130",
+        "1AbLiYUY4ck",
+        "97229315",
+        "kfge674zh7A",
+        "148653070",
+        "137129227",
+        "iEOkg00F6z0",
+        "aXNUMHCMVTQ",
+        "256808731",
+        "56887671",
+        "r4mkbAAL_VI",
+        "rfTd0-VqA-w",
+        "7SKVe-lOITg"
       ],
       "id": 13
     },
@@ -210,7 +261,8 @@
         "Dizf1RdPeyg",
         "2lW528AXLKI",
         "108414566",
-        "135074275"
+        "135074275",
+        "-l9TBghnxIY"
       ],
       "id": 15
     },
@@ -228,7 +280,16 @@
         "s1okrWkRLys",
         "217713189",
         "ihC_-edD63o",
-        "CcoIc4vlixA"
+        "CcoIc4vlixA",
+        "32807875",
+        "AjnmWpmXMZo",
+        "visI4mFODcs",
+        "ZsO44i5cFu8",
+        "25373253",
+        "277742396",
+        "42641130",
+        "1AbLiYUY4ck",
+        "97229315"
       ],
       "id": 16
     },
@@ -252,7 +313,14 @@
         "jGWoXPxi3Fs",
         "LM376HfIerY",
         "eJWVaWzK2DE",
-        "zvqmZLtiZic"
+        "zvqmZLtiZic",
+        "AjnmWpmXMZo",
+        "217730802",
+        "ZsO44i5cFu8",
+        "25373253",
+        "56887671",
+        "r4mkbAAL_VI",
+        "7SKVe-lOITg"
       ],
       "id": 18
     },
@@ -262,7 +330,9 @@
       "titulo": "Cinema LGBTQIA+",
       "filmes": [
         "-ZRcgkU_Ktk",
-        "R9g89wDQqlg"
+        "R9g89wDQqlg",
+        "r4mkbAAL_VI",
+        "7SKVe-lOITg"
       ],
       "id": 19
     },
@@ -275,6 +345,7 @@
         "87221575",
         "87245795",
         "zvqmZLtiZic",
+        "visI4mFODcs",
         "iTrL7KcKMlU"
       ],
       "id": 20
@@ -286,7 +357,10 @@
       "filmes": [
         "k1Y4v0JXNTs",
         "nNXszan9nxk",
-        "13160858"
+        "13160858",
+        "5IdN79q8rWQ",
+        "25373253",
+        "56887671"
       ],
       "id": 21
     },
@@ -298,6 +372,92 @@
         "XyowQl89CEw"
       ],
       "id": 22
+    },
+    {
+      "cor": "#dde136",
+      "desc": "",
+      "titulo": "Comédia",
+      "filmes": [
+        "5IdN79q8rWQ",
+        "aXNUMHCMVTQ"
+      ],
+      "id": 23
+    },
+    {
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Videoclipe",
+      "filmes": [],
+      "id": 24
+    },
+    {
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Documentário",
+      "filmes": [
+        "v4DiId9CVhI",
+        "S2Gm18fqqDA",
+        "lS230tWjsP4",
+        "hTtsGcsqwYw",
+        "7poNxLwQjGE",
+        "35189302",
+        "s1okrWkRLys",
+        "12753143",
+        "R9g89wDQqlg",
+        "wA-pFpEyguE",
+        "jx__v2Dku18",
+        "HAW8TpF668E",
+        "jGWoXPxi3Fs",
+        "i9NA72pGkFk",
+        "wXqA589aTxE",
+        "2lW528AXLKI",
+        "135074275",
+        "zvqmZLtiZic",
+        "VSbAz-1TqD8",
+        "vE4IPIMCm18",
+        "32807875",
+        "148653070",
+        "iEOkg00F6z0",
+        "256808731",
+        "-l9TBghnxIY",
+        "rfTd0-VqA-w",
+        "7SKVe-lOITg"
+      ],
+      "id": 25
+    },
+    {
+      "cor": "#0086c6",
+      "desc": "",
+      "titulo": "Legendas em português",
+      "filmes": [
+        "r4mkbAAL_VI",
+        "7SKVe-lOITg"
+      ],
+      "id": 26
+    },
+    {
+      "cor": "#fe548c",
+      "desc": "",
+      "titulo": "English subtitles",
+      "filmes": [
+        "137129227",
+        "256808731",
+        "65684658",
+        "r4mkbAAL_VI",
+        "rfTd0-VqA-w",
+        "7SKVe-lOITg"
+      ],
+      "id": 27
+    },
+    {
+      "cor": "#60fce8",
+      "desc": "",
+      "titulo": "Subtítulos en español",
+      "filmes": [
+        "r4mkbAAL_VI",
+        "rfTd0-VqA-w"
+      ],
+      "id": 28
     }
   ],
   "filmes": [
@@ -1488,6 +1648,969 @@
       "mostrar": true,
       "destaque": false,
       "id": 45
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Ficção",
+        "Universitário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gabriel Borges",
+      "duracao": "7 min",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "Direção: Gabriel Borges ; Assistência de Direção: Rodrigo Tomita ; Arte: Pâmela Kath , Maria Gabriela Goulart Neves ; Foto: Leani Ferrari ; Pedro Vilo ; Produção: Natália Moya , Mateus Simões, André Diniz ; Som: Nathalia Mendes, Bruno Araújo e Gustavo Mazuroski ; Finalização de Imagem: Pedro Vilo ; André Diniz ; Montagem: Gabriel Borges ; Finalização de Som e Trilha: Gustavo Mazuroski. Elenco: Kristy Rafaela e Juliana Nortok",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "Mônica e Camila andam tranquilamente por uma rua. Um objeto atravessa seu caminho. As duas começam a receber mensagens estranhas.",
+      "titulo": "Interferência",
+      "urlId": "LjxNymLSiFE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 46
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Universitário"
+      ],
+      "cidade": "Curitiba ",
+      "direcao": "André F. Diniz, Gabriela Ferreira , Gabriel Borges , Vinicius André Maciel",
+      "duracao": "9 min",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "Realização: André F. Diniz, Gabriela Ferreira , Gabriel Borges , Vinicius André Maciel",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "Em uma popular rua de Curitiba, um celular registra vozes e gestos da noite.",
+      "titulo": "Noite de Rua",
+      "urlId": "vE4IPIMCm18",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 47
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Universitário",
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "André F. Diniz, Viviane Ferreira",
+      "duracao": "20 min",
+      "outras": "",
+      "producao": "Maria Gabriela Goulart e Pedro Vilo",
+      "equipe": "Elenco: Mariana Soeiro e Renato Novais Direção: André F. Diniz e Viviane Freitas Argumento: André F. Diniz e Viviane Freitas Roteiro: André F. Diniz, Mariana Soeiro, Renato Novais e Viviane Freitas Assistência de direção: Ju Choma e Rodrigo Tomita Claquete e Continuidade: Gabriela Ferreira e Iury Peres Malucelli Produção: Maria Gabriela Goulart e Pedro Vilo Fotografia: Iago Tonquelski e Mateus Simões Arte: Chloe Delgado e Vinícius André Maciel Som: Brendha Rocha e Gabriel Borges Edição: Gabriel Borges Finalização de imagem: André F. Diniz Finalização de som: Vinícius André Maciel Still: Gabriela Ferreira e Iury Peres Malucelli",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "Mônica, após uma noite agitada, encontra-se com um estranho homem, em um local do qual não se recorda. Ele a questiona sobre eventos do passado, dos quais ela não se lembra muito bem.",
+      "titulo": "Cadência",
+      "urlId": "9Dt4LrUq8SE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 48
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Universitário"
+      ],
+      "cidade": "Curitiba - PR",
+      "direcao": "Gabriel Borges, Iury Peres Malucelli, Gabi Ferreira e João Gustavo Moreira.",
+      "duracao": "3 min",
+      "outras": "Realizado como trabalho para a disciplina de Direção de Fotografia II ministrada pelo professor Leandro Borges na Unespar - Campus de Curitiba II, Bacharelado em Cinema e Audiovisual.",
+      "producao": "Coco Filmes",
+      "equipe": "Elenco: Igor Ribeiro. Realização: Gabriel Borges, Iury Peres Malucelli, Gabi Ferreira e João Gustavo Moreira.",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "Um homem sem rosto vaga em busca de uma razão.",
+      "titulo": "styrofoam01.cos",
+      "urlId": "eYZzm_z4pPs",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 49
+    },
+    {
+      "ano": 2001,
+      "categoriaId": 4,
+      "categorias": [
+        "Ficção"
+      ],
+      "cidade": "CURITIBA",
+      "direcao": "HELOISA PASSOS e CATHERINE AGNIEZ",
+      "duracao": "18",
+      "outras": "PRÊMIOS: Best Cinematography, Eclipse Film Festival - USA,  Melhor trilha original, Festival de Cinema de Curitiba, Melhor direção de arte, 6º Brazilian Film Festival of Miami - USA.   PRINCIPAIS FESTIVAIS: Festival Internacional de Curtas metragens de São Paulo, 2001, I Goiânia Mostra Curtas,  Festival Internacional de Curtas do Rio de Janeiro, 2001, San Diego Latin Film Festival, 2002, Seattle International Film Festival, 2002, Braziliam Film Festival of Miami, 2002, V  Edition of the  Open Air  European Short Film of Barcelona.",
+      "producao": "MAQUINA FILMES",
+      "equipe": "com GUTA STRESSER e RODRIGO FERRARINI / Direção: Heloisa Passos e Catherine Agniez / Produção Executiva: Heloisa Passos e Luciane Passos /  Direção de produção: Gil Reikdal. Simone Vaz e Suzana Aragão /  Roteiro: Heloisa Passos e Marcelo Gomes /  Direção de Fotografia: Heloisa Passos, abc, dafb /  Direção de Arte: Catherine Agniez /  Edição: Ana Paula Catarino /  Assistente de direção: Cacau Rhoden /  Assistente de Camera: Janice D’Ávila /  Som direto: Valéria Ferro / Edição de som: Armando Torres Júnior / Trilha original: Jaime Zenamonn /",
+      "resp": {
+        "email": "helopassos@maquina.pro.br",
+        "nome": "HEOISA PASSOS"
+      },
+      "sinopse": "Clara volta anonimamente para Curitiba, cidade onde nasceu e foi criada, na busca de sensações perdidas. Leo simplesmente não tem lembranças do lugar em que vive.",
+      "titulo": "DO TEMPO QUE EU COMIA PIPOCA",
+      "urlId": "452027411",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 50
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Curta-metragem",
+        "Ficção",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Igor Urban",
+      "duracao": "3'30",
+      "outras": "Exibições: Festival Colors + Diversidade 2017/ Festival de Performances Ruído Encena 2017",
+      "producao": "Celia Sumie ",
+      "equipe": "Elenco: Ayla Miejski e Fabiano Timmermann/ Direção de Fotografia: Anna Clara Petracca/Direção de Arte: Igor Urban/ Maquiagem e Figurino: Andrea Tristão/ Ass. de Direção: Camila Sailer/ Iluminação e Elétrica: Renan Turci/ Montagem e Color: Camille Bolson",
+      "resp": {
+        "email": "igor.albach.urban@gmail.com",
+        "nome": "Igor Urban"
+      },
+      "sinopse": "Uma princesa que espera por seu príncipe encantado, a bruxa má que cansou de esperar. Um mundo pop, fascinante, mágico e descartável como o plástico. Reproduzir, reproduzir e reproduzir. ",
+      "titulo": "SNOW AYLA",
+      "urlId": "227538554",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 51
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Rafael Urban",
+      "duracao": "12 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Uma senhora faz aulas de fotografia digital e edição. Não se trata de um hobby tardio, mas de um projeto com um objetivo muito claro. A alemã Ragnhild Borgomanero – residente no Brasil desde a década de 1970 – quer ser capaz de preservar a memória de seu falecido marido, Guido, o maior colecionador de fósseis da América Latina.",
+      "titulo": "Ovos de dinossauro na sala de estar",
+      "urlId": "32807875",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 52
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Cineclube Aurora",
+        "Ficção",
+        "Dirigido por mulheres",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Caroline Biagi",
+      "duracao": "18 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Elenco | Cast Beatriz Oliveira Lorena Lima Matheus Godoy",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Enquanto uma festa de Carnaval acontece na sala, Lú entra no quarto da mãe procurando linha e agulha para costurar a alça da blusa de Tati.",
+      "titulo": "Noite Púrpura",
+      "urlId": "AjnmWpmXMZo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 53
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Cineclube Aurora",
+        "Ficção",
+        "Curta-metragem",
+        "Filmes do interior"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Rodrigo Grota",
+      "duracao": "16 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A vida e a obra do imigrante, agricultor e fotógrafo japonês Haruo Ohara (1909-1999).",
+      "titulo": "Haruo Ohara",
+      "urlId": "visI4mFODcs",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 54
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Nathália Tereza",
+      "duracao": "26 min",
+      "outras": "- - Com Mariana Mello, Ailen Scandurra, Isadora Terra, Fran Lipinski e Vida Santos ",
+      "producao": "",
+      "equipe": "- - Roteiro e Direção Nathália Tereza - - Produção Executiva Ana Paula Málaga e Caroline Biagi - - Direção de Fotografia Eduardo Azevedo - - Direção de Arte Ana Paula Málaga - - Som direto Tomás von der Osten - - Desenho de som Vitor Moraes - - Montagem Nathália Tereza e Tomás von der Osten - - Correção de cor e finalização Lucas Negrão - - Projeto Gráfico Pedro Giongo",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Mariana e suas primas estão na pequena cidade de Sertaneja, na noite do velório da avó. No carro onde passam a noite, a lâmpada interna não desliga.",
+      "titulo": "A casa sem separação",
+      "urlId": "217730802",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 55
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Dirigido por mulheres",
+        "Cineclube Aurora",
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Caroline Biagi",
+      "duracao": "14 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Na desordem dos primos aproveitando o último dia de verão, Melissa quer falar com Fábio antes que ele vá viajar.",
+      "titulo": "O fim do verão",
+      "urlId": "ZsO44i5cFu8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 56
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Super-8",
+        "Comédia"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Christopher Faust",
+      "duracao": "4 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Elenco: Evandro Scorsin, Ana Paula Málaga, Morgana Horst, Alexandre Canetta, Eduardo Colgan, Tomás Von Der Osten, Caroline Biagi, Marisa Merlo  Direção, Roteiro e Edição de som: Christopher Faust Direção de Fotografia: Renata Corrêa Direção de Arte e Assistência de direção: Caroline Biagi Captação de áudio: Tomás Von Der Osten Narração: Diego Florentino",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Augusto é convidado para uma festa no apartamento de uma colega de faculdade.",
+      "titulo": "Festa no Apartamento da Suzana ",
+      "urlId": "5IdN79q8rWQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 57
+    },
+    {
+      "ano": 2014,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Julien Guimarães",
+      "duracao": "16 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Hique diz que Camila está em uma residência artística em Portugal, mas Greice acaba de encontrá-la no centro de Curitiba.",
+      "titulo": "Caleidoscópio",
+      "urlId": "faPUt0aaWyE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 58
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Cineclube Aurora",
+        "Super-8",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Eugenia Castello",
+      "duracao": "3 min",
+      "outras": "",
+      "producao": "Processo MultiArtes",
+      "equipe": "Direção e Roteiro: Eugenia Castello | Elenco: Malu & Luma | Dir. de Fotografia: Fábio Allon | Produção: Bruno de Oliveira | Edição de Som: Renan Deodato",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A hora do chá numa tarde de sol",
+      "titulo": "Iaia et Leni",
+      "urlId": "25373253",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 59
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Cineclube Aurora",
+        "Infantil",
+        "Animação",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Murilo Hauser",
+      "duracao": "11 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "direção, roteiro, direção de fotografia, montagem e produção executiva murilo hauser  direção de arte, roteiro, design de personagem, cenários e texturas henrique martins  modelagem, textura, iluminação e composição frederico machuca  animação de personagem zé alexandre  baseado em história original de henrique martins fabiano vianna  mixagem de som alessandro laroca  edição de som eduardo virmond lima",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Independente de sua causa, o medo geralmente faz com que os sentidos da visão e da audição sejam despertados. O ser amedrontado inicialmente permanece parado e sem respirar como uma estátua, ou se abaixa como se instintivamente tentasse escapar da observação. O coração bate rapida e violentamente. A respiração acelera. As pupilas se dilatam. Os olhos permanecem abertos.",
+      "titulo": "Meu medo",
+      "urlId": "277742396",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 60
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Universitário",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "André Senna",
+      "duracao": "9 min",
+      "outras": "Curta-metragem realizado como Trabalho de Conclusão de Curso do Curso de Cinema da FAP/CINETVPR, sobre a orientação de Rodrigo Grota.",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Decisão Real registra um momento na vida de Janine, uma jovem presa em um cotidiano sufocante. ",
+      "titulo": "Decisão real",
+      "urlId": "42641130",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 61
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Cineclube Aurora",
+        "Infantil",
+        "Curta-metragem",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Christopher Faust",
+      "duracao": "14 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e Roteiro: Christopher Faust. Assistente de Direção: Bruno de Oliveira e Evandro Scorsin Produção Executiva: Antônio Junior Direção de Produção: Marisa Merlo, Wellington Sari e Aly Muritiba Direção de Fotografia: Maurício Baggio Assistente de Fotografia: André Chesini Maquiagem: Marcelino de Miranda Direção de Arte: Alex Rocca e Ana Paula Málaga Assistente de Arte: Caroline Biagi e Leandro Telles Figurino: Ana Paula Cardoso Design Gráfico: Melina Correia Montagem: Diego Florentino Assistente de Montagem: Stephanie Thomas Finalização de Imagem: Nathália Okimoto Edição de Som: Alexandre Rogoski Técnico de som Direto: João Marcelo Gomes Trilha Sonora: Rodrigo Lemos Still: Rosano Mauro Jr. ",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Fábula sobre uma criança que, devido a uma rara doença, tem barba. Felipe gosta de ser como é, mas se sente deslocado porque as outras pessoas costumam olhar para ele de forma diferente. Quando seus pais resolvem submetê-lo a uma moderna cirurgia de remoção de pêlos, será preciso que o garoto tome uma decisão drástica, que mostrará a seus pais e a cidade inteira que às vezes vale a pena lutar pelo o que se realmente é.",
+      "titulo": "Garoto Barba",
+      "urlId": "1AbLiYUY4ck",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 62
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Ficção",
+        "Curta-metragem",
+        "Cineclube Aurora"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Diogo Marques e Gustavo Ulisse",
+      "duracao": "1 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e roteiro - Diogo Marques e Gustavo Ulisse Produção - Daniel Pereira. Diogo Marques, Frederico Neto e Gustavo Ulisse Direção de fotografia - Daniel Pereira Op. Camera - Hellen Braga Ass. fotografia - Matheus Janner Colorista - Marcelo Siqueira ABC Montagem - Gustavo Ulisse Edição de som - Frederico Neto Direção de arte - Rodrigo Bontempo Ass. direção - Jaqueline Souza Cenografia - André Orathes Produção de objetos - Marina Rossignoli Maquiagem - Andréa Tristão Elétrica - Wanderson",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "--",
+      "titulo": "Bodas de prata",
+      "urlId": "97229315",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 63
+    },
+    {
+      "ano": 1984,
+      "categoriaId": 2,
+      "categorias": [
+        "Experimental",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Pedro Anisio",
+      "duracao": "5 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção: Pedro Anisio Direção Fotografia: Jaime Brustolin Trilha Sonora: Tom Capone Direção de Produção: Carlos Homero Ribas Narração: Jota Pingo e Mercedes Alvin",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Curta-metragem em 35mm realizado em Curitiba, Paraná, em 1984 com o poeta Paulo Leminski. ",
+      "titulo": "Cine Hai Kai",
+      "urlId": "kfge674zh7A",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 64
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Eduardo Baggio",
+      "duracao": "20 min",
+      "outras": "Exibições: 12th Panorama - Salvador IFF (Brazil, 2016) 5th Olhar de Cinema - Curitiba International Film Festival (Brazil, 2016) [National Première] 3rd Fronteira - International Documentary and Experimental FF (Brazil, 2016) 2nd FEVUEM – State University of Maringá FF (Brazil, 2016) 1st Cartas ao Mundão (Brazil, 2016) 5th FestCine - Pinhais FF (Brazil, 2017) 3rd Cine Jardim - Belo Jardim FF (Brazil, 2017) 1st Mostra Sesc de Cinema (Brazil, 2017) 1st Mostra de Cinema de Fama (Brazil, 2017) 1st 3 Margens – Latin American FF (Brasil, Argentina e Paraguai, 2017) 10th Jornadas do Cinema em Português (UBI – Portugal) 2017 1st Festival Mimoso de Cinema - Mostra Cineclube Mimoso 2018 Mostra Permanente de Curtas 2018 – Cine Cultura de Goiânia",
+      "producao": "",
+      "equipe": "Direção e Roteiro: Eduardo Baggio Elenco: João dos Santos Basso & Maria Dirce Ferreira Bill Trilha Sonora: Donizete e Ivonte – Canção Original Assistência de Direção e Produção Executiva: Rafael Urban Direção de Produção: Ana Paula Málaga Pesquisa e Assistência de Produção: Mariana Sanchez Direção de Fotografia: Mauricio Baggio Assistência de Fotografia e Fotografia Still: Elisandro Dalcin Som Direto: João Menna Barreto Edição e Mixagem de Som: Ulisses Galetto Montagem: Diego Florentino Finalização: João Castelo Branco Assistência de produção executiva – Sonia Procópio Assistência de produção – Isabele Orengo Projeto gráfico – Ana Paula Migueis",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O viúvo João declara sua solidão em um programa radiofônico e encontra Maria, mulher recém separada que anseia por uma nova vida a dois. ",
+      "titulo": "João & Maria",
+      "urlId": "148653070",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 65
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Experimental",
+        "Curta-metragem",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Tomás von der Osten",
+      "duracao": "16 min",
+      "outras": "12o Indie Lisboa – Festival Internacional de Cinema Independente | 4o. Olhar de Cinema – Festival Internacional de Curitiba | 25o Curta Cinema – Festival Internacional de Curtas do Rio de Janeiro. 15a. Mostra do Filme Livre. 18o. Festival Internacional de Curtas de Belo Horizonte. 8o. Janela Internacional de Cinema do Recife. ",
+      "producao": "",
+      "equipe": "Elenco: Ailen Scandurra, Luciano Faccini, Renato Tortorella",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O conto fantástico de \"A Invenção da Noite\" vive num bosque entregue aos movimentos animais da juventude que aí se esconde.",
+      "titulo": "A Invenção da Noite",
+      "urlId": "137129227",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 66
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernando Severo",
+      "duracao": "21 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e Montagem: Fernando Severo Roteiro: Carmen Lucia da Silva, Gil Baroni e Fernando Severo Produção Executiva: Diego Lopes Direção de Produção: Andrea Tomeleri Fotografia: Matheus Rocha Som: Rose Ribeiro Edição de Som: Cristiano Scherer",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Durante o desordenado processo de colonização do noroeste do Paraná, nos anos 40 e 50, foi avistada uma população indígena que até então havia tido pouquíssimo contato com o homem branco. Logo o povo Xetá foi expulso de suas terras, vitimado por ações de extermínio e os poucos sobreviventes dispersos por outros locais. A quase extinção dos Xetá acabou contribuindo para provocar um desastre ecológico irreversível na região.",
+      "titulo": "Xetá",
+      "urlId": "iEOkg00F6z0",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 67
+    },
+    {
+      "ano": 2014,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Comédia",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "William Biagioli",
+      "duracao": "11 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção, Produção, Roteiro e Montagem: William Biagioli Locução: James Boucault Finalização de Imagem e Som: Guilherme Delamuta",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Este filme reúne evidências de que Curitiba é, sim, a melhor cidade do mundo para se viver.",
+      "titulo": "Curitiba: a maior e melhor cidade do mundo",
+      "urlId": "aXNUMHCMVTQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 68
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Aly Muritiba",
+      "duracao": "17 min",
+      "outras": "",
+      "producao": "Grafo Audiovisual",
+      "equipe": "Montagem: Aly Muritiba, João Menna Barreto Som: Alexandre Rogoski, João Menna Barreto",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "No Pátio joga-se bola, capoeira e fala-se de liberdade.",
+      "titulo": "Pátio",
+      "urlId": "256808731",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 69
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Tomás von der Osten",
+      "duracao": "8 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Uma estrela caiu. Faça um pedido.",
+      "titulo": "Cadente",
+      "urlId": "25764281",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 70
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Universitário",
+        "Experimental",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Tomás von der Osten",
+      "duracao": "3 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Duas vezes (e por acaso).",
+      "titulo": "Miragem",
+      "urlId": "65684658",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 71
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Curta-metragem",
+        "Super-8",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Caroline Biagi",
+      "duracao": "3 min",
+      "outras": "Realizado para a Oficina em Tomada Única do 7º CURTA8 - Festival Internacional de Cinema Super-8 de Curitiba (2011).",
+      "producao": "",
+      "equipe": "Roteiro e Direção: Caroline Biagi Direção de Fotografia: Renata Corrêa Ass. de Direção: Ana Paula Málaga Trilha sonora: The valleys",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Um dia serei também somente ausência.",
+      "titulo": "Partida",
+      "urlId": "56887671",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 72
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Longa-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Bruno de Oliveira",
+      "duracao": "80 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Ass. de Direção: Fábio Allon | Dir. de Produção: Adriano Esturilho | Produção Executiva: Adriano Esturilho e Carolina Maia | Ass. de Produção: Marisa Merlo | Dir. de Fotografia: Adalgisa Lacerda e André Chesini | Ass. de Câmera e Câmera Adicional: Antônio Jr. | Still: Andressa Cor | Som Direto: Roberto Carlos de Oliveira (Tinho) | Programação Visual: Pablito Kucarz | Edição e Finalização: Daniel Duda",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Documentário sobre a vida e obra do cineasta Cyro Matoso.",
+      "titulo": "CineMatoso",
+      "urlId": "-l9TBghnxIY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 73
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Cinema LGBTQIA+",
+        "Legendas em português",
+        "English subtitles",
+        "Subtítulos en español"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Débora Zanatta & Estevan de la Fuente",
+      "duracao": "19 min",
+      "outras": "",
+      "producao": " Beija Flor Filmes",
+      "equipe": "Produção/ Producer/ Productor: Andréa Tomeleri & Gil Baroni Roteiro/ Screenwriter/Guion: Estevan de la Fuente Apresentando/ Featuring/ Participacion: Laysa Machado, Flora Chagas, Marina Vieira Chagas Lemos, Gerson Delliano, Mauro Zanatta, Regina Vogue, Rebeca Cordeiro, Marcel Szymanski & Anne Celli.",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Abre-se, na vida de Fernanda, uma possibilidade de reconstrução da sua própria imagem. E isso acontece a partir de uma oferta de emprego que reativa nela toda a relação de afeto que havia sido construída com sua mãe, durante a infância. Mas Fernanda, que está sempre precisando negociar sua identidade com o mundo externo, irá passar por mais um teste.",
+      "titulo": "Primavera de Fernanda",
+      "urlId": "r4mkbAAL_VI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 74
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Débora Zanatta & Estevan de la Fuente",
+      "duracao": "19 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Produção/ Producer/ Productor: Andréa Tomeleri & Gil Baroni Roteiro/ Screenwriter/Guion: Estevan de la Fuente Apresentando/ Featuring/ Participacion: Laysa Machado, Flora Chagas, Marina Vieira Chagas Lemos, Gerson Delliano, Mauro Zanatta, Regina Vogue, Rebeca Cordeiro, Marcel Szymanski & Anne Celli.",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Abre-se, na vida de Fernanda, uma possibilidade de reconstrução da sua própria imagem. E isso acontece a partir de uma oferta de emprego que reativa nela toda a relação de afeto que havia sido construída com sua mãe, durante a infância. Mas Fernanda, que está sempre precisando negociar sua identidade com o mundo externo, irá passar por mais um teste.",
+      "titulo": "Primavera de Fernanda",
+      "urlId": "lmUs4j2NYe4",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 75
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min",
+      "outras": "Elenco / Cast: Rodrigo dos Santos, Isabel Zuaá, Mayara Aguiar, Laura Haddad, Ma Ry Maria, Luccas Otavio, Marcelo Munhoz, Antônio Pitanga, Paulo Matos, Raquel Rizzo, Cinara Vitor.",
+      "producao": "",
+      "equipe": "Produção Executiva / Executive Producer: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção / Production Manager: Ana Paula Málaga Produtor Associado / Associate Producer: Gil Baroni e Andréa Tomeleri Diretor de Fotografia / Director of Photography: Renato Ogata Diretor de Arte / Art Director: Alex Rocca Edição / Editor: Nathália Tereza & Pedro Giongo Música / Soundtrack: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco / Casting Coach : Marcelo Munhoz.  Assistentes de Direção / Assistant Director: Rudolfo Auffinger & Lígia Teixeira Figurino / Costume Designer: Isabella Fonseca Maquiagem / Make up artist: Andréia Tristão Desenho de Som / Sound Designer: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Cristian Nazário, primeiro brasileiro negro a ter escalado o monte Everest, retorna para casa. Nesse retorno, ele traz consigo uma doença misteriosa. ",
+      "titulo": "Rarefeito - Episódio 01",
+      "urlId": "RaWnASSQdNw",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 76
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Produção Executiva / Executive Producer: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção / Production Manager: Ana Paula Málaga Produtor Associado / Associate Producer: Gil Baroni e Andréa Tomeleri Diretor de Fotografia / Director of Photography: Renato Ogata Diretor de Arte / Art Director: Alex Rocca Edição / Editor: Nathália Tereza & Pedro Giongo Música / Soundtrack: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco / Casting Coach : Marcelo Munhoz.  Assistentes de Direção / Assistant Director: Rudolfo Auffinger & Lígia Teixeira Figurino / Costume Designer: Isabella Fonseca Maquiagem / Make up artist: Andréia Tristão Desenho de Som / Sound Designer: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Cristian passa a consultar-se com uma psicóloga, Cláudia, para conversar a respeito de sua doença. Na faculdade onde Cristian leciona economia, desenvolve-se um episódio de racismo envolvendo um dos melhores alunos da sala. ",
+      "titulo": "Rarefeito - Episódio 02",
+      "urlId": "jWXw0v6fdKI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 77
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min",
+      "outras": "Elenco / Cast: Rodrigo dos Santos, Isabel Zuaá, Mayara Aguiar, Laura Haddad, Ma Ry Maria, Luccas Otavio, Marcelo Munhoz, Antônio Pitanga, Paulo Matos, Raquel Rizzo, Cinara Vitor.",
+      "producao": "",
+      "equipe": "Produção Executiva / Executive Producer: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção / Production Manager: Ana Paula Málaga Produtor Associado / Associate Producer: Gil Baroni e Andréa Tomeleri Diretor de Fotografia / Director of Photography: Renato Ogata Diretor de Arte / Art Director: Alex Rocca Edição / Editor: Nathália Tereza & Pedro Giongo Música / Soundtrack: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco / Casting Coach : Marcelo Munhoz.  Assistentes de Direção / Assistant Director: Rudolfo Auffinger & Lígia Teixeira Figurino / Costume Designer: Isabella Fonseca Maquiagem / Make up artist: Andréia Tristão Desenho de Som / Sound Designer: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Amanda pede que o pai vá com ela em uma batalha de rap, mas Cristian a proíbe de ir. Durante o show de rap, Amanda envolve-se em um caso de polícia.",
+      "titulo": "Rarefeito - Episódio 03",
+      "urlId": "9jF__op3qrQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 78
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min",
+      "outras": "Elenco / Cast: Rodrigo dos Santos, Isabel Zuaá, Mayara Aguiar, Laura Haddad, Ma Ry Maria, Luccas Otavio, Marcelo Munhoz, Antônio Pitanga, Paulo Matos, Raquel Rizzo, Cinara Vitor.",
+      "producao": "",
+      "equipe": "Produção Executiva / Executive Producer: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção / Production Manager: Ana Paula Málaga Produtor Associado / Associate Producer: Gil Baroni e Andréa Tomeleri Diretor de Fotografia / Director of Photography: Renato Ogata Diretor de Arte / Art Director: Alex Rocca Edição / Editor: Nathália Tereza & Pedro Giongo Música / Soundtrack: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco / Casting Coach : Marcelo Munhoz.  Assistentes de Direção / Assistant Director: Rudolfo Auffinger & Lígia Teixeira Figurino / Costume Designer: Isabella Fonseca Maquiagem / Make up artist: Andréia Tristão Desenho de Som / Sound Designer: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Cristian sofre um desmaio e no hospital descobre que o estado do câncer é irreversível. A psicóloga, Cláudia, recusa-se a continuar atendendo Cristian. ",
+      "titulo": "Rarefeito - Episódio 04",
+      "urlId": "v49O3LtefDA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 79
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marçal do Carmo & André Fernando Stürmer",
+      "duracao": "26 min",
+      "outras": "Elenco / Cast: Rodrigo dos Santos, Isabel Zuaá, Mayara Aguiar, Laura Haddad, Ma Ry Maria, Luccas Otavio, Marcelo Munhoz, Antônio Pitanga, Paulo Matos, Raquel Rizzo, Cinara Vitor.",
+      "producao": "",
+      "equipe": "Produção Executiva / Executive Producer: Caroline Biagi, Marçal do Carmo, Nathália Tereza Direção de Produção / Production Manager: Ana Paula Málaga Produtor Associado / Associate Producer: Gil Baroni e Andréa Tomeleri Diretor de Fotografia / Director of Photography: Renato Ogata Diretor de Arte / Art Director: Alex Rocca Edição / Editor: Nathália Tereza & Pedro Giongo Música / Soundtrack: Maurício Marques Ramos Casting: Carol Damião Preparador de elenco / Casting Coach : Marcelo Munhoz.  Assistentes de Direção / Assistant Director: Rudolfo Auffinger & Lígia Teixeira Figurino / Costume Designer: Isabella Fonseca Maquiagem / Make up artist: Andréia Tristão Desenho de Som / Sound Designer: Tiago Bello & Marcos Lopes",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "A família tem seu jantar de natal interrompido por uma estranha aparição: José, o pai de Cristian, que não o via há muitos anos. As consequências dessa noite são trágicas para todos. ",
+      "titulo": "Rarefeito - Episódio 05",
+      "urlId": "RI47_VUlsT8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 80
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "English subtitles",
+        "Subtítulos en español"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gil Baroni",
+      "duracao": "25 min",
+      "outras": "- Prêmio de Melhor Curta-metragem no VI Festival Internacional de Cine Social de Concórdia - (Argentina, 2016); - Menção Honrosa na Semana Paulistana do Curta-Metragem (Brasil, 2016); - Prêmio de Melhor Filme do Júri Popular, Prêmio de Melhor Direção, Prêmio de Melhor Fotografia e Prêmio de Melhor Roteiro na Mostra Paranaense do 17º Festival Kinoarte de Cinema (Brasil, 2015); - Seleção Oficial do La Plata International Independent Film Festival (Argentina, 2015); - Seleção Oficial da 15ª Mostra do Filme Livre (Brasil, 2016);  - Seleção Oficial do XVI Festival Internacional de Cine de Lanzarote (Espanha, 2016); - Seleção Oficial do aluCine Latin Film+Media Arts Festival (Canadá, 2016); - Seleção Oficial do BISFF - Busan International Short Film Festival (Coréia do Sul, 2016); ",
+      "producao": "",
+      "equipe": "Direção/Director/Direccion: Gil Baroni Produção/ Producer/ Productor: Andréa Tomeleri Roteiro/ Screenwriter/Guion: Adriel Nizer Silva, Eduardo Franca Xavier & Gil Baroni Fotografia e câmera/Cinematography and camera/ Cinematografia y camera: Yuri Mranhão Montagem/ Editor/ Edicion: Adriel Nizer Silva Finalização de Som/ Sound Mixing/ Diseno Sonoro: Rodrigo Janiszewiski Finalização de imagens/ Post production/ Postproduccion: Lucas Negrão Apresentando/ Featuring/ Participacion: Luana Lenita Linhares, Leandro Luis Linhares de Lima, Lesslie Laís Linhares de Lima, Leonardo Luan Linhares de Lima, Mateus Felipe Alves Linhares, Lucas Leonan Linhares de Lima & Rhiana Karolin Araujo de Meira.",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O rito do Brasil contorna o concreto das cidades sede meio à Copa de 2014. Pelas ruas, Luana vagueia reciclando o lixo e tentando explicar o mundo a seus seis filhos.",
+      "titulo": "Ciclo 7X1",
+      "urlId": "rfTd0-VqA-w",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 81
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Cinema LGBTQIA+",
+        "Legendas em português",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Larissa Nepomuceno Moreira e Eduardo Sanches",
+      "duracao": "15 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção: Larissa Nepomuceno Moreira e Eduardo Sanches Produção: Gustavo Rocha Assistência de produção: Sofia Calliari Direção de arte: Lucas Veiga Som: Lucas Teixeira Assistência de som: Ricardo Luiz Direção de fotografia: Eduardo Sanches Assistência de fotografia: Rodrigo Franco Edição: Larissa Nepomuceno Moreira Colorização: Eduardo Sanches, Fábio S Thibes Desenho de som: Carmem Agulham",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Megg Rayara derrubou barreiras para chegar onde chegou. Para ela, seu diploma é um marco importante de uma luta não só pessoal mas, sim, coletiva. Pela primeira vez no Brasil, uma travesti negra conquista o título de Doutora.  É a margem que migra para o centro, levando toda sua história consigo.",
+      "titulo": "Megg - a margem que migra para o centro",
+      "urlId": "7SKVe-lOITg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 82
     }
   ]
 }

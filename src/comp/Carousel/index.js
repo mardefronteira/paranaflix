@@ -30,6 +30,7 @@ function Carousel({
                 ano={filme.ano}
                 id={filme.urlId}
                 host={filme.urlHost}
+                duracao={filme.duracao}
                 categoryColor={categoryColor}
               />
             </SliderItem>
