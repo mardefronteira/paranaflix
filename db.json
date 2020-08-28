@@ -57,6 +57,44 @@
       "id": 7
     },
     {
+      "cor": "#12ba73",
+      "desc": "",
+      "titulo": "Documentário",
+      "filmes": [
+        "v4DiId9CVhI",
+        "S2Gm18fqqDA",
+        "lS230tWjsP4",
+        "hTtsGcsqwYw",
+        "7poNxLwQjGE",
+        "35189302",
+        "s1okrWkRLys",
+        "12753143",
+        "R9g89wDQqlg",
+        "wA-pFpEyguE",
+        "jx__v2Dku18",
+        "HAW8TpF668E",
+        "jGWoXPxi3Fs",
+        "i9NA72pGkFk",
+        "wXqA589aTxE",
+        "2lW528AXLKI",
+        "135074275",
+        "zvqmZLtiZic",
+        "VSbAz-1TqD8",
+        "vE4IPIMCm18",
+        "32807875",
+        "148653070",
+        "iEOkg00F6z0",
+        "256808731",
+        "-l9TBghnxIY",
+        "rfTd0-VqA-w",
+        "7SKVe-lOITg",
+        "41780802",
+        "86141419",
+        "GPNo_EXSb-I"
+      ],
+      "id": 25
+    },
+    {
       "cor": "#0086c6",
       "desc": "",
       "titulo": "Ficção",
@@ -94,7 +132,11 @@
         "97229315",
         "137129227",
         "aXNUMHCMVTQ",
-        "r4mkbAAL_VI"
+        "r4mkbAAL_VI",
+        "12959615",
+        "6870050",
+        "tVNuVfqayR8",
+        "111024977"
       ],
       "id": 8
     },
@@ -133,7 +175,11 @@
         "137129227",
         "25764281",
         "65684658",
-        "56887671"
+        "56887671",
+        "41780802",
+        "86141419",
+        "6870050",
+        "111024977"
       ],
       "id": 10
     },
@@ -169,7 +215,10 @@
         "227538554",
         "42641130",
         "25764281",
-        "65684658"
+        "65684658",
+        "86141419",
+        "GPNo_EXSb-I",
+        "tVNuVfqayR8"
       ],
       "id": 12
     },
@@ -185,6 +234,7 @@
         "7poNxLwQjGE",
         "7KnHJy6IqlQ",
         "jdhTZjZ-pFM",
+        "452027411",
         "35189302",
         "s1okrWkRLys",
         "DAmZbMfH5ks",
@@ -236,7 +286,16 @@
         "56887671",
         "r4mkbAAL_VI",
         "rfTd0-VqA-w",
-        "7SKVe-lOITg"
+        "7SKVe-lOITg",
+        "41780802",
+        "12959615",
+        "86141419",
+        "GPNo_EXSb-I",
+        "6870050",
+        "tVNuVfqayR8",
+        "mN827z5i_aE",
+        "LP3lhnh9Ugo",
+        "111024977"
       ],
       "id": 13
     },
@@ -310,6 +369,7 @@
         "hTtsGcsqwYw",
         "35189302",
         "217713189",
+        "452027411",
         "jGWoXPxi3Fs",
         "LM376HfIerY",
         "eJWVaWzK2DE",
@@ -326,13 +386,14 @@
     },
     {
       "cor": "#dde136",
-      "desc": "FIlmes dirigidos e/ou escritos por pessoas LGBTQIA+, ou relacionados.",
+      "desc": "",
       "titulo": "Cinema LGBTQIA+",
       "filmes": [
         "-ZRcgkU_Ktk",
         "R9g89wDQqlg",
         "r4mkbAAL_VI",
-        "7SKVe-lOITg"
+        "7SKVe-lOITg",
+        "GPNo_EXSb-I"
       ],
       "id": 19
     },
@@ -346,7 +407,9 @@
         "87245795",
         "zvqmZLtiZic",
         "visI4mFODcs",
-        "iTrL7KcKMlU"
+        "iTrL7KcKMlU",
+        "mN827z5i_aE",
+        "LP3lhnh9Ugo"
       ],
       "id": 20
     },
@@ -389,41 +452,6 @@
       "titulo": "Videoclipe",
       "filmes": [],
       "id": 24
-    },
-    {
-      "cor": "#12ba73",
-      "desc": "",
-      "titulo": "Documentário",
-      "filmes": [
-        "v4DiId9CVhI",
-        "S2Gm18fqqDA",
-        "lS230tWjsP4",
-        "hTtsGcsqwYw",
-        "7poNxLwQjGE",
-        "35189302",
-        "s1okrWkRLys",
-        "12753143",
-        "R9g89wDQqlg",
-        "wA-pFpEyguE",
-        "jx__v2Dku18",
-        "HAW8TpF668E",
-        "jGWoXPxi3Fs",
-        "i9NA72pGkFk",
-        "wXqA589aTxE",
-        "2lW528AXLKI",
-        "135074275",
-        "zvqmZLtiZic",
-        "VSbAz-1TqD8",
-        "vE4IPIMCm18",
-        "32807875",
-        "148653070",
-        "iEOkg00F6z0",
-        "256808731",
-        "-l9TBghnxIY",
-        "rfTd0-VqA-w",
-        "7SKVe-lOITg"
-      ],
-      "id": 25
     },
     {
       "cor": "#0086c6",
@@ -1197,7 +1225,7 @@
         "Universitário"
       ],
       "cidade": "Curitiba",
-      "direcao": "Bea Gerolim",
+      "direcao": "Bea Gerolin",
       "duracao": "9 min",
       "outras": "",
       "producao": "",
@@ -1757,17 +1785,19 @@
       "ano": 2001,
       "categoriaId": 4,
       "categorias": [
-        "Ficção"
+        "Ficção",
+        "Dirigido por mulheres",
+        "Curta-metragem"
       ],
       "cidade": "CURITIBA",
       "direcao": "HELOISA PASSOS e CATHERINE AGNIEZ",
-      "duracao": "18",
+      "duracao": "18 min",
       "outras": "PRÊMIOS: Best Cinematography, Eclipse Film Festival - USA,  Melhor trilha original, Festival de Cinema de Curitiba, Melhor direção de arte, 6º Brazilian Film Festival of Miami - USA.   PRINCIPAIS FESTIVAIS: Festival Internacional de Curtas metragens de São Paulo, 2001, I Goiânia Mostra Curtas,  Festival Internacional de Curtas do Rio de Janeiro, 2001, San Diego Latin Film Festival, 2002, Seattle International Film Festival, 2002, Braziliam Film Festival of Miami, 2002, V  Edition of the  Open Air  European Short Film of Barcelona.",
       "producao": "MAQUINA FILMES",
       "equipe": "com GUTA STRESSER e RODRIGO FERRARINI / Direção: Heloisa Passos e Catherine Agniez / Produção Executiva: Heloisa Passos e Luciane Passos /  Direção de produção: Gil Reikdal. Simone Vaz e Suzana Aragão /  Roteiro: Heloisa Passos e Marcelo Gomes /  Direção de Fotografia: Heloisa Passos, abc, dafb /  Direção de Arte: Catherine Agniez /  Edição: Ana Paula Catarino /  Assistente de direção: Cacau Rhoden /  Assistente de Camera: Janice D’Ávila /  Som direto: Valéria Ferro / Edição de som: Armando Torres Júnior / Trilha original: Jaime Zenamonn /",
       "resp": {
         "email": "helopassos@maquina.pro.br",
-        "nome": "HEOISA PASSOS"
+        "nome": "HELOISA PASSOS"
       },
       "sinopse": "Clara volta anonimamente para Curitiba, cidade onde nasceu e foi criada, na busca de sensações perdidas. Leo simplesmente não tem lembranças do lugar em que vive.",
       "titulo": "DO TEMPO QUE EU COMIA PIPOCA",
@@ -2611,6 +2641,239 @@
       "mostrar": true,
       "destaque": false,
       "id": 82
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Bruno Costa",
+      "duracao": "9 min",
+      "outras": "",
+      "producao": "Processo Multiartes",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Lembranças do ano de 1997.",
+      "titulo": "IN",
+      "urlId": "41780802",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 83
+    },
+    {
+      "ano": 2008,
+      "categoriaId": 4,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Bruno Costa",
+      "duracao": "20 min",
+      "outras": "",
+      "producao": "Processo Multiartes",
+      "equipe": "Produção: Processo Filmes e Grafo Audiovisual | Direção e Roteiro: Bruno Costa | Elenco: Walace Brassero, Hermison Nogueira, Renata Cunali, Santos Chagas, Simon Slompo, Marcelo Miguel, Luthero de Almeida | Produção Executiva: Diego Florentino | Ass. de Direção: Sérgio Velloso | Casting e Dir. de Atores: Adriano Esturilho | Dir. de Arte: Fábio Allon | Ass. de Arte: Marisa Merlo | Figurinista e Maquiadora: Renata Cunali e Bruna Gonçalves | Dir. de Fotografia: André Chesini | 1° Ass. de Câmera: Antônio Jr. | 2° Ass. de Câmera: Renata Corrêa | Eletricista: Faísca | Dir. de Produção: Carolina Stencel | Platô: Aly Muritiba | Som Direto: Rogério Weiss Naressi e João Marcelo Gomes | Editor de Som e Trilha Sonora: Rogério Weiss Naressi | Edição e Pós Produção: Daniel Duda | ",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "José Carlos, um jovem solitário e sem perspectivas para seu futuro, operário no turno da noite de uma fábrica, sofre de uma forte insônia que lhe impede de dormir durante o dia. Sua insônia torna-se cada vez mais freqüente. Atormentado por sua doença e descrente com o mundo ao seu redor, ele recorre ao “Homem”, que lhe incumbe de uma curiosa tarefa como antídoto para lhe trazer a paz e o sono tão desejado.",
+      "titulo": "Os Dias Cinzas",
+      "urlId": "12959615",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 84
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Documentário",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Laura Montalvão, Marcos Serafim e Thiago Benites",
+      "duracao": "8 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "afsenna@gmail.com",
+        "nome": "André Senna"
+      },
+      "sinopse": "Com o telecine de raríssimo material de arquivo da Cinemateca de Curitiba, desvenda-se a história por trás da realização de curta-metragem em 16mm em Curitiba pelo cineasta marginal Ozualdo Candeias. Candeias inspirou-se em conto gráfico de Poty Lazzarotto, \"A Visita do Velho Senhor\", e produziu o filme com Valêncio Xavier.",
+      "titulo": "hollywood",
+      "urlId": "86141419",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 85
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Universitário",
+        "Documentário",
+        "Cinema LGBTQIA+",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Icaro Zanutto",
+      "duracao": "14 min",
+      "outras": "1° Festival Close Certo (São Paulo, SP) FESTICINI – 3° Festival Internacional de Cinema Independente (Guararema, SP) Festfilmes - 3° Festival Do Audiovisual Luso Afro Brasileiro (Juazeiro do Norte, CE) 20º Festival Kinoarte De Cinema (Londrina, PR) MafuÁ - 4ª Mostra Do Filme Universitário E Amador (Maringá, PR) 4º Toró - Festival Audiovisual Universitário De Belém (Belém, PA)",
+      "producao": "",
+      "equipe": "DIREÇÃO: Icaro Zanutto PRODUÇÃO: Julia Antoniazzi DIREÇÃO DE FOTOGRAFIA: Hugo Lobo Mejía SOM DIRETO: Mateus Praxedes EDIÇÃO: Icaro Zanutto e Lúcio Sulzbach EDIÇÃO DE SOM: Daniel Benelli COLORIZAÇÃO: Lúcio Sulzbach",
+      "resp": {
+        "email": "zanutoicaro@gmail.com",
+        "nome": "Icaro Zanutto"
+      },
+      "sinopse": "Força, luta, anseio. Após o diagnóstico, a outra vida. Um olhar reflexivo sobre a atual situação do HIV no Brasil através do dia a dia de uma ONG que dá apoio às pessoas que vivem com o vírus.",
+      "titulo": "A Outra Vida",
+      "urlId": "GPNo_EXSb-I",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 86
+    },
+    {
+      "ano": 2005,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Sérgio Ortencio",
+      "duracao": "9 min",
+      "outras": "",
+      "producao": "Plano 9 Audiovisual",
+      "equipe": "",
+      "resp": {
+        "email": "takebizcwb@gmail.com",
+        "nome": "Sérgio Ortencio"
+      },
+      "sinopse": "Encontros e desencontros que levam a um relacionamento amoroso. ",
+      "titulo": "Acaso",
+      "urlId": "6870050",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 87
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gabriel Novatzki",
+      "duracao": "20 min",
+      "outras": "Elenco Lua Buzato - Ana Lucas D’Peder - Bruno Natacha Pastore - Jornalista Jackson César de Lima - Chefe Daniele Zwierzikowski - Dublê 1 Isolda Marques de Oliveira - Dublê 2 Evaristo Silva - Colega 1 Arthur Augustus - Colega 2 Guilherme Stockler - Colega 3 Silviane Stockler - Colega 4 Aleks Costa - Colega 5",
+      "producao": "",
+      "equipe": "Argumento e Direção Gabriel Novatzki  Roteiro Isolda Marques de Oliveira   Produção Executiva Daniele Zwierzikowski  Direção de Fotografia Emerson Marques  Assistente de Fotografia Marilene Marin Pedro Vinícius  Eletricista Endrio Lázaro  Som direto Joel Junior Isolda Marques de Oliveira  Pedro Vinícius  Montagem e edição Gabriel Novatzki  Colorização Lua Buzato  Direção de Arte Daniele Zwierzikowski Isolda Marques de Oliveira  Lua Buzato  Maquiagem Daniele Zwierzikowski Lua Buzato  Cabelo Daniele Zwierzikowski Gil Buzato  Figurino Isolda Marques Daniele Zwierzikowski Lua Buzato  Casting Lua Buzato Daniele Zwierzikowski  Divulgação Daniele Zwierzikowski Gabriel Novatzki",
+      "resp": {
+        "email": "gabrielnovatzki@gmail.com",
+        "nome": "Gabriel Novatzki"
+      },
+      "sinopse": "O curta conta a história de Ana, jovem de 25 anos que aparentemente vive sozinha na maior parte do tempo, mas na verdade, vive rodeada por seus sentimentos mais intensos personificados. Responsabilidade, Raiva e Desmotivação tentam persuadir Ana em todas as decisões, até que ela toma uma atitude para mudar a situação. É um filme intenso que abre espaço para discussões psicológicas e permite diversas análises e interpretações.",
+      "titulo": "Múltipla Exposição",
+      "urlId": "tVNuVfqayR8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 88
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Filmes do interior"
+      ],
+      "cidade": "Maringá",
+      "direcao": "Leandro Fóz",
+      "duracao": "7 min",
+      "outras": "",
+      "producao": "Cia Palco Maringá",
+      "equipe": "",
+      "resp": {
+        "email": "atorleandrofoz@gmail.com",
+        "nome": "Leandro da Costa Foz"
+      },
+      "sinopse": "Uma jovem se vê sozinha mesmo cheia de amigos, sua vida segue sempre a mesma rotina. ",
+      "titulo": "Entre todos mas sozinha",
+      "urlId": "mN827z5i_aE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 89
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Filmes do interior",
+        "Curta-metragem"
+      ],
+      "cidade": "Maringá",
+      "direcao": "Leandro Fóz",
+      "duracao": "10 min",
+      "outras": "",
+      "producao": "",
+      "equipe": "Cia Palco Maringá",
+      "resp": {
+        "email": "atorleandrofoz@gmail.com",
+        "nome": "Leandro da Costa Foz"
+      },
+      "sinopse": "Uma rua meio parada no interior do Paraná, recebe uma visita que irá mudar a vizinhança.",
+      "titulo": "O mistério da rua morta",
+      "urlId": "LP3lhnh9Ugo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 90
+    },
+    {
+      "ano": 2014,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Experimental"
+      ],
+      "cidade": "Curitiba ",
+      "direcao": "Bruno Costa",
+      "duracao": "10 min",
+      "outras": "",
+      "producao": "Costa Filmes",
+      "equipe": "",
+      "resp": {
+        "email": "brunocosta.art@gmail.com",
+        "nome": "Bruno Costa"
+      },
+      "sinopse": "Sobre o fetiche. Sobre a imagem.",
+      "titulo": "Tympanum",
+      "urlId": "111024977",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 91
     }
   ]
 }

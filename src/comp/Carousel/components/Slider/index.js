@@ -21,7 +21,7 @@ const Container = styled.ul`
 `;
 
 export const SliderItem = styled.li`
-  margin-right: 16px;
+  margin-right: 25px;
   list-style-type: none;
   img {
     margin: 16px;

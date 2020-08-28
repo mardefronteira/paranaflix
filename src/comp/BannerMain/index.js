@@ -23,27 +23,27 @@ export default function BannerMain({
           <ContentAreaContainer.Title to={`/filme/${urlId}`}>
             {titulo}
           </ContentAreaContainer.Title>
-          <ContentAreaContainer.Description>
+          <p>
             {cidade}, {ano}. Direção: {direcao}
-          </ContentAreaContainer.Description>
-          <ContentAreaContainer.Description>
+          </p>
+          <p>
            {sinopse}
-          </ContentAreaContainer.Description>
-          { producao && <ContentAreaContainer.Description>
-             Produção: {producao}
-           </ContentAreaContainer.Description>
+          </p>
+          { producao && <p>
+             Empresa produtora: {producao}
+           </p>
           }
-          { equipe && <ContentAreaContainer.Description>
+          { equipe && <p>
              Equipe:<br/>{equipe}
-           </ContentAreaContainer.Description>
+           </p>
           }
-          { outras && <ContentAreaContainer.Description>
+          { outras && <p>
              Outras informações:<br/>{outras}
-           </ContentAreaContainer.Description>
+           </p>
           }
-          <ContentAreaContainer.Description>
-          {`• ${categorias.join(" • ")} •`}
-        </ContentAreaContainer.Description>
+          <p>
+            {`• ${categorias.join(" • ")} •`}
+          </p>
         </ContentAreaContainer.Info>
 
         <ContentAreaContainer.Video>

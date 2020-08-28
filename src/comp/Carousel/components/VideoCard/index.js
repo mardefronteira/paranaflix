@@ -36,13 +36,12 @@ function VideoCard({ titulo, id, host, sinopse, duracao, ano, categoryColor }) {
     return (
 
     <>
+    <Desc to={`/filme/${id}`}>
       <VideoCardContainer
         url={imgSrc}
-        to={`/filme/${id}`}
         style={{ borderColor: categoryColor || 'red' }}
         title={titulo}
       />
-      <Desc>
         <p><strong>{titulo}</strong> ({ano}, {duracao})</p>
         <p>{sin}</p>
       </Desc>

@@ -18,36 +18,36 @@ export const ContentAreaContainer = styled.section`
 `;
 
 ContentAreaContainer.Info = styled.div`
-  width: 40%;
   display: inline-block;
-  margin-left: 5%;
-  margin-right: 5%;
+  margin-left: 3vw;
+  margin-right: 3vw;
   margin-bottom: 50px;
   text-align: justify;
   text-justify: inter-word;
+  width: 40%;
+
+  p {
+    color: var(--grayMedium);
+  }
+
   @media (max-width: 800px) {
-    width: 100%;
+    font-size: .9em;
     margin-bottom: 0;
+    width: 100%;
   }
 `;
 
 ContentAreaContainer.Video = styled.div`
   width: 60%;
   display: inline-block;
-  margin-left: 5%;
+  margin-left: 3vw;
   margin-bottom: 50px;
 
   @media (max-width: 800px) {
     width: 90vw;
     margin-left: 0;
+    margin-right: 0;
     margin-bottom: 10vh;
-  }
-`;
-
-ContentAreaContainer.Description = styled.p`
-  color: var(--grayMedium);
-  @media (max-width: 800px) {
-    font-size: .9em;
   }
 `;
 
@@ -67,9 +67,10 @@ ContentAreaContainer.Title = styled(Link)`
 `;
 
 export const BannerMainContainer = styled.section`
-  height: 75vh;
+  min-height: 75vh;
   position: relative;
   color: #fff;
+  padding-top: 10vh;
 
   @media (max-width: 800px) {
     height: auto;

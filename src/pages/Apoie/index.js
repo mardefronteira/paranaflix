@@ -62,6 +62,7 @@ function Apoie() {
                 </p>
                 <p>
                   <b>Contribuintes pontuais:</b>
+                  <br/>• Alexandre Rafael Garcia
                   <br/>• Eduardo Baggio
                   <br/>• William Biagioli
                 </p>
