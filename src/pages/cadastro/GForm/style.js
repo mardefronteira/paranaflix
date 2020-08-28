@@ -1,9 +1,11 @@
 import styled from 'styled-components';
 import React from 'react';
 
-export const SobreWrapper = styled.div`
+export const GFormWrapper = styled.div`
 
   text-align: justify;
+  display:flex;
+  align-items: center;
   background-color: var(--grayLight);
 
   p, a {
