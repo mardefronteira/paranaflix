@@ -14,7 +14,7 @@ function CadastroGForm() {
       </Helmet>
       <Base>
         <GFormWrapper>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOw1hmkp7YvAF1JA73HFRmel0YzdjHIQjjwKQpWhFKcjBmCw/viewform?embedded=true" width={window.innerWidth} height="3800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOw1hmkp7YvAF1JA73HFRmel0YzdjHIQjjwKQpWhFKcjBmCw/viewform?embedded=true" width="3000" height="3800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
         </GFormWrapper>
       </Base>
       </>

@@ -6,4 +6,8 @@ export const FinalNote = styled.p`
   color:var(--grayDarker);
   font-size: 11px;;
   text-align:center;
+  
+  a {
+    font-size: inherit;
+  }
 `;

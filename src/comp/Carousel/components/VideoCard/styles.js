@@ -19,12 +19,14 @@ export const Desc = styled(Link)`
     max-width: 298px;
   }
 
+
   @media(max-width: 800px){
       padding-bottom: 5vh;
   }
+
 `;
 
-export const VideoCardContainer = styled.div`
+export const VideoCardContainer = styled.span`
 
   border: 1px solid;
   border-radius: 4px;
@@ -43,4 +45,11 @@ export const VideoCardContainer = styled.div`
   align-item grid-column: 1;
   grid-row: 1;s: flex-start;
   padding: 16px;
+
+  transition: transform .5s;
+
+  &:hover,
+  &:focus {
+    -webkit-transform: scale(1.03);
+  }
 `;

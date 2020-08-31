@@ -72,7 +72,9 @@ export const BannerMainContainer = styled.section`
   color: #fff;
   padding-top: 10vh;
 
+
   @media (max-width: 800px) {
+    padding-top: 0;
     height: auto;
     min-height: 50vh;
   }
