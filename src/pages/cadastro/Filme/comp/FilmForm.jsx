@@ -43,8 +43,8 @@ const FilmForm = ({
       <Input
         as={Field}
         name="duracao"
-        hasvalue = {values.duracao !== '' ? 1 : 0}
-        />
+        hasvalue={values.duracao !== '' ? 1 : 0}
+      />
     </FormField>
 
     <FormField
@@ -54,31 +54,31 @@ const FilmForm = ({
       <Input
         as={Field}
         name="cidade"
-        hasvalue = {values.cidade !== '' ? 1 : 0}
+        hasvalue={values.cidade !== '' ? 1 : 0}
       />
-    </FormField>
+  </FormField>
 
     <FormField
       label="Link do filme (Youtube ou Vimeo)"
       name="url"
-      >
+    >
       <Input
         type="url"
         as={Field}
         name="url"
-        hasvalue = {values.url !== '' ? 1 : 0}
-        />
+        hasvalue={values.url !== '' ? 1 : 0}
+      />
     </FormField>
 
     <FormField
       label="Sinopse"
       name="sinopse"
-      >
+    >
       <Input
         as={Field}
         name="sinopse"
-        hasvalue = {values.sinopse !== '' ? 1 : 0}
-        />
+        hasvalue={values.sinopse !== '' ? 1 : 0}
+      />
     </FormField>
 
     <FormField
@@ -88,7 +88,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="direcao"
-        hasvalue = {values.direcao !== '' ? 1 : 0}
+        hasvalue={values.direcao !== '' ? 1 : 0}
       />
     </FormField>
 
@@ -99,7 +99,7 @@ const FilmForm = ({
       <Input
         as={Field}
         name="producao"
-        hasvalue = {values.producao !== '' ? 1 : 0}
+        hasvalue={values.producao !== '' ? 1 : 0}
       />
     </FormField>
 
@@ -110,36 +110,66 @@ const FilmForm = ({
       <Input
         as={Field}
         name="equipe"
-        hasvalue = {values.direcao !== '' ? 1 : 0}
+        hasvalue={values.direcao !== '' ? 1 : 0}
+      />
+    </FormField>
+
+    <FormField
+      label="Exibições"
+      name="exibicoes"
+    >
+      <Input
+        as={Field}
+        name="exibicoes"
+        hasvalue={values.exibicoes !== '' ? 1 : 0}
       />
     </FormField>
 
     <FormField
       label="Outras informações"
       name="outras"
-      >
+    >
       <Input
         as={Field}
         name="outras"
-        hasvalue = {values.outras !== '' ? 1 : 0}
-        />
+        hasvalue={values.outras !== '' ? 1 : 0}
+      />
     </FormField>
 
-    <FieldArray name="categorias">{({ push, remove }) => (
+    <FieldArray name="categorias">
+      {
+        ({ push, remove }) => (
           <div>
             <span
               htmlFor="categorias">
               <p id="catLabel">Categorias:</p>
-              <p>{values.categorias.map((thisCat) => {
-                  return(
-                    <CatButton key={`catbutton_${thisCat}`}>{thisCat}
-                      <CatButtonX value={thisCat} id={thisCat} as="button" type="button" onClick={() => {
-                      let index = values.categorias.indexOf(thisCat);
-                      remove(index);
-                    }}>x</CatButtonX>
-                  </CatButton>
-                )})}</p>
-              <ErrorMessage name="categorias">{(msg) => <div><br/>{msg}</div>}</ErrorMessage>
+              <p>
+                {
+                  values.categorias.map((thisCat) => {
+                    return(
+                      <CatButton key={`catbutton_${thisCat}`}>{thisCat}
+                        <CatButtonX value={thisCat} id={thisCat} as="button" type="button" onClick={() => {
+                          const index = values.categorias.indexOf(thisCat);
+                          remove(index);
+                        }}
+                        >
+                        x
+                        </CatButtonX>
+                      </CatButton>
+                    )
+                  })
+                }
+              </p>
+              <ErrorMessage name="categorias">
+                {
+                  (msg) => (
+                    <div>
+                      <br />
+                      {msg}
+                    </div>
+                  )
+                }
+              </ErrorMessage>
             </span>
               <Select  id="categoria">
                 <CatOptions/>

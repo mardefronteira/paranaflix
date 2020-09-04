@@ -1,14 +1,12 @@
 import styled from 'styled-components';
-import React from 'react';
 
 export const GFormWrapper = styled.div`
-
-  text-align: justify;
-  display:flex;
   align-items: center;
   background-color: var(--grayLight);
+  display:flex;
+  text-align: justify;
 
-  p, a {
+  a, p {
     font-size: 1.2rem;
   }
 
@@ -23,6 +21,6 @@ export const GFormWrapper = styled.div`
 `;
 
 export const Subtitulo = styled.h2`
-  color: ${props => props.cor};
+  color: ${(props) => props.cor};
   font-variant: small-caps;
 `;

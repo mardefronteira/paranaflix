@@ -52,23 +52,25 @@ function Apoie() {
               <Subtitulo cor="var(--primary)">QUEM JÁ APOIOU:</Subtitulo>
                 <p>
                   <b>Equipe voluntária:</b>
-                  <br/>• Marcela Mancino
-                  <br/>• Tomás von der Osten
+                  <br />• Marcela Mancino
+                  <br />• Tomás von der Osten
                 </p>
                 <p>
                   <b>Contribuintes mensais:</b>
-                  <br/>• Tiago Lipka
-                  <br/>• Lucas Queiroz
-                  <br/>• Júlia Nascimento de Souza
-                  <br/>• Rafael Urban
-                  <br/>• Thayse Fernandes
+                  <br />• Júlia Nascimento de Souza
+                  <br />• Lucas Queiroz
+                  <br />• Nicolas Mosko
+                  <br />• Rafael Urban
+                  <br />• Tiago Lipka
+                  <br />• Thayse Fernandes
                 </p>
                 <p>
                   <b>Contribuintes pontuais:</b>
-                  <br/>• Adriel Nizer
-                  <br/>• Alexandre Rafael Garcia
-                  <br/>• Eduardo Baggio
-                  <br/>• William Biagioli
+                  <br />• Adriel Nizer
+                  <br />• Alexandre Rafael Garcia
+                  <br />• Eduardo Baggio
+                  <br />• Gabriel Borges
+                  <br />• William Biagioli
                 </p>
             </ApoiosWrapper>
       </SobreWrapper>

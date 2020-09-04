@@ -1,12 +1,9 @@
 import React from 'react';
-import Base from '../../../comp/Base';
-import { GFormWrapper, Subtitulo } from './style.js';
 import { Helmet } from 'react-helmet';
-
+import Base from '../../../comp/Base';
+import { GFormWrapper } from './style';
 
 function CadastroGForm() {
-
-
   return (
     <>
       <Helmet>
@@ -14,10 +11,10 @@ function CadastroGForm() {
       </Helmet>
       <Base>
         <GFormWrapper>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeOw1hmkp7YvAF1JA73HFRmel0YzdjHIQjjwKQpWhFKcjBmCw/viewform?embedded=true" width="3000" height="3800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe title="Formulário de cadastro de filme" src="https://docs.google.com/forms/d/e/1FAIpQLSeOw1hmkp7YvAF1JA73HFRmel0YzdjHIQjjwKQpWhFKcjBmCw/viewform?embedded=true" width="3000" height="4000" frameBorder="0" marginHeight="0" marginWidth="0">Loading…</iframe>
         </GFormWrapper>
       </Base>
-      </>
+    </>
   );
 }
 

@@ -5,14 +5,14 @@ import getUrlInfo from '../../../../hooks/getUrlInfo';
 import filmRepo from '../../../../repositories/filmes';
 import catRepo from '../../../../repositories/categorias';
 
-
-const FilmFormik = withFormik ({
+const FilmFormik = withFormik({
   mapPropsToValues({
     ano,
     categorias,
     cidade,
     direcao,
     duracao,
+    exibicoes,
     outras,
     producao,
     equipe,
@@ -28,6 +28,7 @@ const FilmFormik = withFormik ({
       cidade: '',
       direcao: '',
       duracao: '',
+      exibicoes: '',
       outras: '',
       producao: '',
       equipe: '',
@@ -45,6 +46,7 @@ const FilmFormik = withFormik ({
     cidade: Yup.string().required('Este campo é obrigatório.'),
     direcao: Yup.string().required('Este campo é obrigatório.'),
     duracao: Yup.string().required('Este campo é obrigatório.'),
+    exibicoes: Yup.string(),
     outras: Yup.string().max(800, 'Máximo de 800 caracteres.'),
     producao: Yup.string(),
     equipe: Yup.string().max(800, 'Máximo de 800 caracteres.'),
@@ -58,7 +60,7 @@ const FilmFormik = withFormik ({
 
     const urlInfo = getUrlInfo(values.url);
 
-    //checar se a URL gerou uma id consistente
+    // checar se a URL gerou uma id consistente
     if ((urlInfo.filmId === 'error') || (urlInfo.filmHost === 'error')) {
       setErrors({ url: 'Tem algo errado com a URL! Este campo aceita somente links do Vimeo ou YouTube.'});
 
@@ -66,10 +68,9 @@ const FilmFormik = withFormik ({
       // checar se filme já está na database
       setErrors({ url: 'Este filme já está em nossa base de dados.'})
 
-    } else { //se não houver erros
-
+    } else { // se não houver erros
       // consultar os títulos das categorias e retornar a id de cada uma
-      let thisCats = [];
+      const thisCats = [];
 
       catRepo.getAll().then((categoriasDB) => {
         categoriasDB.map((categoriaDB) => {
@@ -107,6 +108,7 @@ const FilmFormik = withFormik ({
         cidade: values.cidade,
         direcao: values.direcao,
         duracao: values.duracao,
+        exibicoes: values.exibicoes,
         outras: values.outras,
         producao: values.producao,
         equipe: values.equipe,

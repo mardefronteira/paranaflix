@@ -3,17 +3,18 @@ import VideoIframeResponsive from './components/VideoIframeResponsive';
 import { BannerMainContainer, ContentAreaContainer } from './styles';
 
 export default function BannerMain({
-  titulo,
-  sinopse,
-  urlId,
-  urlHost,
-  direcao,
-  cidade,
   ano,
+  categorias,
+  cidade,
+  equipe,
+  exibicoes,
+  direcao,
   outras,
   producao,
-  equipe,
-  categorias
+  sinopse,
+  titulo,
+  urlId,
+  urlHost,
 }) {
 
   return (
@@ -29,15 +30,23 @@ export default function BannerMain({
           <p>
            {sinopse}
           </p>
-          { producao && <p>
+          {
+            producao && <p>
              Empresa produtora: {producao}
            </p>
           }
-          { equipe && <p>
+          {
+            equipe && <p>
              Equipe:<br/>{equipe}
            </p>
           }
-          { outras && <p>
+          {
+            exibicoes && <p>
+             Outras informações:<br/>{exibicoes}
+           </p>
+          }
+          {
+            outras && <p>
              Outras informações:<br/>{outras}
            </p>
           }

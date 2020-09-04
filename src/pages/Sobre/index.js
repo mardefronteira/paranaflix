@@ -26,9 +26,9 @@ function Sobre() {
               <Subtitulo cor="var(--rosa)">COMO FUNCIONA?</Subtitulo>
               <p>Para colaborar com o acervo basta clicar no botão <Link to="/novo_filme" target="_blank">“Adicione um filme”</Link> e preencher as informações necessárias, simples assim! Quem constrói o acervo é você!</p>
               <p>Este site não hospeda nenhum dos filmes aqui exibidos, é uma interface para facilitar o acesso a produções já disponíveis de forma gratuita em outras plataformas (Youtube e Vimeo).</p>
-              <p>A Paranáflix não tem finalidade lucrativa, mantemos o site através de doações, caso queira contribuir acesse <a href="https://apoia.se/paranaflix" target="_blank">nossa campanha no Apoia.se</a></p>
-              <p>Quanto plataforma colaborativa não restringimos quais filmes entram no site, mas nos reservamos o direito de remover qualquer filme com teor racista, machista, homofóbico, transfóbico, xenofóbico ou de intolerância religiosa.</p>
-              <p>Viu seu filme aqui sem sua autorização? Enviou um filme mas quer alterar alguma informação? Quer sugerir uma nova categoria? Tem alguma queixa, crítica ou elogio? Fale conosco em <a href = "mailto: paranaflix@pm.me">paranaflix@pm.me</a></p>
+              <p>A Paranáflix não tem finalidade lucrativa, mantemos o site através de doações, caso queira contribuir acesse <a href="https://apoia.se/paranaflix" target="_blank">nossa campanha no Apoia.se</a>.</p>
+              <p>O critério mínimo de inclusão no acervo é de ter, ao menos, uma exibição pública comprovada (exceto videoclipes e webséries). Ademais, nos reservamos o direito de remover qualquer filme com teor racista, machista, homofóbico, transfóbico, xenofóbico ou de intolerância religiosa. Filmes que não tiveram exibições públicas podem ser enviados mas passarão por curadoria.</p>
+              <p>Viu seu filme aqui sem sua autorização? Enviou um filme mas quer alterar alguma informação? Quer sugerir uma nova categoria? Tem alguma queixa, crítica ou elogio? Fale conosco em <a href = "mailto: paranaflix@pm.me">paranaflix@pm.me</a>.</p>
             </div>
             <div>
               <Subtitulo cor="var(--rosa)">QUEM SOMOS?</Subtitulo>
