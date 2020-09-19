@@ -26,11 +26,11 @@ ReactDOM.render(
       <Route path="/apoie" component={Apoie}></Route>
       <Route path="/filme/:id" component={Filme}></Route>
       <Route path="/categoria/:id" component={Categoria}></Route>
-      <Route path="/novo_filme" component={CadastroGForm}/>
-      <Route path="/postar_filme" component={CadastroFilme}/>
-      <Route path="/nova_categoria" component={CadastroCategoria}/>
+      <Route path="/novo_filme" component={CadastroGForm} />
+      <Route path="/postar_filme" component={CadastroFilme} />
+      <Route path="/nova_categoria" component={CadastroCategoria} />
       <Route path="/" component={Home} exact />
-      <Route component={NotFound} /> {/*404*/}
+      <Route component={NotFound} />
     </Switch>
   </BrowserRouter>,
   document.getElementById('root')

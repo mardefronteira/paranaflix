@@ -61,6 +61,7 @@ function Apoie() {
               <b>Contribuintes mensais:</b>
               <br />• Ana Paula Málaga Carreiro
               <br />• Camila Macedo
+              <br />• Caroline Biagi
               <br />• Eduardo Baggio
               <br />• Júlia Nascimento de Souza
               <br />• Lucas Queiroz
