@@ -52,7 +52,8 @@
         "jWXw0v6fdKI",
         "9jF__op3qrQ",
         "v49O3LtefDA",
-        "RI47_VUlsT8"
+        "RI47_VUlsT8",
+        "mT-r1J8yJ7A"
       ],
       "id": 7
     },
@@ -210,7 +211,10 @@
         "ldUqpo5kNfQ",
         "uxjJfYKVYI4",
         "372214152",
-        "cNyCo33niHc"
+        "cNyCo33niHc",
+        "BKj9Qr8HqcI",
+        "zVrVe7E-kQc",
+        "350312521"
       ],
       "id": 8
     },
@@ -234,7 +238,8 @@
         "ss5yDySWNVs",
         "F2XcYWzgaoc",
         "PZWMU82aKJU",
-        "hRwjgM1yvGU"
+        "hRwjgM1yvGU",
+        "388143997"
       ],
       "id": 9
     },
@@ -290,7 +295,11 @@
         "F2XcYWzgaoc",
         "PZWMU82aKJU",
         "W7X_gv_ewcE",
-        "e01Hk8VRg_4"
+        "e01Hk8VRg_4",
+        "g456KJFcPXk",
+        "GGsyyNytd6Q",
+        "NkOMqaoO9mo",
+        "WfR_d_ishcM"
       ],
       "id": 10
     },
@@ -348,7 +357,10 @@
         "3OoRPcCyNsA",
         "BU8-zCDUTrs",
         "G7-63aXZ-3k",
-        "hRwjgM1yvGU"
+        "hRwjgM1yvGU",
+        "388143997",
+        "g456KJFcPXk",
+        "zVrVe7E-kQc"
       ],
       "id": 12
     },
@@ -500,7 +512,13 @@
         "372214152",
         "cNyCo33niHc",
         "e01Hk8VRg_4",
-        "-jKXc_uONWA"
+        "-jKXc_uONWA",
+        "BKj9Qr8HqcI",
+        "g456KJFcPXk",
+        "GGsyyNytd6Q",
+        "zVrVe7E-kQc",
+        "WfR_d_ishcM",
+        "350312521"
       ],
       "id": 13
     },
@@ -627,7 +645,9 @@
         "ss5yDySWNVs",
         "F2XcYWzgaoc",
         "PZWMU82aKJU",
-        "e01Hk8VRg_4"
+        "e01Hk8VRg_4",
+        "BKj9Qr8HqcI",
+        "350312521"
       ],
       "id": 18
     },
@@ -648,7 +668,8 @@
         "gVjGlDqNTGs",
         "2502876126415d489dc",
         "48274609",
-        "144453182"
+        "144453182",
+        "NkOMqaoO9mo"
       ],
       "id": 19
     },
@@ -700,7 +721,8 @@
         "WbcM62Lvjh4",
         "VFQBKig3tAM",
         "cNyCo33niHc",
-        "e01Hk8VRg_4"
+        "e01Hk8VRg_4",
+        "WfR_d_ishcM"
       ],
       "id": 21
     },
@@ -747,7 +769,8 @@
         "200289433",
         "xOd9KOHCjmY",
         "P9oBg_QCbVw",
-        "G7-63aXZ-3k"
+        "G7-63aXZ-3k",
+        "g456KJFcPXk"
       ],
       "id": 26
     },
@@ -774,7 +797,8 @@
         "xOd9KOHCjmY",
         "P9oBg_QCbVw",
         "73668837",
-        "KzxpTOb9S70"
+        "KzxpTOb9S70",
+        "g456KJFcPXk"
       ],
       "id": 27
     },
@@ -814,7 +838,8 @@
         "3tJh5zPaGJ0",
         "144453182",
         "RR1qHyyyu-4",
-        "405155574"
+        "405155574",
+        "132iFlRWfWY"
       ],
       "id": 30
     },
@@ -1192,7 +1217,7 @@
       "urlId": "35189302",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 14
     },
     {
@@ -5735,7 +5760,7 @@
       "urlId": "F2XcYWzgaoc",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 189
     },
     {
@@ -6103,6 +6128,271 @@
       "mostrar": true,
       "destaque": false,
       "id": 203
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Filmes de cursos livres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Nicolas Hübler Mosko",
+      "duracao": "14 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "Produção e Orientação: Alexandre Rafael Garcia. Roteiro e Direção: Nicolas Hübler Mosko. Fotografia e Montagem: Daniel F. Gomes. Elenco: Tiago F. B. Mallmann, Mariana Campelo, Arthur Zablonsky, Pedro Pichelli, Luiz Guilherme Raffo e Gessica Peniche. Som direto: Maria Eduarda Corrêa. Trilha Sonora: Daniel F. Gomes. Claquete: Guilherme Shimizu. Maquiagem: Yasmin de Paula.",
+      "resp": {
+        "email": "nick.mosko11@gmail.com",
+        "nome": "Nicolas Mosko"
+      },
+      "sinopse": "Um olhar para a beleza da vida é mais do que suficiente para mergulhar no mundo da maravilha.",
+      "titulo": "Psicológico",
+      "urlId": "132iFlRWfWY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 204
+    },
+    {
+      "ano": 2007,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Juliana Sanson",
+      "duracao": "16 min",
+      "exibicoes": " 2020 – Mostra Curitiba de Cinema (Cine Passeio – PR); 2019 – Mostra Curitiba de Cinema (Cine Passeio – PR); Cine PE 2008 (PE); 12º FAM (SC);  33º Festival Paléo de Nyon (Suíça); 2º Curta Cabo Frio (RJ); Festival MOSCA 4 (MG); Festival de Cinema Agulhas Negras 2008 (RJ); 7º Santa Maria Vídeo (RS) ",
+      "outras": "",
+      "producao": "Projeto Olho Vivo",
+      "equipe": "ELENCO: Ela - Patrícia Saravy Atendente - Andréia de Souza  Assaltante 1 - Vinícius Mazzon Assaltante 2 - José Ronaldo Ribeiro Casal - Joni Zanetti e Bárbara Horn Senhores do Café - Luiz Goes e David França  EQUIPE: Roteiro e direção - Juliana Sanson Fotografia e câmera - Vitor Schuhli Edição - Marilize Donini Música - Luciano Coelho Assistência de direção - Caio Rubini Direção de Produção - Letícia Teixeira Produção Executiva - Helen Bastos Preparação de Atores - Marcelo Munhoz Assistência de Produção - Karla Nascimento Som - Andréa Lopes Direção de Arte - Melissa Buest Assistência de Câmera - Tiago Martins Borges Design Gráfico - André Coelho",
+      "resp": {
+        "email": "sanson.juliana@gmail.com",
+        "nome": "Juliana Sanson"
+      },
+      "sinopse": "Na cabeça uma obsessão, sob os pés a cidade. Na memória, um fabulário permeado por palavras em desuso - e com múltiplos usos - ideias, dúvidas e delírios. Fluxos que confirmam que o fim de um círculo é o começo dele mesmo.",
+      "titulo": "Fabulário Geral de um Delírio Curitibano",
+      "urlId": "BKj9Qr8HqcI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 205
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Animação",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gabriel Santini",
+      "duracao": "18 min",
+      "exibicoes": "8º FESTICINE de Pinhais",
+      "outras": "",
+      "producao": "Seilarte Animation Studio",
+      "equipe": "BRUNO GIOVANNI PIFFAR LOCATELLI, CAMILA CHRISTOFF MACHADO,  GABRIEL SANTINI, HADASSA LOPES DE PAULA, LEONARDO BIENTINEZ  MAFRA, MARCUS VINICIUS VALÉRIO BITTENCOURT, MARIA HELENA  WESCHOLLEK DE OLIVEIRA E MATHEUS FELIPE DUTRA MORENO.",
+      "resp": {
+        "email": "gabrielsantini_@hotmail.com",
+        "nome": "Gabriel Santini"
+      },
+      "sinopse": "Hukai foi esquecido e agora planeja seu retorno. Enquanto isso, um grupo de mercenários recebe a missão de matar a Rainha Negra, líder do exército de monstros que está matando soldados dos reinos humanos como forma de vingança.",
+      "titulo": "RPGzão: Os novos Brothers",
+      "urlId": "388143997",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 206
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Universitário",
+        "Legendas em português",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Rodrigo Tomita",
+      "duracao": "1 min",
+      "exibicoes": "MAFUÁ; 3º Metrô; III Assimetria; 4º Festival Ecrã; ",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "digo.tomita@gmail.com",
+        "nome": "Rodrigo Tomita"
+      },
+      "sinopse": "Uma recente experiência de ser asiático-brasileiro.",
+      "titulo": "Amarelo-Angústia",
+      "urlId": "g456KJFcPXk",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 207
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gui Bernardi",
+      "duracao": "9 min",
+      "exibicoes": "Seleção Mostra Internacional de Videodança de São Carlos; Seleção Guiar - Screendance International Festival; Seleção Muesta Movimento Audiovisual de Guadalajara.",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direçãor: Gui Bernardi. Choreografia: Bruna Mehl, Iago Giehl, Nathaly Yumi. Fotografia, filmagem e edição: Gui Bernardi. Dançarinos: Iago Giehl, Nathaly Yumi. Produção: Gui Bernardi. Coprodução: Bruna Mehl.",
+      "resp": {
+        "email": "guibernardim@gmail.com",
+        "nome": "Guilherme Henrique Bernardi Martins"
+      },
+      "sinopse": "Gênesis 2, 7-8.",
+      "titulo": "Éden",
+      "urlId": "GGsyyNytd6Q",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 208
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Vitor Sawaf",
+      "duracao": "15 min",
+      "exibicoes": "10º Cinefantasy - Festival Internacional de Cinema Fantástico/ Mostra Estudantil - 2020 3º Assimetria - Festival universitário de cinema e audiovisual UFSM -  2020 3º Metrô – Festival do Cinema Universitário Brasileiro - 2019",
+      "outras": "",
+      "producao": "Kinoia Totalflex",
+      "equipe": "Direção e Roteiro: Vitor Sawaf; Produção: Alberto Eisenring, Yasmin Rahmeier e Vitor Sawaf; Direção de Fotografia e operação de câmera: Gabriel Lobo; Edição: Gabriel Lobo e Vitor Sawaf; Trilha Sonora: Pedro Monte Kling; Ass. Direção: Vico Galvão; Direção de Arte: Andre Schaefer, Thayana Andreatta, Yasmin Rahmeier e Vitor Sawaf; Som Direto: Pedro Monte Kling e Vinicius Contieiro; Continuista: Guilherme Dias; Ass. Fotografia: Higor Casagrande e Luciane Carvalho; Maquiagem: Thayana Andreatta; Assistente de Som direto: Alexandre Santana; Travelling/ Maquinária: Alberto Eisenring e Yasmin Rahmeier; Ass. Produção e Câmera car: Dudu Martini; Desenho de Som e mixagem: Pedro Monte Kling; Cor e finalização: Gabriel Lobo e Vitor Sawaf; Catering: Maria Cristina Sawaf",
+      "resp": {
+        "email": "kinoiatotalflex@gmail.com",
+        "nome": "João Paulo Silva Alencar de Oliveira"
+      },
+      "sinopse": "Madrugada perdida em Curitiba, um incidente em uma luta de boxe extremamente amadora e clandestina ecoa na noite. Eva se vê obrigada a mais uma vez salvar sua espécie pela permanência na cidade.",
+      "titulo": "Nada Acontece em Curitiba",
+      "urlId": "zVrVe7E-kQc",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 209
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Experimental",
+        "Cinema LGBTQIA+"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Kaloula",
+      "duracao": "5  min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Kinoia Totalflex",
+      "equipe": "Com Cereja Bomba e Yasmin Direção e Roteiro - Kaloula Câmera e finalização - Vitor Sawaf Edição - Higor  Casagrande Trilha - Gangrena",
+      "resp": {
+        "email": "kinoiatotalflex@gmail.com",
+        "nome": "João Paulo Alencar"
+      },
+      "sinopse": "Duas existências, duas realidades. Luz e Sombra, Bem e Mal. O que uma constrói, a outra destrói. Uma jornada pela criação de uma única coisa. ",
+      "titulo": "O Arco do Pacto",
+      "urlId": "NkOMqaoO9mo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 210
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Super-8"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Vitor Sawaf",
+      "duracao": "4 min",
+      "exibicoes": "CURTA 8 – Festival Internacional de Cinema Super 8 de Curitiba 2016 (Prêmio Técnico do Festival) Festival de Cinema da Bienal de Curitiba 2017 - Mostra universitária  5º Super OFF - Oficinas, Filmes e Festival Internacional de Cinema Super 8 2018 Festival de Super 8 de Campinas 2019) Tomada Única - XI Janela Internacional de Cinema do Recife - Sessões Especias - Mostra Tomada Única 2018",
+      "outras": "",
+      "producao": "Kinoia Totalflex",
+      "equipe": "Direção e Produção: Vitor Sawaf  Fotografia, Operação de câmera e Música: Gabriel Lobo  Equipe de produção: Luciane Carvalho, Celso Sawaf, Dudu Martini e Heloisa Reitenbach Elenco: Vitor Sawaf Produção no set: Luciane Carvalho e Bruno Gusso Making Of: Andre Schaefer Motorista: Júnior.",
+      "resp": {
+        "email": "kinoiatotalflex@gmail.com",
+        "nome": "João Paulo Alencar"
+      },
+      "sinopse": "A destruição de um ser.",
+      "titulo": "Ruína",
+      "urlId": "WfR_d_ishcM",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 211
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Janaina Campos",
+      "duracao": "14 min",
+      "exibicoes": "MOVA - Festival Universitário de Produção Audiovisual (2019) / IPC - Instituto Paranaense de Cegos (2019) ",
+      "outras": "",
+      "producao": "Venus Produções em Parceria com Moonvies Produções",
+      "equipe": "Roteiro - Isolda Marques Direção  - Janaina Campos Produção Executiva - Matheus Arruda  Direção de Fotografia - Marcos Jean  Direção de Arte - Isolda Marques  Direção de Áudio - Mateus Santiago Edição - Juliana Takenaka",
+      "resp": {
+        "email": "isolda.m.o@gmail.com",
+        "nome": "Isolda Marques de Oliveira"
+      },
+      "sinopse": "Mariana é pintora e está enfrentando um bloqueio criativo. Ela namora com Andreia, que sempre tenta inspirá-la e mostrar o mundo por uma outra perspectiva. A trajetória em busca de inspiração será também uma descobertas sobre o relacionamento delas.",
+      "titulo": "Amor Líquido",
+      "urlId": "350312521",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 212
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Audiodescrição"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Janaina Campos",
+      "duracao": "14 min",
+      "exibicoes": "MOVA - Festival Universitário de Produção Audiovisual (2019) / IPC - Instituto Paranaense de Cegos (2019) ",
+      "outras": "",
+      "producao": "Venus Produções em Parceria com Moonvies Produções",
+      "equipe": "Roteiro - Isolda Marques Direção  - Janaina Campos Produção Executiva - Matheus Arruda  Direção de Fotografia - Marcos Jean  Direção de Arte - Isolda Marques  Direção de Áudio - Mateus Santiago Edição - Juliana Takenaka",
+      "resp": {
+        "email": "isolda.m.o@gmail.com",
+        "nome": "Isolda Marques de Oliveira"
+      },
+      "sinopse": "Mariana é pintora e está enfrentando um bloqueio criativo. Ela namora com Andreia, que sempre tenta inspirá-la e mostrar o mundo por uma outra perspectiva. A trajetória em busca de inspiração será também uma descobertas sobre o relacionamento delas.",
+      "titulo": "Amor Líquido",
+      "urlId": "mT-r1J8yJ7A",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 213
     }
   ]
 }

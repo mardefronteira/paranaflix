@@ -67,6 +67,7 @@ function Apoie() {
               <br />• Lucas Queiroz
               <br />• Luiza Remez
               <br />• Nicolas Mosko
+              <br />• Nikola Matevski
               <br />• Rafael Urban
               <br />• Tiago Lipka
               <br />• Thayse Fernandes
