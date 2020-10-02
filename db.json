@@ -124,7 +124,10 @@
         "73668837",
         "PZWMU82aKJU",
         "405155574",
-        "-jKXc_uONWA"
+        "-jKXc_uONWA",
+        "3NGpa9mnHg8",
+        "159694136",
+        "sdFfZFIWXCE"
       ],
       "id": 25
     },
@@ -156,7 +159,6 @@
         "452027411",
         "227538554",
         "AjnmWpmXMZo",
-        "visI4mFODcs",
         "217730802",
         "ZsO44i5cFu8",
         "5IdN79q8rWQ",
@@ -214,7 +216,10 @@
         "cNyCo33niHc",
         "BKj9Qr8HqcI",
         "zVrVe7E-kQc",
-        "350312521"
+        "350312521",
+        "W7GG7c7Kyoc",
+        "159684941",
+        "86630063"
       ],
       "id": 8
     },
@@ -299,7 +304,8 @@
         "g456KJFcPXk",
         "GGsyyNytd6Q",
         "NkOMqaoO9mo",
-        "WfR_d_ishcM"
+        "WfR_d_ishcM",
+        "oQ4lj8wZUZY"
       ],
       "id": 10
     },
@@ -360,7 +366,10 @@
         "hRwjgM1yvGU",
         "388143997",
         "g456KJFcPXk",
-        "zVrVe7E-kQc"
+        "zVrVe7E-kQc",
+        "oQ4lj8wZUZY",
+        "3NGpa9mnHg8",
+        "159694136"
       ],
       "id": 12
     },
@@ -433,7 +442,6 @@
         "227538554",
         "32807875",
         "AjnmWpmXMZo",
-        "visI4mFODcs",
         "217730802",
         "ZsO44i5cFu8",
         "5IdN79q8rWQ",
@@ -518,7 +526,14 @@
         "GGsyyNytd6Q",
         "zVrVe7E-kQc",
         "WfR_d_ishcM",
-        "350312521"
+        "350312521",
+        "W7GG7c7Kyoc",
+        "oQ4lj8wZUZY",
+        "3NGpa9mnHg8",
+        "159694136",
+        "159684941",
+        "sdFfZFIWXCE",
+        "86630063"
       ],
       "id": 13
     },
@@ -582,14 +597,14 @@
         "CcoIc4vlixA",
         "32807875",
         "AjnmWpmXMZo",
-        "visI4mFODcs",
         "ZsO44i5cFu8",
         "25373253",
         "277742396",
         "42641130",
         "1AbLiYUY4ck",
         "97229315",
-        "VJf4rQvCBfg"
+        "VJf4rQvCBfg",
+        "86630063"
       ],
       "id": 16
     },
@@ -647,7 +662,12 @@
         "PZWMU82aKJU",
         "e01Hk8VRg_4",
         "BKj9Qr8HqcI",
-        "350312521"
+        "350312521",
+        "W7GG7c7Kyoc",
+        "oQ4lj8wZUZY",
+        "3NGpa9mnHg8",
+        "159694136",
+        "159684941"
       ],
       "id": 18
     },
@@ -682,11 +702,11 @@
         "87221575",
         "87245795",
         "zvqmZLtiZic",
-        "visI4mFODcs",
         "iTrL7KcKMlU",
         "mN827z5i_aE",
         "LP3lhnh9Ugo",
-        "IwhN_JjuKMc"
+        "IwhN_JjuKMc",
+        "86630063"
       ],
       "id": 20
     },
@@ -722,7 +742,8 @@
         "VFQBKig3tAM",
         "cNyCo33niHc",
         "e01Hk8VRg_4",
-        "WfR_d_ishcM"
+        "WfR_d_ishcM",
+        "W7GG7c7Kyoc"
       ],
       "id": 21
     },
@@ -770,7 +791,8 @@
         "xOd9KOHCjmY",
         "P9oBg_QCbVw",
         "G7-63aXZ-3k",
-        "g456KJFcPXk"
+        "g456KJFcPXk",
+        "sdFfZFIWXCE"
       ],
       "id": 26
     },
@@ -839,7 +861,8 @@
         "144453182",
         "RR1qHyyyu-4",
         "405155574",
-        "132iFlRWfWY"
+        "132iFlRWfWY",
+        "W7GG7c7Kyoc"
       ],
       "id": 30
     },
@@ -1217,7 +1240,7 @@
       "urlId": "35189302",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 14
     },
     {
@@ -2234,33 +2257,6 @@
       "mostrar": true,
       "destaque": false,
       "id": 53
-    },
-    {
-      "ano": 2010,
-      "categoriaId": 5,
-      "categorias": [
-        "Cineclube Aurora",
-        "Ficção",
-        "Curta-metragem",
-        "Filmes do interior"
-      ],
-      "cidade": "Londrina",
-      "direcao": "Rodrigo Grota",
-      "duracao": "16 min",
-      "outras": "",
-      "producao": "",
-      "equipe": "",
-      "resp": {
-        "email": "paranaflix@pm.me",
-        "nome": "Paranáflix"
-      },
-      "sinopse": "A vida e a obra do imigrante, agricultor e fotógrafo japonês Haruo Ohara (1909-1999).",
-      "titulo": "Haruo Ohara",
-      "urlId": "visI4mFODcs",
-      "urlHost": "youtube",
-      "mostrar": true,
-      "destaque": false,
-      "id": 54
     },
     {
       "ano": 2015,
@@ -6393,6 +6389,201 @@
       "mostrar": true,
       "destaque": false,
       "id": 213
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres",
+        "Super-8",
+        "Filmes de cursos livres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Drica Seki",
+      "duracao": "4 min",
+      "exibicoes": "Festival Curta 8 ",
+      "outras": "Filmado em Super 8. Produzido para Festival de Cinema Curta 8 de Curitiba dentro para a oficina Tomada Única em outubro de 2019.",
+      "producao": "Titubá Produções",
+      "equipe": "Elenco: Janine Duarte como Lilith Fabiana Milhas como Eva Maicon Morais como Adão  Amigos: Dí Rodriguez Elerton Bertrão Vitor Andrade  Roteiro: Drica Seki e Isabela Caféfortesemaçúcar Direção: Drica Seki Fotografia: Gabi Rodrigues e Nathalia Tsiflidis Trilha: Isa do Som e Dí Rodriguez Direção de Arte: Mariana de Aguiar Neitzel Produção: Diogo Blanco Maquiagem: Lua Mont Sitt  Agradecimentos à: Letícia Colaço e Stalone Pizza Pie  Zabb Brechó Brechó Debochadas",
+      "resp": {
+        "email": "titubaproducoes@gmail.com",
+        "nome": "Isabela Leite"
+      },
+      "sinopse": "Lilith, apagada das escrituras bíblicas, foi a primeira mulher a viver no Paraíso. É o espírito feminino indomável. Depois de ser expulsa do Éden por se recusar à submissão, volta para oferecer a Eva o fruto do conhecimento do bem e do mal. Eva, quando percebe que está entregue a uma vida monótona e submissa à Adão, ouve o chamado de Lilith, que lhe oferece a chance de conhecer a si mesma. ",
+      "titulo": "Lilith",
+      "urlId": "W7GG7c7Kyoc",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 214
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Universitário",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Isa Melo",
+      "duracao": "2 min",
+      "exibicoes": "Metrô - Festival do Cinema Universitário Brasileiro",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção: Isa Melo Poema: Mariana Recchia",
+      "resp": {
+        "email": "isacdmelo@gmail.com",
+        "nome": "Isa Melo"
+      },
+      "sinopse": "um vídeo sobre fome, feito com fome, do começo ao fim.",
+      "titulo": "vídeo engolido",
+      "urlId": "oQ4lj8wZUZY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 215
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Dirigido por mulheres",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Giovana Bianconi",
+      "duracao": "12 min",
+      "exibicoes": "Mostra de Documentarios da Unespar no Cine Guarani",
+      "outras": "",
+      "producao": "",
+      "equipe": "Tiago Felipe, Rafaela Panchorra, Sebastian Pettersen, Vitória Trigo, Bruno Araujo, Nathalia Mendes, Leani Ferrari, Lívia Zanuni, Alice Lippe ",
+      "resp": {
+        "email": "giovana.bianconi@gmail.com",
+        "nome": "Giovana Bianconi"
+      },
+      "sinopse": "Onde estão as mulheres no samba?",
+      "titulo": "Samba Mulher",
+      "urlId": "3NGpa9mnHg8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 216
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Universitário",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Nathalia Cavalcante",
+      "duracao": "15 min",
+      "exibicoes": "IV Festcine (Brasil/2016), 15º Recine (Brasil/2016), I Setcurtas (Brasil/2016), II Fevuem (Brasil/2016) – Menção Honrosa, 10ª Mostra Une (Brasil/2017), 3ª Mostra Pajeú de Cinema (Brasil/2017), I Metrô (Brasil/2017)",
+      "outras": "",
+      "producao": "",
+      "equipe": "Nathalia Cavalcante – Produção, Direção, Roteiro, Câmera, Direção de Fotografia, Edição e Finalização Estevão Furtado - Câmera Herminia Motta – Assistência de Direção, Som Direto",
+      "resp": {
+        "email": "nathalia.jornal@gmaill.com",
+        "nome": "Nathalia Cavalcante"
+      },
+      "sinopse": "Uma paixão chamada Cinema. A arte que inspira muitas pessoas faz parte da vida de Estevão Furtado, um administrador que nunca deixou de lado sua admiração pela sétima arte. Assim, Estevão traz à tona memórias, que se confundem com um enredo cinematográfico.",
+      "titulo": "CAMPOCONTRACAMPO",
+      "urlId": "159694136",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 217
+    },
+    {
+      "ano": 2013,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Nathalia Cavalcante",
+      "duracao": "12 min",
+      "exibicoes": "I Festival Pampifitas (Portugal/2014), I Muestra Iberoamericana de Cine de Taxco (México/2014), I Festival Luz de Cinema (Brasil/2014), III Festcine (Brasil/2015) – Indicação Melhor Atriz, 12º Festival Imagem-Movimento (Brasil/2015), I Fevuem (Brasil/2015) – Prêmio Melhor Atuação",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e Roteiro - Nathalia Cavalcante  Direção de Fotografia e Câmera –Vanessa Alves  Assistência de Fotografia – Thiago Maceno  Logger – Guilherme Dias   Direção de Arte, Figurino – Isabelle Mesquita Maquiagem – Isabelle Mesquita e Michelle Hasselmann Direção de Produção – Carla Rocha Produção de Set – Suzane Skroch 1ª Assistente de Produção – Larissa Beffa 2º Assistente de Produção – Guilherme Dias Som Direto – Louise Fiedler e Thiago Maceno Making Of e Still – Diego Silva Montagem – Diego Silva, Nathalia Cavalcante e Vanessa Alves Edição de Som – Paulo de Tarso (Luxsonora) e Vanessa Alves Finalização – Claudio Alves e Naiche Cardoso (Blueprintfilms)",
+      "resp": {
+        "email": "nathalia.jornal@gmail.com",
+        "nome": "Nathalia Cavalcante"
+      },
+      "sinopse": "Todos os dias, Joana, uma senhora solitária, visita a biblioteca. A cada dia lê um livro em voz alta. As pessoas passam sem interrompê-la. Mas um dia, a sua rotina é modificada e, com isso, tenta buscar uma forma de se desvencilhar da solidão.",
+      "titulo": "Reticências",
+      "urlId": "159684941",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 218
+    },
+    {
+      "ano": 2003,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Legendas em português"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Eduardo Baggio",
+      "duracao": "1 min",
+      "exibicoes": "II Festival do Minuto de Curitiba – Ação 4:3 (2003) / 8º Festival de Cinema e Vídeo de Curitiba (2004) / 8º FAM – Festival Audiovisual do Mercosul (2004) / II Cineesquemanovo (2004) / Festival Mundial do Minuto (2004)",
+      "outras": "- Melhor vídeo no II Festival do Minuto de Curitiba – Ação 4:3 - 2º Lugar no Festival Mundial do Minuto (2004)",
+      "producao": "",
+      "equipe": "Roteiro: Eduardo Baggio Direção: Eduardo Baggio Edição: Eduardo Baggio Som: Gravação original de Joacir Baggio",
+      "resp": {
+        "email": "baggioeduardo@gmail.com",
+        "nome": "Eduardo Baggio"
+      },
+      "sinopse": "As diferenças, as semelhanças e o relacionamento entre pai e filho expressos por fotos de família e antigas gravações de áudio.",
+      "titulo": "28 Anos",
+      "urlId": "sdFfZFIWXCE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 219
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Cineclube Aurora",
+        "Filmes do interior"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Rodrigo Grota",
+      "duracao": "16 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Kinoarte",
+      "equipe": "Direção, Roteiro e Montagem: Rodrigo Grota Produção: Bruno Gehring Direção de Fotografia e Operador de Câmera: Carlos Ebert, ABC Direção de Arte: José de Aguiar 1º Assistente de Direção de Fotografia e Operador de Câmera 2: Anderson Craveiro Eletricista e Cenotécnico: Cícero Barbosa Figurino: Nélio Pinheiro Projeto Gráfico: Felipe Augusto & Guilherme Gerais Cabelo e maquiagem: Christian Ferreira de Amorim & Julio César Nunes Assistentes de Direção: Artur Ianckievicz & Guilherme Peraro Estagiária de Direção: Roberta Takamatsu Assistentes de Direção de Fotografia: Danilo Miranda, Felipe Augusto, Guilherme Gerais & Thiago Pedroso Assistente de Produção: Argel Medeiros",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": " Hoje você vê a flor. Agradeça à semente de ontem.",
+      "titulo": "Haruo Ohara",
+      "urlId": "86630063",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": true,
+      "id": 220
     }
   ]
 }
