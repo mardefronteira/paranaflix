@@ -127,7 +127,9 @@
         "-jKXc_uONWA",
         "3NGpa9mnHg8",
         "159694136",
-        "sdFfZFIWXCE"
+        "sdFfZFIWXCE",
+        "313396925",
+        "ETHb9VOjVu8"
       ],
       "id": 25
     },
@@ -219,7 +221,9 @@
         "350312521",
         "W7GG7c7Kyoc",
         "159684941",
-        "86630063"
+        "86630063",
+        "XCiZzNG0E5M",
+        "251467518"
       ],
       "id": 8
     },
@@ -369,7 +373,9 @@
         "zVrVe7E-kQc",
         "oQ4lj8wZUZY",
         "3NGpa9mnHg8",
-        "159694136"
+        "159694136",
+        "XCiZzNG0E5M",
+        "313396925"
       ],
       "id": 12
     },
@@ -533,7 +539,10 @@
         "159694136",
         "159684941",
         "sdFfZFIWXCE",
-        "86630063"
+        "86630063",
+        "XCiZzNG0E5M",
+        "313396925",
+        "251467518"
       ],
       "id": 13
     },
@@ -667,7 +676,9 @@
         "oQ4lj8wZUZY",
         "3NGpa9mnHg8",
         "159694136",
-        "159684941"
+        "159684941",
+        "313396925",
+        "251467518"
       ],
       "id": 18
     },
@@ -792,7 +803,8 @@
         "P9oBg_QCbVw",
         "G7-63aXZ-3k",
         "g456KJFcPXk",
-        "sdFfZFIWXCE"
+        "sdFfZFIWXCE",
+        "251467518"
       ],
       "id": 26
     },
@@ -1632,7 +1644,7 @@
       "urlId": "jGWoXPxi3Fs",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 29
     },
     {
@@ -6582,8 +6594,116 @@
       "urlId": "86630063",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 220
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Iury Peres Malucelli",
+      "duracao": "15 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "Com: Gabriel Morais ; Elter Correa ; Renan Valentim ; Iago Tonquelski Direção: Iury Peres Malucelli Produção Executiva: Gabriel Borges  Direção de Produção: Gabriel Borges e Mateus Simões  Direção de Fotografia: Heloisa Pellegrini Direção de Arte: Ju Choma ; Pedro Vilo e Maria Gabriela Goulart Som Direto e Finalização de Som: Vinicius André Maciel Assistência de Direção: Rodrigo Tomita e André F. Diniz Montagem: Gabriel Borges Finalização de Imagem: Rodrigo Tomita",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Borges"
+      },
+      "sinopse": "Durante uma noite de tédio, dois amigos mergulham no mistério de um acontecimento de infância que coloca a segurança da memória e de tudo aquilo que os circunda em cheque.",
+      "titulo": "Plínio",
+      "urlId": "XCiZzNG0E5M",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 221
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Universitário",
+        "Documentário",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba ",
+      "direcao": "Maria Melora Moura ",
+      "duracao": "20 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "Imagens: Maria Melora Moura e Thaiany Osório  Edição: Elementar Studio ",
+      "resp": {
+        "email": "melmoura07@gmail.com",
+        "nome": "Maria Melora Moura "
+      },
+      "sinopse": "Este documentário tem como objetivo mostrar o papel de brechós na construção de identidade de minorias. Através de testemunhos reais, são apresentados perfis que demonstram experiências e vivências relacionadas à construção de identidade pessoal. Como a roupa tem um papel primordial na construção do ser, os brechós se mostram como uma possibilidade de resistência aos personagens escolhidos. ",
+      "titulo": "Visto ",
+      "urlId": "313396925",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 222
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres",
+        "Legendas em português"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Celina Becker",
+      "duracao": "20 min",
+      "exibicoes": "1° Mostra Curta Velho Oeste em Assis-SP,  Mostra Livre- festival Psicodália,20ª edição do Festival Kinoarte de Cinema,Casa do Brasil de Lisboa",
+      "outras": "",
+      "producao": "Clareira Filmes",
+      "equipe": "Ficha Técnica: Celina Becker: Roteiro, Direção, Montagem, Lucas Pullin: Produção Executiva Carlos Fofaun Fortes: Direção de Produção, Anderson Craveiro: Direção de Fotografia, Camila Alcantara Melara: Direção de Arte, Thais Blanco: Figurinista Bruno Bergamo: Som Direto . Elenco : Ana Karina Baribieri, Otavio Linhares, Tiago Luz.",
+      "resp": {
+        "email": "ce.ma.bequi@gmail.com",
+        "nome": "Celina Becker"
+      },
+      "sinopse": "Eva Heumann foge do 3º Reich Alemão e, em dezembro de 1937, chega a gleba Grünstadt no Norte do Paraná, à procura de refúgio. Recepcionada por bandeiras nazistas tremulando livremente nos céus da vila, confronta-se com o medo e a dúvida de conviver ao lado do inimigo. Feridas expostas, nervos à tona... a espera silenciosa pelo apagar do pavio.",
+      "titulo": "Grünstadt",
+      "urlId": "251467518",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 223
+    },
+    {
+      "ano": 1984,
+      "categoriaId": 2,
+      "categorias": [
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Narciso Assumpção",
+      "duracao": "5 min",
+      "exibicoes": "",
+      "outras": "Narciso Assumpção é ator, performer e um estranho jornalista. Por uma triste coincidência, seu irmão mais novo, o músico Itamar Assumpção, também morreu com os mesmos 53 anos que tinha o irmão Narciso ao morrer, em 28 de maio de 2001, por problemas cardiovasculares e broncopneumonia. A família Assumpção mudou-se para Arapongas em 1961, quando Narciso tinha 14 e Itamar 12 anos.   Se Denise e Itamar prosseguiram no caminho das artes, Narciso abraçou o jornalismo. Foi o primeiro repórter e apresentador negro da televisão brasileira, tendo sido também repórter policial da Tribuna do Paraná e integrado a equipe de reportagem da TV Iguaçu. ",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Uma das reportagens de Narciso Assumpção, datada de 1984 - Gravação da TV Iguaçu mostrando o estilo peculiar deste repórter, já falecido, que trabalhou por um longo tempo em Curitiba, a partir dos anos 1980.",
+      "titulo": "As reportagens de Narciso Assumpção",
+      "urlId": "ETHb9VOjVu8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 224
     }
   ]
 }
