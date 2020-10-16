@@ -1589,7 +1589,7 @@
       "urlId": "217713189",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 27
     },
     {
@@ -1644,7 +1644,7 @@
       "urlId": "jGWoXPxi3Fs",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 29
     },
     {
