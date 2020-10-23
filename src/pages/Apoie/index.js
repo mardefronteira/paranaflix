@@ -63,6 +63,7 @@ function Apoie() {
               <br />• Camila Macedo
               <br />• Caroline Biagi
               <br />• Eduardo Baggio
+              <br />• Isabele Orengo
               <br />• Júlia Nascimento de Souza
               <br />• Lucas Queiroz
               <br />• Luiza Remez
