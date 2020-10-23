@@ -129,7 +129,11 @@
         "159694136",
         "sdFfZFIWXCE",
         "313396925",
-        "ETHb9VOjVu8"
+        "ETHb9VOjVu8",
+        "2KFa7QOVU4g",
+        "6SPQxkQI4fA",
+        "148234431",
+        "t1OZLSE9dck"
       ],
       "id": 25
     },
@@ -174,7 +178,6 @@
         "12959615",
         "6870050",
         "tVNuVfqayR8",
-        "111024977",
         "111024977",
         "173062585",
         "9F_2wjqDlF4",
@@ -223,7 +226,13 @@
         "159684941",
         "86630063",
         "XCiZzNG0E5M",
-        "251467518"
+        "251467518",
+        "MTHaEWuIsJg",
+        "x811DYrB1eY",
+        "VkGsBbvgofQ",
+        "jjGckrNXqfo",
+        "aN04uZrHukg",
+        "408855540"
       ],
       "id": 8
     },
@@ -248,7 +257,8 @@
         "F2XcYWzgaoc",
         "PZWMU82aKJU",
         "hRwjgM1yvGU",
-        "388143997"
+        "388143997",
+        "iCqbNWjWZyw"
       ],
       "id": 9
     },
@@ -279,7 +289,6 @@
         "86141419",
         "6870050",
         "111024977",
-        "111024977",
         "57842683",
         "150279048",
         "xLtqbSG3Nwo",
@@ -309,7 +318,9 @@
         "GGsyyNytd6Q",
         "NkOMqaoO9mo",
         "WfR_d_ishcM",
-        "oQ4lj8wZUZY"
+        "oQ4lj8wZUZY",
+        "t1OZLSE9dck",
+        "408855540"
       ],
       "id": 10
     },
@@ -375,7 +386,9 @@
         "3NGpa9mnHg8",
         "159694136",
         "XCiZzNG0E5M",
-        "313396925"
+        "313396925",
+        "t1OZLSE9dck",
+        "408855540"
       ],
       "id": 12
     },
@@ -476,7 +489,6 @@
         "mN827z5i_aE",
         "LP3lhnh9Ugo",
         "111024977",
-        "111024977",
         "173062585",
         "57842683",
         "ak0o9lleLrQ",
@@ -542,7 +554,15 @@
         "86630063",
         "XCiZzNG0E5M",
         "313396925",
-        "251467518"
+        "251467518",
+        "VkGsBbvgofQ",
+        "6SPQxkQI4fA",
+        "jjGckrNXqfo",
+        "148234431",
+        "aN04uZrHukg",
+        "iCqbNWjWZyw",
+        "t1OZLSE9dck",
+        "408855540"
       ],
       "id": 13
     },
@@ -583,7 +603,10 @@
         "-l9TBghnxIY",
         "ey9QV8Vzqkc",
         "IwhN_JjuKMc",
-        "AXAthviTk_E"
+        "AXAthviTk_E",
+        "MTHaEWuIsJg",
+        "x811DYrB1eY",
+        "2KFa7QOVU4g"
       ],
       "id": 15
     },
@@ -624,7 +647,8 @@
       "filmes": [
         "jGWoXPxi3Fs",
         "7SKVe-lOITg",
-        "KzxpTOb9S70"
+        "KzxpTOb9S70",
+        "t1OZLSE9dck"
       ],
       "id": 17
     },
@@ -678,7 +702,10 @@
         "159694136",
         "159684941",
         "313396925",
-        "251467518"
+        "251467518",
+        "2KFa7QOVU4g",
+        "jjGckrNXqfo",
+        "408855540"
       ],
       "id": 18
     },
@@ -717,7 +744,8 @@
         "mN827z5i_aE",
         "LP3lhnh9Ugo",
         "IwhN_JjuKMc",
-        "86630063"
+        "86630063",
+        "x811DYrB1eY"
       ],
       "id": 20
     },
@@ -804,7 +832,9 @@
         "G7-63aXZ-3k",
         "g456KJFcPXk",
         "sdFfZFIWXCE",
-        "251467518"
+        "251467518",
+        "MTHaEWuIsJg",
+        "148234431"
       ],
       "id": 26
     },
@@ -832,7 +862,8 @@
         "P9oBg_QCbVw",
         "73668837",
         "KzxpTOb9S70",
-        "g456KJFcPXk"
+        "g456KJFcPXk",
+        "148234431"
       ],
       "id": 27
     },
@@ -1589,7 +1620,7 @@
       "urlId": "217713189",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 27
     },
     {
@@ -1777,7 +1808,7 @@
       "urlId": "eJWVaWzK2DE",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 31
     },
     {
@@ -3332,31 +3363,6 @@
       "mostrar": true,
       "destaque": false,
       "id": 96
-    },
-    {
-      "ano": 2013,
-      "categoriaId": 5,
-      "categorias": [
-        "Dirigido por mulheres",
-        "Documentário"
-      ],
-      "cidade": "Curitiba",
-      "direcao": "Ana Johann",
-      "duracao": "19 min",
-      "outras": "",
-      "producao": "Capicua Filmes",
-      "equipe": "Diretora e roteirista: Ana Johann  Atriz: Rosana Stavis  Projeto e captação: Ricardo Trento  Diretor de fotografia e câmera: Mauricio Vianna Baggio  Assistente de fotografia: Helen Braga  Desenho de som e criação sonora: Demian Garcia  Produtora e assistente de direção: Melanie F. Narozniak  Diretor de arte e figurinista: Paulo Vinícius Alves  Montador e tratamento de cor: Diego Florentino  Fotografia still: Rosano Mauro  Designer: Pedro Giongo Araújo",
-      "resp": {
-        "email": "anajohann@gmail.com",
-        "nome": "Ana Johann"
-      },
-      "sinopse": "Uma rainha esquecida no tempo. Uma filha que tenta resgatar a história da mãe. Um lugar onde esta história existe entre lampejos e fragmentos de memórias. Curta-metragem sobre a Rainha da era do rádio, Lucia Cecilia Kubis.",
-      "titulo": "Noticias da Rainha",
-      "urlId": "iMu5OQyBjRk",
-      "urlHost": "youtube",
-      "mostrar": true,
-      "destaque": false,
-      "id": 97
     },
     {
       "ano": 2012,
@@ -6704,6 +6710,304 @@
       "mostrar": true,
       "destaque": false,
       "id": 224
+    },
+    {
+      "ano": 1975,
+      "categoriaId": 1,
+      "categorias": [
+        "Ficção",
+        "Longa-metragem",
+        "Legendas em português"
+      ],
+      "cidade": "França/Itália",
+      "direcao": "Jean-Louis Comolli",
+      "duracao": "113 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "Giovanni Rossi, um anarquista italiano, que havia escrito um romance no qual descreve uma comunidade onde todos conviviam livres, sem leis e patrões, encontra-se com o imperador D. Pedro II, que interessado por suas ideias, oferece-lhe um lote de terra num país que ele descreve como jovem e pouco povoado -- o Brasil -- para que Rossi realize a experiência descrita no livro, no estado do Paraná. Rossi chega ao Brasil com um pequeno grupo e iniciam a colônia La Cecilia. Ocorre então a proclamação da república e a comunidade terá de lidar com novas leis, e uma nova tratativa por parte do governo recém-estabelecido. Em La Cecilia terão de lidar com sentimentos possessivos entre si, e tentarão conviver, na prática, com a emancipação feminina, amor livre, e a extinção de paternidade e família.",
+      "titulo": "La Cecilia",
+      "urlId": "MTHaEWuIsJg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 225
+    },
+    {
+      "ano": 1966,
+      "categoriaId": 1,
+      "categorias": [
+        "Longa-metragem",
+        "Ficção",
+        "Filmes do interior"
+      ],
+      "cidade": "Curitiba / Ponta Grossa / Foz do Iguaçu",
+      "direcao": "José Mojica Marins, Ody Fraga, Armando de Miranda ",
+      "duracao": "90 min",
+      "exibicoes": "",
+      "outras": "\"As filmagens de \"O Diabo de Vila Velha\" tiveram início com algumas seqüências de interiores - um cenário reproduzindo uma cadeia, construída no amplo espaço do grande auditório do Teatro Guaíra, então com suas obras paralisadas. As filmagens alongavam-se madrugadas a dentro e as tensões explodiam. Ody Fraga desentendeu-se com o produtor Nelson Teixeira Mendes que convocou então José Mojica Marins - o Zé do Caixão - na época começando a ficar conhecido pelos seus filmes de terror (\"Esta Noite Levarei Tua Alma\", \"A Meia Noite Encarnarei em Teu Cadáver\"), mas que já tinha uma experiência de diretor de filmes de ação.\" - Aramis Millarch em http://www.millarch.org/artigo/laertes-o-filme-o-diabo-de-vila-velha",
+      "producao": "",
+      "equipe": "https://www.imdb.com/title/tt0259276/fullcredits/?ref_=tt_ov_st_sm",
+      "resp": {
+        "email": "paranaflix@pm.me",
+        "nome": "Paranáflix"
+      },
+      "sinopse": "O vilarejo de Vila Velha é controlado por um poderoso coronel apelidado de 'Diabo', que manipula políticos e pistoleiros da região. Ele contrata um assassino de aluguel para eliminar todos os seus inimigos, mas no final é morto por um tenente que chega para salvar o povo.",
+      "titulo": "O diabo de Vila Velha",
+      "urlId": "x811DYrB1eY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 226
+    },
+    {
+      "ano": 1983,
+      "categoriaId": 2,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Valêncio Xavier",
+      "duracao": "12 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Taty Filmes",
+      "equipe": "Narração de Paulo Autran. Ilustrações de Gustavo Doré. Fotografia de Ivan Bittencourt. Roteiro, direção e montagem de Valêncio Xavier. Com homens e mulheres de Curitiba. ",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Baseado no conto de Edgar Allan Poe.",
+      "titulo": "O Corvo",
+      "urlId": "VkGsBbvgofQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 227
+    },
+    {
+      "ano": 1997,
+      "categoriaId": 3,
+      "categorias": [
+        "Longa-metragem",
+        "Documentário",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Guaraqueçaba",
+      "direcao": "Eduardo Caron e Mirella Martinelli",
+      "duracao": "81 min",
+      "exibicoes": "21º Mostra de São Paulo",
+      "outras": "Romarias percorrem a região com seus foliões, cantando e tocando instrumentos artesanais como a rabeca e a viola. Essa tradição, assim como a cura por ervas medicinais, o culto aos mitos do mar, e o conhecimento da natureza, aos poucos se extinguem. Antigos povoados desaparecem carregados pelo mar, que invade a terra, casas e naufraga embarcações.  O casal Eduardo Caron e Mirella Martinelli são cineastas de São Paulo que vem da direção de curta-metragens. Este é o seu longa-metragem de estréia. ",
+      "producao": "",
+      "equipe": "Roteiro:\tEduardo Caron e Mirella Martinelli / Fotografia: Eduardo Caron /  Montagem: Mirella Martinelli / Música: Mario Mança, Zé Gomes",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Um documentário sobre a vida de um povo que habita baías, ilhas e mangues no litoral Norte do Paraná. Narrado pelos ilhéus, aborda o trabalho e os costumes, as festas, música e crendices desse povo que vive da pesca artesanal, numa existência marcada pela falta de eletricidade, pelas marés, o vento, o sol e as fases da lua.",
+      "titulo": "Terra do Mar",
+      "urlId": "2KFa7QOVU4g",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 228
+    },
+    {
+      "ano": 1982,
+      "categoriaId": 2,
+      "categorias": [
+        "Documentário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Sylvio Back",
+      "duracao": "13 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Usina de Kyno",
+      "equipe": "Direção, roteiro e produção: Sylvio Back / Direção de fotografia e câmara: Adrian Cooper / Textos: Paulo Vítola e Gilberto Ricardo dos Santos / Assistente: José Roberto Eliezer / Trilha musical original: Paulo Vítola e Marinho Gallera / Narração: Neville George / Montagem e edição: Laércio Silva / Produção executiva: Maraidith Flores",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Sobre as transformações urbanísticas sofridas por Curitiba, a partir da segunda metade da década de 70. Sua narrativa, em tom jornalístico, começa por recapitular a provinciana face da cidade após vinte anos (filme de arquivo feito por um dos pioneiros do cinema paranaense João Baptista Groff), até a sua invejável qualidade de vida atual.",
+      "titulo": "A escala do homem",
+      "urlId": "6SPQxkQI4fA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 229
+    },
+    {
+      "ano": 1991,
+      "categoriaId": 3,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Fernanda Morini",
+      "duracao": "10 min",
+      "exibicoes": "",
+      "outras": "Fernanda Morini fundou a Realiza Vídeo (junto com Jussara Locatelli), uma produtora dedicada a produção de conteúdo em 1991 que reúne talentos do audiovisual, da publicidade, da animação e da tecnologia.",
+      "producao": "Realiza Vídeo",
+      "equipe": "Diretora: Fernanda Morini Elenco: Bronie Lozneau, Emilio Pitta, Marco Antônio Pamio Produção: Jussara Locatelli Fotografia: Flávio Ferreira Roteiro: Nelson Padela Edição: Máximo Barro Assistente de direção: Heloísa Passos Trilha original: Celso 'Pirata' Lock",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Baseado em fato verídico, o filme conta a história acontecida em Curitiba, no verão de 1975, quando uma bonita loira fantasma vira sensação da imprensa.",
+      "titulo": "A Loira Fantasma",
+      "urlId": "jjGckrNXqfo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 230
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Legendas em português",
+        "English subtitles"
+      ],
+      "cidade": "Lapa",
+      "direcao": "Leandro Cordeiro",
+      "duracao": "22 min",
+      "exibicoes": "FORUM DOC BH",
+      "outras": "",
+      "producao": "Ambiente Filmes",
+      "equipe": "Direção: Leandro Cordeiro Produção: Izabela Nogueira Fotografía: Arthur Abreu montagem: Filipe Donatti Ass. diretor: Marcela Soares",
+      "resp": {
+        "email": "leandrocordeirocontato@gmail.com",
+        "nome": "Leandro Cordeiro"
+      },
+      "sinopse": "Um retrato do cotidiano de uma família migrante. Almirenio sonha levar sua esposa e filhos para conhecer a sua terra natal, Bahia, e reencontrar sua tia.",
+      "titulo": "Eu volto ao lado deles",
+      "urlId": "148234431",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 231
+    },
+    {
+      "ano": 2000,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Geraldo Pioli",
+      "duracao": "11 min",
+      "exibicoes": "24º Mostra de Cinema de São Paulo",
+      "outras": "Locação: Piraquara - PR",
+      "producao": "Alessandro Haro e  Carla Pioli",
+      "equipe": "Fotografia: Celso Kave Fº, Euclides Fantin / Roteiro: Geraldo Pioli / Edição: Cristina Amaral / Som Direto: Alexandro Laroca / Direção de Arte: Jota Eme / Trilha original: João Jose F, Pereira, Ricardo Petraca",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "História bem humorada da tentativa de um padre jesuíta de ensinar os 10 mandamentos à uma tribo guarani poligâmica.",
+      "titulo": "Aldeia",
+      "urlId": "aN04uZrHukg",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 232
+    },
+    {
+      "ano": 2005,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Animação"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Paulo Munhoz",
+      "duracao": "14 min",
+      "exibicoes": "Anima Mundi 2006",
+      "outras": "O curta metragem Pax (2005), do diretor curitibano Paulo Munhoz, traz de forma bem humorada, sarcástica e por vezes, muito próxima da verdade, um fictício encontro entre alguns representantes religiosos mundiais.  Prêmios Indicado para o GRANDE PRÊMIO DO CINEMA BRASILEIRO;  Melhor Animação no Festival de Cinema, Vídeo e DCine de Curitiba em 2005 Melhor Animação Brasileira no Anima Mundi em 2006 Melhor Filme no Mostra Pará Cine em 2006 Melhor Roteiro no FAM - Florianópolis em 2006 Prêmio Estímulo no Festival de Cinema, Vídeo e DCine de Curitiba em 2003",
+      "producao": "Tecnokena",
+      "equipe": "Fotografia: Paulo Munhoz / Roteiro: Paulo Munhoz / Edição: Angelo Esmanhoto / Som Direto: Ayrton Scorsato / Música: Alessandro Laroca / Trilha Sonora: Valdemar Lacerda",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro Giongo"
+      },
+      "sinopse": "Quatro religiosos, um padre, um xeique, um rabino e um monge, se reúnem para discutir a violência do mundo atual e achar uma resposta para isso. Cheios de boa vontade, e mais cheios ainda de suas certezas, buscam uma solução. Será que encontram?",
+      "titulo": "Pax",
+      "urlId": "iCqbNWjWZyw",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 233
+    },
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Experimental",
+        "Cinema Negro",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Gabriel Borges",
+      "duracao": "4 min",
+      "exibicoes": "23ª Mostra de Cinema de Tiradentes, 15ª CineOP - Mostra de Cinema de Ouro Preto, 9º Olhar de Cinema, 3º Festival de Cinema de Jaraguá do Sul, 3º Assimetria - Festival Universitário de Cinema e Audiovisual",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "“Aos negros brasileiros, regressar à África espiritualmente.” Uma apropriação de imagens e sons de um cinema novo para a construção de um novo imaginário.",
+      "titulo": "E no rumo do meu sangue",
+      "urlId": "t1OZLSE9dck",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 234
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Dirigido por mulheres",
+        "Universitário",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Isabele Orengo",
+      "duracao": "8 min",
+      "exibicoes": "3º MoveMundo (Betim, Brasil - 2016) XVI Encontros de Cinema de Viana (Viana do Castelo, Portugal - 2016) FICBIC - Festival Internacional de Cinema da Bienal Internacional de Curitiba (Curitiba, Brasil - 2016) II FEVUEM - Festival de Vídeos da Universidade Estadual de Maringá (Maringá, Brasil - 2016)",
+      "outras": "",
+      "producao": "Gesto de Cinema, Instituto Nanaba",
+      "equipe": "Ilustrações - Evandro D'Hipólito Fotografia - Kleber Nanaba Narração - Simon Slompo Desenho de Som - Bruno Ito Edição - Matheus Kerniski Mãos - Rômolo Eduardo, Donato D'Hipólito, Ana Matsusaki, Kleber Nanaba Agradecimentos: Willian Germano, Ive Machado e Cassia Hauari Orientação de Evaldo Mocarzel",
+      "resp": {
+        "email": "isabele@gestodecinema.com",
+        "nome": "Isabele Orengo"
+      },
+      "sinopse": "Não conheci pessoalmente meu avô paterno, mas conheci sua história costurando relatos, memórias de parentes e fotografias. Esse filme é uma livre interpretação de sua vida e uma releitura de suas ações, traumas que ecoam na família ainda hoje.",
+      "titulo": "Pavão sem cores",
+      "urlId": "408855540",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 235
     }
   ]
 }
