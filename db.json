@@ -53,7 +53,8 @@
         "9jF__op3qrQ",
         "v49O3LtefDA",
         "RI47_VUlsT8",
-        "mT-r1J8yJ7A"
+        "mT-r1J8yJ7A",
+        "195786104"
       ],
       "id": 7
     },
@@ -133,7 +134,10 @@
         "2KFa7QOVU4g",
         "6SPQxkQI4fA",
         "148234431",
-        "t1OZLSE9dck"
+        "t1OZLSE9dck",
+        "195786104",
+        "HNTjK1FlswA",
+        "g_RAbnK61N8"
       ],
       "id": 25
     },
@@ -232,7 +236,9 @@
         "VkGsBbvgofQ",
         "jjGckrNXqfo",
         "aN04uZrHukg",
-        "408855540"
+        "408855540",
+        "222196052",
+        "ZRSJ8DSp-SY"
       ],
       "id": 8
     },
@@ -388,7 +394,10 @@
         "XCiZzNG0E5M",
         "313396925",
         "t1OZLSE9dck",
-        "408855540"
+        "408855540",
+        "195786104",
+        "HNTjK1FlswA",
+        "g_RAbnK61N8"
       ],
       "id": 12
     },
@@ -562,7 +571,12 @@
         "aN04uZrHukg",
         "iCqbNWjWZyw",
         "t1OZLSE9dck",
-        "408855540"
+        "408855540",
+        "195786104",
+        "222196052",
+        "HNTjK1FlswA",
+        "ZRSJ8DSp-SY",
+        "g_RAbnK61N8"
       ],
       "id": 13
     },
@@ -636,7 +650,8 @@
         "1AbLiYUY4ck",
         "97229315",
         "VJf4rQvCBfg",
-        "86630063"
+        "86630063",
+        "222196052"
       ],
       "id": 16
     },
@@ -705,7 +720,8 @@
         "251467518",
         "2KFa7QOVU4g",
         "jjGckrNXqfo",
-        "408855540"
+        "408855540",
+        "222196052"
       ],
       "id": 18
     },
@@ -727,7 +743,8 @@
         "2502876126415d489dc",
         "48274609",
         "144453182",
-        "NkOMqaoO9mo"
+        "NkOMqaoO9mo",
+        "g_RAbnK61N8"
       ],
       "id": 19
     },
@@ -834,7 +851,9 @@
         "sdFfZFIWXCE",
         "251467518",
         "MTHaEWuIsJg",
-        "148234431"
+        "148234431",
+        "195786104",
+        "222196052"
       ],
       "id": 26
     },
@@ -863,7 +882,9 @@
         "73668837",
         "KzxpTOb9S70",
         "g456KJFcPXk",
-        "148234431"
+        "148234431",
+        "195786104",
+        "222196052"
       ],
       "id": 27
     },
@@ -879,7 +900,9 @@
         "-ZRcgkU_Ktk",
         "ihC_-edD63o",
         "7SKVe-lOITg",
-        "D3vaeDoR7co"
+        "D3vaeDoR7co",
+        "195786104",
+        "222196052"
       ],
       "id": 28
     },
@@ -7008,6 +7031,148 @@
       "mostrar": true,
       "destaque": false,
       "id": 235
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Universitário",
+        "Curta-metragem",
+        "Legendas em português",
+        "English subtitles",
+        "Subtítulos en español"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Caio Baú",
+      "duracao": "15 min",
+      "exibicoes": "FIDBA -International Documentary Film Festival of Buenos Aires- 4th edition – Competitive Shorts, 12 Shorts México – Festival Internacional de Cortometrajes de México, 60th edition of the International Leipzig Festival for Documentary and Animated Film – DOK Leipzig, 11ª CineBH – BH International Film Festival, Grande Prêmio do Cinema Brasileiro 2017",
+      "outras": "SENHA: lulu",
+      "producao": "Gesto de Cinema",
+      "equipe": "Realização: Gesto de Cinema Personagem: Luiza Baú Direção, Roteiro e Produção: Caio Baú  Direção de Fotografia: Murilo Lazarin Ass. de Fotografia: Lucas Kosinski Produção Executiva: Gesto de Cinema Montagem: Fábio Allon Direção de Produção: Caio Baú Cor e Finalização: Lucas Kosinski Som Direto: Lucas Kosinski Direção de Som: Bruno Ito Universidade: Unespar – Cinema e Vídeo (Curitiba/PR – Brasil)",
+      "resp": {
+        "email": "isabele@gestodecinema.com",
+        "nome": "Isabele Orengo"
+      },
+      "sinopse": "“Luiza” trata da delicada relação entre uma jovem deficiente e o universo que a cerca, tendo a sexualidade como fio condutor para abordar questões como preconceito, relações entre pais e filhos, super-proteção da família, autonomia, diferenças e amor.",
+      "titulo": "Luiza",
+      "urlId": "195786104",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 236
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Cineclube Aurora",
+        "Legendas em português",
+        "English subtitles",
+        "Subtítulos en español"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Laís Melo",
+      "duracao": "15 min",
+      "exibicoes": "50º Festival de Brasília do Cinema Brasileiro, 4.\tFestival Internacional de Curtas do Rio de Janeiro – Curta Cinema 2017, 5.\t10º Festival de Curtas Metragens de Direitos Humanos ENTRETODOS, 6.\t6º Curta Brasília – Festival Internacional de Curta-Metragem, 40º Festival Guarnicê de Cinema, 34th Chicago Latino Film Festival, 21ª Mostra de Cinema de Tiradentes, 3.\tFICICA18 - Festival Internacional de Cortometrajes Cine a la Calle, Festival de films féministes de Montréal, 10th Leiden International Short Film Experience ",
+      "outras": "SENHA: melo",
+      "producao": "Gesto de Cinema",
+      "equipe": "Produzido por: Gesto de Cinema Produções Audiovisuais Elenco: Patricia Saravy, Richard Rebelo, Carlos Henrique Hique Veiga e Janine Mathias Direção e Roteiro: Laís Melo  Assist. De direção: Francielly Hellena Camilo Produção Executiva: Caio Baú, Jandir Santin, Laís Melo e Isabele Orengo Direção de Produção: Isabele Orengo Direção de Fotografia e Câmera: Renata Corrêa Assist. de Foto: Guilherme Chalegre, Mariana Buchmann e Murilo Lazarin Direção de Arte: Bea Gerolin Assist. De Arte: Aricia Machado Cenógrafo: Sergi Cabelo: Amali Mussi Montagem: Laís Melo Cor: João Marcelo Gomes e Renata Corrêa Finalização: Eyder Almaguer Som Direto: Débora Opolski Direção de Som: Débora Opolski Microfonista: Luís Bourscheidt",
+      "resp": {
+        "email": "isabele@gestodecinema.com",
+        "nome": "Isabele Orengo"
+      },
+      "sinopse": "A coragem foi se fazendo aos poucos conforme a angústia tomava o corpo. Em certa manhã, Glória, 34 anos, parte em busca de um lugar para voltar a ser.",
+      "titulo": "Tentei",
+      "urlId": "222196052",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 237
+    },
+    {
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Universitário"
+      ],
+      "cidade": "Curitiba/Paranaguá",
+      "direcao": "Paulo Silveira",
+      "duracao": "10 min",
+      "exibicoes": "Exibição Centro Europeu ",
+      "outras": "",
+      "producao": "CinémaSete ",
+      "equipe": "",
+      "resp": {
+        "email": "paulo.csilveira@outlook.com",
+        "nome": "PAULO SILVEIRA"
+      },
+      "sinopse": "Um grupo escuta no rádio a notícia de um homem jogado ao mar na costa litorânea Brasileira.  Este grupo decide buscar este homem para documentar sua história, mas nesta busca se deparam com outras duas pessoas: o despachante e o recepcionista.",
+      "titulo": "Ondobo, Hotel e Containers",
+      "urlId": "HNTjK1FlswA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 238
+    },
+    {
+      "ano": 1981,
+      "categoriaId": 2,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Pedro Merege",
+      "duracao": "11 min",
+      "exibicoes": "",
+      "outras": "Filme realizado em 16 mm, de maneira totalmente independente.",
+      "producao": "",
+      "equipe": "Pedro Merege, Beto Carminatti, Ivan Bittencourt, Alvaro Budal, Nancy Morena",
+      "resp": {
+        "email": "pmerege@gmail.com",
+        "nome": "Pedro Merege"
+      },
+      "sinopse": "O sonho do operário: encontrar um tesouro enterrado.",
+      "titulo": "Cabedal",
+      "urlId": "ZRSJ8DSp-SY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 239
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Cinema LGBTQIA+",
+        "Universitário"
+      ],
+      "cidade": "Londrina",
+      "direcao": "Bruno Nomura",
+      "duracao": "24 min",
+      "exibicoes": "2ª Mostra do Filme Marginal (Rio de Janeiro/RJ e Salvador/BA); XV Cinefest Gato Preto (Lorena/SP); 20º Festival Kinoarte de Cinema (Londrina/PR); Toró - 4º Festival Audiovisual Universitário (Belém/PA); 5ª Mostra Pajeú de Cinema (Afogados da Ingazeira/PE)",
+      "outras": "",
+      "producao": "Bendita Geni - Jornalismo LGBT",
+      "equipe": "",
+      "resp": {
+        "email": "brunog.nomura@gmail.com",
+        "nome": "Bruno Nomura"
+      },
+      "sinopse": "A escola ainda não está preparada para acolher as diferenças. Por isso, o período dos ensinos fundamental e médio costuma ser desafiador para pessoas LGBTQIA+ – lésbicas, gays, bissexuais, travestis, transexuais e diversidades. É durante o percurso educacional que questões como corpo, sexualidade e afetividade começam a aflorar, gerando uma série de conflitos. Qual é o espaço na escola para quem não se encaixa no padrão heterossexual e cisgênero?",
+      "titulo": "Depois da Tempestade: a LGBTfobia na escola",
+      "urlId": "g_RAbnK61N8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 240
     }
   ]
 }

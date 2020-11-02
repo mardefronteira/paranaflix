@@ -46,7 +46,7 @@ function Apoie() {
               <p>
                 Você pode falar com a gente através do email
                 <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>
-                , ou pelo
+                , ou pelo 
                 <a href="http://www.instagram.com/paranaflix" target="_blank" rel="noreferrer">Instagram</a>
               </p>
           </div>
