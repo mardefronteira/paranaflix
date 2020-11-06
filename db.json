@@ -1831,7 +1831,7 @@
       "urlId": "eJWVaWzK2DE",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 31
     },
     {
@@ -7000,7 +7000,7 @@
       "urlId": "t1OZLSE9dck",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 234
     },
     {
