@@ -137,7 +137,9 @@
         "t1OZLSE9dck",
         "195786104",
         "HNTjK1FlswA",
-        "g_RAbnK61N8"
+        "g_RAbnK61N8",
+        "0yXr76Pajp8",
+        "s6KdrVmKwDA"
       ],
       "id": 25
     },
@@ -397,7 +399,9 @@
         "408855540",
         "195786104",
         "HNTjK1FlswA",
-        "g_RAbnK61N8"
+        "g_RAbnK61N8",
+        "bKMvUDAe2nQ",
+        "9307n-T58IU"
       ],
       "id": 12
     },
@@ -576,7 +580,8 @@
         "222196052",
         "HNTjK1FlswA",
         "ZRSJ8DSp-SY",
-        "g_RAbnK61N8"
+        "g_RAbnK61N8",
+        "0yXr76Pajp8"
       ],
       "id": 13
     },
@@ -600,7 +605,8 @@
         "oCDgBihl4gw",
         "oRzLNoIgVx8",
         "2epVpI_O_hs",
-        "0Sm8F6K9ajg"
+        "0Sm8F6K9ajg",
+        "s6KdrVmKwDA"
       ],
       "id": 14
     },
@@ -2480,7 +2486,7 @@
       "urlId": "277742396",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 60
     },
     {
@@ -7000,7 +7006,7 @@
       "urlId": "t1OZLSE9dck",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 234
     },
     {
@@ -7173,6 +7179,108 @@
       "mostrar": true,
       "destaque": false,
       "id": 240
+    },
+    {
+      "ano": 1999,
+      "categoriaId": 3,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Almir Correia e Luiziania Pelizzari",
+      "duracao": "8 min",
+      "exibicoes": "",
+      "outras": "João Pilarski: 31-12-1929 - 04-04-2004 * Filmado em VHS.",
+      "producao": "Almir Correia e Luiziania Pelizzari",
+      "equipe": "Assistente de Produção: Marcia Sielski Câmera: Almir Correia Música de Chopin (op 22)",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro"
+      },
+      "sinopse": "Curta documental sobre João Pilarski, pintor primitivista nascido na região de Ponta Grossa.",
+      "titulo": "João Pilarski, o pássaro pontagrossense",
+      "urlId": "0yXr76Pajp8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 241
+    },
+    {
+      "ano": 1982,
+      "categoriaId": 2,
+      "categorias": [
+        "Média-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Sergio Bianchi",
+      "duracao": "34 min",
+      "exibicoes": "Festival de Brasília do Cinema Brasileiro - 1983",
+      "outras": "Segundo trabalho de Bianchi, trata-se de um polêmico documentário curta-metragem experimental, rodado em 16 mm, no qual o diretor tenta mostrar a vida dos índios. Tenta, porque em determinado momento Bianchi pergunta para si mesmo (em voz alta, para o espectador ouvir) o que afinal está fazendo com este filme sobre os índios: ''Mato eles?'', responde ele mesmo com outra pergunta.  Prêmio do Júri Popular e de Melhor Roteiro no Festival de Brasília, 16, 1983, Brasília, DF.. Prêmio São Saruê, 1983 de Melhor Curta da Federação de Cineclubes do Rio de Janeiro, Rio de Janeiro, RJ.. Prêmio do Instituto Indigenista no Festival Latino-americano de Povos Indígenas, 1985 - MX. Melhor Direção no Festival de Gramado, 11, 1983, Gramado, RS.  Sérgio Luís Bianchi (Ponta Grossa, 25 de novembro de 1945)",
+      "producao": "Sergio Bianchi Produções Cinematográficas & Jaco César Piccoli",
+      "equipe": "Roteiro: Jacob César Piccoli e Sergio Bianchi Cinematografia: Pedro Farkas Elenco: Lota Moncada, Carlos Kraide Edição: Sergio Bianchi, Eduardo Albuquerque",
+      "resp": {
+        "email": "pedrogiongo@gmail.com",
+        "nome": "Pedro"
+      },
+      "sinopse": "O extermínio suave dos últimos índios da reserva de Mangueirinha, no sudeste do Paraná, com a conivência daqueles que os deveriam proteger. Com uma ironia cortante, as questões se desenvolvem como numa estrutura de teste de múltipla escolha.",
+      "titulo": "Mato eles?",
+      "urlId": "s6KdrVmKwDA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 242
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": [
+        "Universitário"
+      ],
+      "cidade": "Quatro Barras",
+      "direcao": "Fernando Macedo e Oda Rodrigues",
+      "duracao": "2 min",
+      "exibicoes": "",
+      "outras": "Filme produzido para a disciplina de Direção no curso de Cinema e Vídeo da UNESPAR",
+      "producao": "",
+      "equipe": "Elisa Pocai, Gabriel Chemim, Manoelle Fuzaro, Thamy Monteiro, Helena Volani, Júlia Gasparoto, Tais Armani, Leonardo Carrera, André Carneiro, Luiz Alberto Bonin, ",
+      "resp": {
+        "email": "odair.rodrigues@gmail.com",
+        "nome": "Oda Rodrigues"
+      },
+      "sinopse": "Pode um olhar quebrar a disciplina?",
+      "titulo": "Banheirão",
+      "urlId": "bKMvUDAe2nQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 243
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Lucas D'Peder, Leandro Luiz",
+      "duracao": "25 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "Everson Trevisan Leandro Luiz Lucas D'Peder Ricardo Luiz Camila Pimentel Carvalho Tiago Geraldo do Santos",
+      "resp": {
+        "email": "lucaspederprado@gmail.com",
+        "nome": "Lucas D'Peder"
+      },
+      "sinopse": "Na ainda mais conservadora Curitiba dos anos 1960 um jovem despontou com um jeito espontâneo de fazer poesia. O poeta marginal bebia diretamente da aura do movimento de contra-cultura de sua época. Esse é Paulo Leminski, o polaco dos pinheirais.",
+      "titulo": "E tem que ter por quê?",
+      "urlId": "9307n-T58IU",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 244
     }
   ]
 }
