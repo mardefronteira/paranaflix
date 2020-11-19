@@ -139,7 +139,8 @@
         "HNTjK1FlswA",
         "g_RAbnK61N8",
         "0yXr76Pajp8",
-        "s6KdrVmKwDA"
+        "s6KdrVmKwDA",
+        "480919163"
       ],
       "id": 25
     },
@@ -626,7 +627,8 @@
         "AXAthviTk_E",
         "MTHaEWuIsJg",
         "x811DYrB1eY",
-        "2KFa7QOVU4g"
+        "2KFa7QOVU4g",
+        "480919163"
       ],
       "id": 15
     },
@@ -7281,6 +7283,32 @@
       "mostrar": true,
       "destaque": false,
       "id": 244
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Longa-metragem",
+        "Documentário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Eduardo Baggio",
+      "duracao": "78 min",
+      "exibicoes": "-       Festival de Cinema do Paraná 2009 -       4º Encontro Nacional de Cinema e Vídeo dos Sertões 2009 -       Cinesul 2010 (Mostra Paralela Futebol Latino) -       Festival de Cinema de Maringá 2010 – Prêmio de Melhor Fotografia -       II Festival de Inverno de Ponta Grossa 2010 -       Football Film Fest 2010 (Bulgária) -       Mostra Cinema e Futebol Cinesesc Paraná 2010 -       Mostra Ó o Doc Aí, Chapecó-SC, 2010 -       Concorreu ao Grande Prêmio do Cinema Brasileiro 2011 -      Cinefoot 2012",
+      "outras": "",
+      "producao": "Constelação Filmes",
+      "equipe": "Direção Eduardo Baggio  Roteiro Danilo Pschera e Eduardo Baggio  Pesquisa Helena Santana e Adriano Justino  Assistência de Direção Adriano Justino  Direção de Fotografia Fernando Aguiar e Isaías Emílio  Câmeras Fernando Aguiar, Luiz Fernando Gaio e André de Paula  Edição Danilo Pschera e Fernanda Gadotti  Editor de som Ricardo Saporski  Som direto Reinaldo Freire  Direção musical Marcelo Torrone  Direção de produção Maria Elisabete Machado Potier  Produção executiva Ana Cláudia Santos Lima  Produção Marlene Seraphim, Gleizy Perussolo, Alexandre Lautert e Camila Seleme",
+      "resp": {
+        "email": "baggioeduardo@gmail.com",
+        "nome": "Eduardo Baggio"
+      },
+      "sinopse": "O universo do futebol amador disputado no Paraná como recorte de um fenômeno e de uma paixão presente em todo o Brasil.",
+      "titulo": "Amadores do Futebol",
+      "urlId": "480919163",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 245
     }
   ]
 }
