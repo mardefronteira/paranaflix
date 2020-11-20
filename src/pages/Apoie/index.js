@@ -46,7 +46,7 @@ function Apoie() {
               <p>
                 Você pode falar com a gente através do email
                 <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>
-                , ou pelo 
+                , ou pelo
                 <a href="http://www.instagram.com/paranaflix" target="_blank" rel="noreferrer">Instagram</a>
               </p>
           </div>
@@ -62,6 +62,7 @@ function Apoie() {
               <br />• Ana Paula Málaga Carreiro
               <br />• Camila Macedo
               <br />• Caroline Biagi
+              <br />• Christopher Faust
               <br />• Eduardo Baggio
               <br />• Isabele Orengo
               <br />• Júlia Nascimento de Souza
