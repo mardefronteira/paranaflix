@@ -241,7 +241,10 @@
         "aN04uZrHukg",
         "408855540",
         "222196052",
-        "ZRSJ8DSp-SY"
+        "ZRSJ8DSp-SY",
+        "47877201",
+        "484741129",
+        "294709004"
       ],
       "id": 8
     },
@@ -267,7 +270,9 @@
         "PZWMU82aKJU",
         "hRwjgM1yvGU",
         "388143997",
-        "iCqbNWjWZyw"
+        "iCqbNWjWZyw",
+        "33569050",
+        "212855347"
       ],
       "id": 9
     },
@@ -329,7 +334,13 @@
         "WfR_d_ishcM",
         "oQ4lj8wZUZY",
         "t1OZLSE9dck",
-        "408855540"
+        "408855540",
+        "5KGZ016i4sI",
+        "1699004",
+        "33569050",
+        "212855347",
+        "212144457",
+        "FgBtMl7f4oY"
       ],
       "id": 10
     },
@@ -402,7 +413,10 @@
         "HNTjK1FlswA",
         "g_RAbnK61N8",
         "bKMvUDAe2nQ",
-        "9307n-T58IU"
+        "9307n-T58IU",
+        "1699004",
+        "212855347",
+        "484741129"
       ],
       "id": 12
     },
@@ -582,7 +596,16 @@
         "HNTjK1FlswA",
         "ZRSJ8DSp-SY",
         "g_RAbnK61N8",
-        "0yXr76Pajp8"
+        "0yXr76Pajp8",
+        "5KGZ016i4sI",
+        "1699004",
+        "33569050",
+        "212855347",
+        "212144457",
+        "47877201",
+        "484741129",
+        "294709004",
+        "FgBtMl7f4oY"
       ],
       "id": 13
     },
@@ -729,7 +752,9 @@
         "2KFa7QOVU4g",
         "jjGckrNXqfo",
         "408855540",
-        "222196052"
+        "222196052",
+        "5KGZ016i4sI",
+        "294709004"
       ],
       "id": 18
     },
@@ -807,7 +832,10 @@
         "cNyCo33niHc",
         "e01Hk8VRg_4",
         "WfR_d_ishcM",
-        "W7GG7c7Kyoc"
+        "W7GG7c7Kyoc",
+        "5KGZ016i4sI",
+        "212144457",
+        "FgBtMl7f4oY"
       ],
       "id": 21
     },
@@ -861,7 +889,8 @@
         "MTHaEWuIsJg",
         "148234431",
         "195786104",
-        "222196052"
+        "222196052",
+        "484741129"
       ],
       "id": 26
     },
@@ -892,7 +921,8 @@
         "g456KJFcPXk",
         "148234431",
         "195786104",
-        "222196052"
+        "222196052",
+        "47877201"
       ],
       "id": 27
     },
@@ -7309,6 +7339,252 @@
       "mostrar": true,
       "destaque": true,
       "id": 245
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Super-8",
+        "Dirigido por mulheres",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Marina Ariano e Mariana Boaventura",
+      "duracao": "3 min",
+      "exibicoes": "O curta foi selecionado e produzido durante o “Festival Internacional de Cinema em Super8” em Curitiba, na categoria de  tomada única. GÉIA também foi selecionado para o “ 5th Little Cinema International Festival”, em Kolkata, India. ",
+      "outras": "",
+      "producao": "",
+      "equipe": "Realização: Mariana Boaventura e Marina Ariano Dir. Fotografia: Mariana Boaventura Produção executiva: Marina Ariano Dir. Arte: Marina Ariano e Mariana Boaventura Storyboard: Marina Ariano Elenco: Mariana Soeiro e Larissa Monteiro",
+      "resp": {
+        "email": "mahgaio181@gmail.com",
+        "nome": "Marina Ariano "
+      },
+      "sinopse": "Geia é um filme experimental em super 8 que busca explorar a feminilidade das estruturas do cotidiano e dos elementos da cidade. Este, estabelece a ligação entre corpo feminino e universo. Através de match outs, apresenta-se a combinação das texturas do mundo com as texturas do corpo feminino, combinando-as com a música.",
+      "titulo": "Géia",
+      "urlId": "5KGZ016i4sI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 246
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Universitário",
+        "Experimental"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "3 min",
+      "exibicoes": "16o FBCU - Festival Brasileiro de Cinema Universitário ",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção e roteiro: Maurício Ramos Marques, Câmera: Cintia Kluppell Oliveira, Andréa Ramos, Adão Thadeu Marques e Maurício Ramos Marques.",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "Trabalho realizado em agosto de 2008 para a disciplina Direção Audiovisual II, do professor Eduardo Escorel, ministrada na CINETVPR. Um curta auto-análise.",
+      "titulo": "Um Eu Todo Retorcido",
+      "urlId": "1699004",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 247
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Animação",
+        "Experimental"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "9 min",
+      "exibicoes": "9º MUMIA – MOSTRA UDIGRUDI MUNDIAL (2011) 6° CURTA OURINHOS (2010) 6° FEST ARUANDA (2010) MOSTRA AVEC 2010 (CURITIBA) (2010) VALE CURTAS – 2010 (2010) 15° FBCU (MOSTRA INFORMATIVA) (2010) 10° ANIMARTE (2011)",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção, animação, roteiro, edição, desenho de som e trilha sonora: Maurício Ramos Marques",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "O Meio, o Fim, e o Início\".   Animação realizada com técnica de recorte (Paintbrush) sobre fotos de esculturas de Ron Mueck, Sam Jinks e Patricia Piccinini. ",
+      "titulo": "O Ciclo",
+      "urlId": "33569050",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 248
+    },
+    {
+      "ano": 2011,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Animação",
+        "Experimental",
+        "Universitário"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "4 min",
+      "exibicoes": "16o FBCU - Festival Brasileiro de Cinema Universitário, Festival Anim!Arte,  ",
+      "outras": "",
+      "producao": "",
+      "equipe": "Arte, Animação e Edição: Maurício Ramos Marques",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "Animação que tem por fim retratar o problema da exploração da mão de obra. Realizada integralmente através de desenhos no Paintbrush. ",
+      "titulo": "A Greve",
+      "urlId": "212855347",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 249
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Super-8"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "3 min",
+      "exibicoes": "8o Curta 8 - Festival Internacional de Cinema Super 8 de Curitiba, 13a Mostra do Filme Livre, 4o Festival Super Off,  11a Janela de Cinema do Recife",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção, roteiro, câmera e música: Maurício Ramos Marques, Elenco: Michelle Pucci, Ana Clara Fischer e Marco Novack, Produção: Fábio Allon e Maurício Ramos Marques, Figurino e Maquiagem: Flávia Komin, Cronometrista: Fábio Allon, Orientador: Pedro Merege  ",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "Em estado semiconsciente posso controlar minhas vontades, mas há certas coisas que fogem ao meu controle.",
+      "titulo": "Lúcido/Trans-Lúcido",
+      "urlId": "212144457",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 250
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "20 min",
+      "exibicoes": "Mostra do Filme Livre, Festival Luz de Cinema, FIIK – Festival Internacional de Cinema Independente Kino-olho Latino-Americano,  ",
+      "outras": "",
+      "producao": "Processo Multiartes",
+      "equipe": "Elenco:  Claudete Pereira Jorge, Ludmila Nascarella, Roteiro e Direção: Maurício Ramos Marques, Dir. de Atores: Adriano Esturilho, Prod. Exec: Adriano Esturilho e Fábio Allon, Dir. de Prod: Bruno de Oliveira, Dir. de Arte: Ana Deliberador e Alex Rocca, Dir. de Fotografia: André Chesini, Des. de Som: Alexandre Rogoski, Trilha Sonora: Maurício Ramos Marques, Montagem e Finalização: Fábio Allon e Diego Florentino, 1º Ass. de Dir: João Marcelo Gomes, 2º Ass. de Dir: Adriano Esturilho, Platô: Bruno Costa, Ass. de Prod: Milena Buzzetti, Carolina Maia e Judy Fiorese, Maquiagem: Ana Deliberador, 1º Ass. de Fotografia: Maurício Baggio, 2º Ass. de Fotografia: Filipe Parolin, Maquinista: Luciano “Coqueiro”, Eletricista: Salim, Logger: Fábio Allon,  Still: Rosano Mauro Jr, Som direto: Samuel Jachinto",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "A raiz está vinculada à árvore. Está presa a ela",
+      "titulo": "Seiva Bruta ",
+      "urlId": "47877201",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 251
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Universitário",
+        "Legendas em português"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Maurício Ramos Marques",
+      "duracao": "20 min",
+      "exibicoes": "4º FESTIVAL DO PARANÁ DE CINEMA BRASILEIRO LATINO, Um Novo Olhar, 15o FBCU - Festival Brasileiro de Cinema Universitário,  CineEsquemaNovo (2011), 12a Mostra Londrina de Cinema,  3º MIAU - Mostra Independente do Audiovisual Universitário  ",
+      "outras": "",
+      "producao": "Processo MultiArtes e Evolução Filmes ",
+      "equipe": "Direção, Roteiro, Edição e Trilha Sonora: Maurício Ramos Marques, Elenco: Claudete Pereira Jorge, Chico Nogueira, Michelle Pucci, Fernanda Magnani, Andrew Knoll e Gustavo Pinheiro, Ass. de Direção, Casting, Preparação e Dir. de Elenco: Adriano Esturilho, Ass. de Direção: Diego Stavitzki, Dir. de Produção: Carolina Maia,  Dir. de Arte: Fábio Allon, Figurino e Maquiagem: Ana Deliberador, Dir. de Fotografia: André Chesini, Pós-produção de Imagem: Natália Okimoto, Desenho de Som: Alexandre Rogoski, Som Direto: Rodrigo Janiszewski, Ass. de Som Direto: Eduardo Belik, Ass. de Fotografia: Andressa Cor, Platô e Ass. de Produção: Solano Trento, Ass. de Produção: Bruno de Oliveira e Andréa Tristão, Eletricista: Max Olsen, Continuidade: Eduardo Colgan, Claquete e Still: Rafaela Camargo",
+      "resp": {
+        "email": "mauricioramosmarques@gmail.com",
+        "nome": "Maurício Ramos Marques"
+      },
+      "sinopse": "Uma senhora há muitos anos acostumada a uma vida solitária e pacata é surpreendida com a chegada de um estranho casal de vizinhos. A presença do casal e os sons vindos do apartamento vizinho deixam a senhora extremamente perturbada, despertando nela uma curiosidade obsessiva e doentia.",
+      "titulo": "Wannabe",
+      "urlId": "484741129",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 252
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Ficção",
+        "Curta-metragem",
+        "Dirigido por mulheres"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Steffany Matias",
+      "duracao": "1 min",
+      "exibicoes": "60 Second Intl. Film Festival",
+      "outras": "",
+      "producao": "",
+      "equipe": "André Iarozinski, Thailaine Natasha e Lucas Lindenberg",
+      "resp": {
+        "email": "stematiassfilm@gmail.com",
+        "nome": "Steffany de Oliveira Matias"
+      },
+      "sinopse": "Uma corredora se adentra em uma mata e se depara com uma figura estranha...",
+      "titulo": "Slender",
+      "urlId": "294709004",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 253
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Experimental",
+        "Super-8"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Pedro Merege",
+      "duracao": "3 min",
+      "exibicoes": "Super 8 Campinas e Super Off-São Paulo",
+      "outras": "Realizado em super 8 em tomada única, com cenas suprimidas nesta versão",
+      "producao": "",
+      "equipe": "Pedro Merege e Luciana Garcia",
+      "resp": {
+        "email": "pmerege@gmail.com",
+        "nome": "Pedro Merege"
+      },
+      "sinopse": "Estamos todos presos num imenso tabuleiro de xadrez.",
+      "titulo": "Presos Num Xadrez",
+      "urlId": "FgBtMl7f4oY",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 254
     }
   ]
 }
