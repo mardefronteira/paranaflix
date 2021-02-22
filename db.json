@@ -7341,34 +7341,6 @@
       "id": 245
     },
     {
-      "ano": 2018,
-      "categoriaId": 5,
-      "categorias": [
-        "Experimental",
-        "Super-8",
-        "Dirigido por mulheres",
-        "Curta-metragem"
-      ],
-      "cidade": "Curitiba",
-      "direcao": "Marina Ariano e Mariana Boaventura",
-      "duracao": "3 min",
-      "exibicoes": "O curta foi selecionado e produzido durante o “Festival Internacional de Cinema em Super8” em Curitiba, na categoria de  tomada única. GÉIA também foi selecionado para o “ 5th Little Cinema International Festival”, em Kolkata, India. ",
-      "outras": "",
-      "producao": "",
-      "equipe": "Realização: Mariana Boaventura e Marina Ariano Dir. Fotografia: Mariana Boaventura Produção executiva: Marina Ariano Dir. Arte: Marina Ariano e Mariana Boaventura Storyboard: Marina Ariano Elenco: Mariana Soeiro e Larissa Monteiro",
-      "resp": {
-        "email": "mahgaio181@gmail.com",
-        "nome": "Marina Ariano "
-      },
-      "sinopse": "Geia é um filme experimental em super 8 que busca explorar a feminilidade das estruturas do cotidiano e dos elementos da cidade. Este, estabelece a ligação entre corpo feminino e universo. Através de match outs, apresenta-se a combinação das texturas do mundo com as texturas do corpo feminino, combinando-as com a música.",
-      "titulo": "Géia",
-      "urlId": "5KGZ016i4sI",
-      "urlHost": "youtube",
-      "mostrar": true,
-      "destaque": false,
-      "id": 246
-    },
-    {
       "ano": 2010,
       "categoriaId": 5,
       "categorias": [
@@ -7585,6 +7557,196 @@
       "mostrar": true,
       "destaque": false,
       "id": 254
-    }
+    },
+    {
+    "ano": 2015,
+    "categoriaId": 5,
+    "categorias": [
+      "Ficção",
+      "Curta-metragem",
+      "Super-8"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Eduardo Ruchinhaka",
+    "duracao": "4 min",
+    "exibicoes": "CURTA8 - Festival Internacional de Cinema Super-8 de Curitiba ",
+    "outras": "",
+    "producao": "Independente",
+    "equipe": "Eduardo Ruchinhaka : Diretor e Roteirista Carolina Mascarenhas: produtora Nathalie Rocha : produção e direção de arte Leo Castilhos : preparador de elenco Raphaella Maria : diretora de produção Guilherme Giublin : produtor de alimentos  Flora Suzuki: diretora de arte.  Vitor Hugo Von Holleben, Cinara Vitor : assistência em direção de arte  Giancarlo Dos Santos : direção de fotografia Hanna Esperança : fotografia still.  Tiago Lipka : assistência de direção.   Elenco : Carolina Mascarenhas, Paulo Matos e Maite Schneider!  Agradecemos aos oficineiros : Fábio Allon, Pedro Merege e  Leandro Schip.",
+    "resp": {
+      "email": "eduardo.roteiros@gmail.com",
+      "nome": "Eduardo Ruchinhaka"
+    },
+    "sinopse": "Em uma história anacrônica que homenageia (ou canibaliza) o cinema mudo, uma dona de casa descobre uma traição e reage de uma maneira cinegastronômica.",
+    "titulo": "Meu Marido é Um Porco. Que Delícia!",
+    "urlId": "PrpGQkJgP-c",
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 255
+  },
+  {
+    "ano": 2019,
+    "categoriaId": 5,
+    "categorias": [
+      "Filmes de cursos livres"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Paulo Silveira",
+    "duracao": "4 min",
+    "exibicoes": "",
+    "outras": "",
+    "producao": "",
+    "equipe": "",
+    "resp": {
+      "email": "paulo.csilveira@outlook.com",
+      "nome": "Paulo SILVEIRA"
+    },
+    "sinopse": "Clara se depara com acontecimentos estranhos ao chegar em sua casa depois de um dia longo de trabalho.",
+    "titulo": "O Três Pequenos Porcos de Jack",
+    "urlId": "u5Au9D8EFO8",
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 256
+  },
+  {
+    "ano": 2019,
+    "categoriaId": 5,
+    "categorias": [
+      "Curta-metragem",
+      "Universitário",
+      "Dirigido por mulheres",
+      "Documentário",
+      "English subtitles"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Mickaelle Lima Souza; Pâmela Kath; Lívia Zanuni; Pedro Vilo",
+    "duracao": "10 min",
+    "exibicoes": "Mirada Paranaense do 9º Olhar de Cinema",
+    "outras": "",
+    "producao": "Coco Filmes",
+    "equipe": "Direção: Mickaelle Lima Souza ; Pâmela Kath ; Lívia Zanuni ; Pedro Vilo  Produção e Pesquisa: Mickaelle Lima Souza  Assistência de Direção: Pâmela Kath  Direção de Fotografia: Lívia Zanuni  Som Direto e Finalização de Som: Pedro Vilo  Montagem: Pedro Vilo  Colorização: Lívia Zanuni",
+    "resp": {
+      "email": "gpfbsilva@gmail.com",
+      "nome": "Gabriel Philippini Ferreira Borges da Silva"
+    },
+    "sinopse": "Curta metragem biográfico documental sobre a primeira mulher negra a se formar engenheira no Brasil, Enedina Alves Marques, partindo da perspectiva e relação de sua sobrinha Lizete Marques, sua afilhada Mirela Goncho e o pesquisador e historiador Sandro Luis Fernandes.",
+    "titulo": "Além de tudo, ela",
+    "urlId": "QU1MOrJ6i-E",
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 257
+  },
+  {
+    "ano": 2006,
+    "categoriaId": 4,
+    "categorias": [
+      "Documentário",
+      "Curta-metragem"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Roberval Machado",
+    "duracao": "5 min",
+    "exibicoes": "1º Mostra Cinemas do Brasil",
+    "outras": "",
+    "producao": "",
+    "equipe": "Elisa Marilia; Prado Carneiro; Luis Frederico Favoreto; Nikola Matevski; Roberval Machado; Jose Padilha",
+    "resp": {
+      "email": "roberval@extremumproducoes.com.br",
+      "nome": "Roberval Machado Christino"
+    },
+    "sinopse": "Vídeo realizado com somente fotos sobre os cinemas de rua de Curitiba com depoimento de Zito Alves Cavalcanti.",
+    "titulo": "Cinemas de Rua de Curitiba",
+    "urlId": "Y_5perQtzoM",
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 258
+  },
+  {
+    "ano": 2019,
+    "categoriaId": 5,
+    "categorias": [
+      "Curta-metragem",
+      "Documentário",
+      "Universitário",
+      "Legendas em português",
+      "English subtitles"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Iury Peres Malucelli, Ju Choma e Rodrigo Tomita",
+    "duracao": "15 min",
+    "exibicoes": "Festival Universitário Tainha Dourada, 15º Festival Taguatinga de Cinema (Mostra Seleção Popular)",
+    "outras": "",
+    "producao": "Coco Filmes",
+    "equipe": "Produção Rodrigo Tomita  Assistência de Direção Iury Peres Malucelli  Som Direto Rodrigo Tomita  Fotografia Iury Peres Malucelli Ju Choma  Montagem e Colorização Rodrigo Tomita  Finalização de Som Ju Choma  Projeto Gráfico Iury Peres Malucelli  Legendas (Inglês) Gabriel Borges  Entrevistados Isshin Takahashi Mioko Tomita Mirian M. Murata Tie H. Yamakawa  Orientação Alexandre Rafael Garcia Eduardo Baggio Milla Jung Tomás Von der Osten Ulisses Galetto",
+    "resp": {
+      "email": "digo.tomita@gmail.com",
+      "nome": "Rodrigo Akira Minasse Tomita"
+    },
+    "sinopse": "Enquanto o tão aguardado elevador é construído, a comunidade adepta relata o nascimento do Templo Budista Nishi Hongwanji de Curitiba.",
+    "titulo": "Na Impermanência dos Equinócios",
+    "urlId": "XSYbAKxZEbo",
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 259
+  },
+  {
+    "ano": 2010,
+    "categoriaId": 5,
+    "categorias": [
+      "Média-metragem",
+      "Documentário",
+      "English subtitles"
+    ],
+    "cidade": "Curitiba",
+    "direcao": "Tulio Viaro",
+    "duracao": "45 min",
+    "exibicoes": "Cine Sul",
+    "outras": "",
+    "producao": "Sótão Filmes",
+    "equipe": "",
+    "resp": {
+      "email": "tulioviaro@gmail.com",
+      "nome": "Tulio Viaro"
+    },
+    "sinopse": "O documentário acompanhou o cotidiano e o trabalho dos pescadores artesanais da Ilha do Mel durante três anos.",
+    "titulo": "Pescadores de Tainha",
+    "urlId": "148714120",
+    "urlHost": "vimeo",
+    "mostrar": true,
+    "destaque": false,
+    "id": 260
+  },
+  {
+    "ano": 2020,
+    "categoriaId": 6,
+    "categorias": [
+      "Websérie"
+    ],
+    "cidade": "Maringá /Sarandi",
+    "direcao": "Enderson Cristian",
+    "duracao": "54 min",
+    "exibicoes": "",
+    "outras": "",
+    "producao": "Ellos Produtora",
+    "equipe": "Roteiro Enderson Cristian  Direção  Enderson Cristian  Direção de fotografia Dione Matias  Produção Luciano Vechia Felipe Pimentel  Elenco principal  Bernardo Vená Bárbara Teixeira Bruna Andrade Luciano Vechia Pâmela Cretuchi Andrea Pavesi  Câmeras – Iluminação Haroldo França Leandro Feitosa Felipe Pimentel Dione Matias Luciano Vechia  Enderson Cristian  Trilha Sonora Tiago Ueda Roberto Rezende ",
+    "resp": {
+      "email": "av.webseries@gmail.com",
+      "nome": "Enderson Cristian Espiazi"
+    },
+    "sinopse": "Lucas é um menino de 10 anos que faz uma amizade da sacada da sua casa com Tamires, uma menina da mesma idade que passa sempre pela rua com sua mãe recolhendo recicláveis. Enquanto ele cria esta amizade vê sua própria mãe mergulhada numa depressão e tenta não se tornar vítima do seu pai, que a cada dia tem apresentado um comportamento mais estranho e agressivo.",
+    "titulo": "Um encontro para o bem",
+    "urlId": [
+      "HtdlkDQFbI8"
+    ],
+    "urlHost": "youtube",
+    "mostrar": true,
+    "destaque": false,
+    "id": 261
+  }
   ]
 }
