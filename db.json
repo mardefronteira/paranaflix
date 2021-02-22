@@ -2332,7 +2332,7 @@
       "urlId": "32807875",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 52
     },
     {
@@ -5316,7 +5316,7 @@
       "urlId": "144453182",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 170
     },
     {
