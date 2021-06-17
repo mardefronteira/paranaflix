@@ -348,10 +348,7 @@
       "cor": "#dde136",
       "desc": "",
       "titulo": "Infantil",
-      "filmes": [
-        "277742396",
-        "1AbLiYUY4ck"
-      ],
+      "filmes": ["277742396", "1AbLiYUY4ck"],
       "id": 11
     },
     {
@@ -690,12 +687,7 @@
       "cor": "#fe548c",
       "desc": "Filmes dirigidos e protagonizados por pessoas negras.",
       "titulo": "Cinema Negro",
-      "filmes": [
-        "jGWoXPxi3Fs",
-        "7SKVe-lOITg",
-        "KzxpTOb9S70",
-        "t1OZLSE9dck"
-      ],
+      "filmes": ["jGWoXPxi3Fs", "7SKVe-lOITg", "KzxpTOb9S70", "t1OZLSE9dck"],
       "id": 17
     },
     {
@@ -843,9 +835,7 @@
       "cor": "#fe548c",
       "desc": "",
       "titulo": "Série",
-      "filmes": [
-        "XyowQl89CEw"
-      ],
+      "filmes": ["XyowQl89CEw"],
       "id": 22
     },
     {
@@ -948,9 +938,7 @@
       "cor": "#12ba73",
       "desc": "Filmes com acessibilidade em LIBRAS.",
       "titulo": "Língua brasileira de sinais",
-      "filmes": [
-        "oRzLNoIgVx8"
-      ],
+      "filmes": ["oRzLNoIgVx8"],
       "id": 29
     },
     {
@@ -974,11 +962,7 @@
       "cor": "#0086c6",
       "desc": "",
       "titulo": "Websérie",
-      "filmes": [
-        [
-          "19nNu4AG9ds"
-        ]
-      ],
+      "filmes": [["19nNu4AG9ds"]],
       "id": 31
     }
   ],
@@ -1007,10 +991,7 @@
       "urlHost": "youtube",
       "mostrar": true,
       "destaque": false,
-      "resp": [
-        "Paranáflix",
-        "paranaflix@pm.me"
-      ],
+      "resp": ["Paranáflix", "paranaflix@pm.me"],
       "id": 1
     },
     {
@@ -1043,11 +1024,7 @@
     {
       "ano": 1979,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Experimental",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Experimental", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Valêncio Xavier",
       "duracao": "11 min",
@@ -1096,10 +1073,7 @@
     {
       "ano": 1968,
       "categoriaId": 1,
-      "categorias": [
-        "Ficção",
-        "Longa-metragem"
-      ],
+      "categorias": ["Ficção", "Longa-metragem"],
       "cidade": "Curitiba",
       "direcao": "Sylvio Back",
       "duracao": "98 min",
@@ -1121,10 +1095,7 @@
     {
       "ano": 1967,
       "categoriaId": 1,
-      "categorias": [
-        "Longa-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Longa-metragem", "Ficção"],
       "cidade": "?",
       "direcao": "Frei Gabrielangelo Caramori",
       "duracao": "93 min",
@@ -1146,9 +1117,7 @@
     {
       "ano": 1936,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário"
-      ],
+      "categorias": ["Documentário"],
       "cidade": "Ponta Grossa",
       "direcao": "João Baptista Groff ",
       "duracao": "2 min",
@@ -1170,9 +1139,7 @@
     {
       "ano": 1926,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário"
-      ],
+      "categorias": ["Documentário"],
       "cidade": "Foz do Iguaçu / Curitiba",
       "direcao": "João Baptista Groff",
       "duracao": "8 min",
@@ -1194,11 +1161,7 @@
     {
       "ano": 1985,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Dirigido por mulheres"],
       "cidade": "?",
       "direcao": "Berenice Mendes",
       "duracao": "20 min",
@@ -1220,11 +1183,7 @@
     {
       "ano": 1988,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Cineclube Aurora"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Cineclube Aurora"],
       "cidade": "Curitiba",
       "direcao": "Fernando Severo",
       "duracao": "14 min",
@@ -1273,11 +1232,7 @@
     {
       "ano": 1990,
       "categoriaId": 3,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Cineclube Aurora"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Cineclube Aurora"],
       "cidade": "Curitiba",
       "direcao": "Fernando Severo",
       "duracao": "5 min",
@@ -1299,10 +1254,7 @@
     {
       "ano": 1991,
       "categoriaId": 3,
-      "categorias": [
-        "Experimental",
-        "Cineclube Aurora"
-      ],
+      "categorias": ["Experimental", "Cineclube Aurora"],
       "cidade": "Curitiba",
       "direcao": " Fernando Severo",
       "duracao": "1 min",
@@ -1324,11 +1276,7 @@
     {
       "ano": 2005,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Joana Nin",
       "duracao": "15 min",
@@ -1377,11 +1325,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Cinema LGBTQIA+"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Cinema LGBTQIA+"],
       "cidade": "Curitiba",
       "direcao": "Yanko del Pino",
       "duracao": "16 min",
@@ -1403,11 +1347,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Filmes do interior"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Filmes do interior"],
       "cidade": "Londrina",
       "direcao": "Rodrigo Grota",
       "duracao": "17 min",
@@ -1429,10 +1369,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Murilo Hauser",
       "duracao": "16 min",
@@ -1454,11 +1391,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Experimental",
-        "Curta-metragem",
-        "Super-8"
-      ],
+      "categorias": ["Experimental", "Curta-metragem", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Fábio Allon",
       "duracao": "3 min",
@@ -1480,10 +1413,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "João Marcelo Gomes",
       "duracao": "15 min",
@@ -1505,11 +1435,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Universitário"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Wellington Sari",
       "duracao": "20 min",
@@ -1531,10 +1457,7 @@
     {
       "ano": 2001,
       "categoriaId": 4,
-      "categorias": [
-        "Animação",
-        "Curta-metragem"
-      ],
+      "categorias": ["Animação", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Paulo Munhoz",
       "duracao": "9 min",
@@ -1556,11 +1479,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Universitário"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Alexandre Rafael Garcia",
       "duracao": "17 min",
@@ -1582,11 +1501,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Universitário",
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Universitário", "Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Anderson Simão, Evandro Scorsin, Nuno Chinaglia",
       "duracao": "5 min",
@@ -1608,11 +1523,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Diego Florentino",
       "duracao": "6 min",
@@ -1634,11 +1545,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Filmes do interior"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Filmes do interior"],
       "cidade": "Londrina",
       "direcao": "Rodrigo Grota",
       "duracao": "15 min",
@@ -1799,10 +1706,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "William Biagioli",
       "duracao": "16 min",
@@ -1824,10 +1728,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Cauby Monteiro",
       "duracao": "28 min",
@@ -1849,11 +1750,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Média-metragem",
-        "Cineclube Aurora"
-      ],
+      "categorias": ["Ficção", "Média-metragem", "Cineclube Aurora"],
       "cidade": "Curitiba",
       "direcao": "Paula Negri",
       "duracao": "36 min",
@@ -1875,9 +1772,7 @@
     {
       "ano": 1936,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário"
-      ],
+      "categorias": ["Documentário"],
       "cidade": "Curitiba",
       "direcao": "João Baptista Groff",
       "duracao": "7 min",
@@ -1899,10 +1794,7 @@
     {
       "ano": 1930,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "João Baptista Groff",
       "duracao": "45 min",
@@ -1924,10 +1816,7 @@
     {
       "ano": 1981,
       "categoriaId": 2,
-      "categorias": [
-        "Longa-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Longa-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Sylvio Back",
       "duracao": "96 min",
@@ -1949,11 +1838,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Universitário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Universitário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Christopher Faust",
       "duracao": "12 min",
@@ -1975,10 +1860,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Aly Muritiba",
       "duracao": "15 min",
@@ -2000,10 +1882,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Longa-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Longa-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Marcelo Munhoz",
       "duracao": "71 min",
@@ -2052,10 +1931,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Série"
-      ],
+      "categorias": ["Ficção", "Série"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min (5 episódios)",
@@ -2104,11 +1980,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Média-metragem",
-        "Filmes do interior"
-      ],
+      "categorias": ["Ficção", "Média-metragem", "Filmes do interior"],
       "cidade": "Cascavel",
       "direcao": "Vander Colombo",
       "duracao": "32 min",
@@ -2130,10 +2002,7 @@
     {
       "ano": 1979,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Cláudio Paciornik",
       "duracao": "20 min",
@@ -2155,11 +2024,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Universitário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Universitário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Gabriel Borges",
       "duracao": "7 min",
@@ -2181,11 +2046,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Universitário"],
       "cidade": "Curitiba ",
       "direcao": "André F. Diniz, Gabriela Ferreira , Gabriel Borges , Vinicius André Maciel",
       "duracao": "9 min",
@@ -2207,11 +2068,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Universitário",
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Universitário", "Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "André F. Diniz, Viviane Ferreira",
       "duracao": "20 min",
@@ -2233,11 +2090,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Universitário"],
       "cidade": "Curitiba - PR",
       "direcao": "Gabriel Borges, Iury Peres Malucelli, Gabi Ferreira e João Gustavo Moreira.",
       "duracao": "3 min",
@@ -2259,11 +2112,7 @@
     {
       "ano": 2001,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Dirigido por mulheres",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Dirigido por mulheres", "Curta-metragem"],
       "cidade": "CURITIBA",
       "direcao": "HELOISA PASSOS e CATHERINE AGNIEZ",
       "duracao": "18 min",
@@ -2312,11 +2161,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "Cineclube Aurora"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "Cineclube Aurora"],
       "cidade": "Curitiba",
       "direcao": "Rafael Urban",
       "duracao": "12 min",
@@ -2365,11 +2210,7 @@
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Nathália Tereza",
       "duracao": "26 min",
@@ -2418,11 +2259,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Super-8"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Christopher Faust",
       "duracao": "4 min",
@@ -2444,10 +2281,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Julien Guimarães",
       "duracao": "16 min",
@@ -2605,10 +2439,7 @@
     {
       "ano": 1984,
       "categoriaId": 2,
-      "categorias": [
-        "Experimental",
-        "Curta-metragem"
-      ],
+      "categorias": ["Experimental", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Pedro Anisio",
       "duracao": "5 min",
@@ -2630,10 +2461,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Eduardo Baggio",
       "duracao": "20 min",
@@ -2682,10 +2510,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Fernando Severo",
       "duracao": "21 min",
@@ -2707,10 +2532,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "William Biagioli",
       "duracao": "11 min",
@@ -2732,11 +2554,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem",
-        "English subtitles"
-      ],
+      "categorias": ["Documentário", "Curta-metragem", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Aly Muritiba",
       "duracao": "17 min",
@@ -2758,10 +2576,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Experimental",
-        "Universitário"
-      ],
+      "categorias": ["Experimental", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Tomás von der Osten",
       "duracao": "8 min",
@@ -2783,11 +2598,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Universitário",
-        "Experimental",
-        "English subtitles"
-      ],
+      "categorias": ["Universitário", "Experimental", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Tomás von der Osten",
       "duracao": "3 min",
@@ -2836,10 +2647,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Documentário",
-        "Longa-metragem"
-      ],
+      "categorias": ["Documentário", "Longa-metragem"],
       "cidade": "Curitiba",
       "direcao": "Bruno de Oliveira",
       "duracao": "80 min",
@@ -2891,9 +2699,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Débora Zanatta & Estevan de la Fuente",
       "duracao": "19 min",
@@ -2915,9 +2721,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min",
@@ -2939,9 +2743,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min",
@@ -2963,9 +2765,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min",
@@ -2987,9 +2787,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min",
@@ -3011,9 +2809,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Marçal do Carmo & André Fernando Stürmer",
       "duracao": "26 min",
@@ -3094,11 +2890,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Bruno Costa",
       "duracao": "9 min",
@@ -3120,10 +2912,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Bruno Costa",
       "duracao": "20 min",
@@ -3200,11 +2989,7 @@
     {
       "ano": 2005,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Sérgio Ortencio",
       "duracao": "9 min",
@@ -3226,11 +3011,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Universitário"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Gabriel Novatzki",
       "duracao": "20 min",
@@ -3252,10 +3033,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Filmes do interior"
-      ],
+      "categorias": ["Curta-metragem", "Filmes do interior"],
       "cidade": "Maringá",
       "direcao": "Leandro Fóz",
       "duracao": "7 min",
@@ -3277,11 +3055,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Experimental"],
       "cidade": "Curitiba ",
       "direcao": "Bruno Costa",
       "duracao": "10 min",
@@ -3303,10 +3077,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba ",
       "direcao": "Bruno Costa",
       "duracao": "17 min",
@@ -3328,10 +3099,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Experimental",
-        "Curta-metragem"
-      ],
+      "categorias": ["Experimental", "Curta-metragem"],
       "cidade": "Curitiba ",
       "direcao": "Bruno Costa",
       "duracao": "6 min",
@@ -3353,10 +3121,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Bruno Costa",
       "duracao": "4 min",
@@ -3378,10 +3143,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba ",
       "direcao": "Ana Johann",
       "duracao": "22 min",
@@ -3403,10 +3165,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Documentário", "Dirigido por mulheres"],
       "cidade": "Cruz Machado",
       "direcao": "Ana Johann",
       "duracao": "22 min",
@@ -3428,11 +3187,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Legendas em português"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "Evandro Scorsin",
       "duracao": "13",
@@ -3454,11 +3209,7 @@
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Animação",
-        "Experimental",
-        "Curta-metragem"
-      ],
+      "categorias": ["Animação", "Experimental", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Flávio Carvalho",
       "duracao": "1 min",
@@ -3507,12 +3258,7 @@
     {
       "ano": 2006,
       "categoriaId": 4,
-      "categorias": [
-        "Ficção",
-        "Universitário",
-        "Curta-metragem",
-        "Super-8"
-      ],
+      "categorias": ["Ficção", "Universitário", "Curta-metragem", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Rafael Urban",
       "duracao": "4 min",
@@ -3619,11 +3365,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Experimental",
-        "Curta-metragem",
-        "Cinema LGBTQIA+"
-      ],
+      "categorias": ["Experimental", "Curta-metragem", "Cinema LGBTQIA+"],
       "cidade": "Curitiba",
       "direcao": "Isa Melo e Alanis Machado",
       "duracao": "2 min",
@@ -3672,10 +3414,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Ficção",
-        "Experimental"
-      ],
+      "categorias": ["Ficção", "Experimental"],
       "cidade": "Morretes",
       "direcao": "Diego Bacelar",
       "duracao": "5 min",
@@ -3724,10 +3463,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Super-8",
-        "Curta-metragem"
-      ],
+      "categorias": ["Super-8", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Pedro Giongo",
       "duracao": "3 min",
@@ -3749,10 +3485,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Adriel Nizer",
       "duracao": "8 min",
@@ -3774,11 +3507,7 @@
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Universitário"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Universitário"],
       "cidade": "Foz Do Iguaçu - BR/ Ciudad Del Este - PY",
       "direcao": "Darlan Weiss",
       "duracao": "20 min",
@@ -3827,10 +3556,7 @@
     {
       "ano": 1985,
       "categoriaId": 2,
-      "categorias": [
-        "Média-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Média-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Werner Schumann",
       "duracao": "28 min",
@@ -3852,10 +3578,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Animação",
-        "Curta-metragem"
-      ],
+      "categorias": ["Animação", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Carlon Hardt e Lucas Fernandes",
       "duracao": "17 min",
@@ -3877,11 +3600,7 @@
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Sueli Araújo",
       "duracao": "20 min",
@@ -3903,11 +3622,7 @@
     {
       "ano": 2006,
       "categoriaId": 4,
-      "categorias": [
-        "Documentário",
-        "Universitário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Universitário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "Célio Yano",
       "duracao": "42 min",
@@ -3929,11 +3644,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Experimental",
-        "Universitário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Experimental", "Universitário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Pedro Henrique Silva dos Santos",
       "duracao": "11 min",
@@ -3982,11 +3693,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Dirigido por mulheres"],
       "cidade": "Maringá",
       "direcao": "Thayse Fernandes",
       "duracao": "15 min",
@@ -4035,10 +3742,7 @@
     {
       "ano": 1991,
       "categoriaId": 3,
-      "categorias": [
-        "Documentário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "Valêncio Xavier",
       "duracao": "28 min",
@@ -4060,10 +3764,7 @@
     {
       "ano": 1940,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Londrina",
       "direcao": "Hikoma Udihara",
       "duracao": "5 min",
@@ -4085,10 +3786,7 @@
     {
       "ano": 1959,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "José Loureiro Fernandes e Vladmir Kozák",
       "duracao": "46 min",
@@ -4110,10 +3808,7 @@
     {
       "ano": 1988,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "Valêncio Xavier",
       "duracao": "55 min",
@@ -4135,10 +3830,7 @@
     {
       "ano": 1976,
       "categoriaId": 1,
-      "categorias": [
-        "Animação",
-        "Curta-metragem"
-      ],
+      "categorias": ["Animação", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Álvaro Borges Jr.",
       "duracao": "1 min",
@@ -4160,10 +3852,7 @@
     {
       "ano": 1976,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Animação"
-      ],
+      "categorias": ["Curta-metragem", "Animação"],
       "cidade": "Curitiba",
       "direcao": "Luiz Antônio Guinski",
       "duracao": "1 min",
@@ -4185,10 +3874,7 @@
     {
       "ano": 1980,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário",
-        "Média-metragem"
-      ],
+      "categorias": ["Documentário", "Média-metragem"],
       "cidade": "Curitiba",
       "direcao": "Valêncio Xavier",
       "duracao": "34 min",
@@ -4210,10 +3896,7 @@
     {
       "ano": 1928,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Alberto Botelho?",
       "duracao": "5 min",
@@ -4235,10 +3918,7 @@
     {
       "ano": 1910,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Annibal Requião",
       "duracao": "4 min",
@@ -4260,10 +3940,7 @@
     {
       "ano": 1910,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Annibal Requião",
       "duracao": "3 min",
@@ -4285,10 +3962,7 @@
     {
       "ano": 1953,
       "categoriaId": 1,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Hermes Gonçalves",
       "duracao": "12 min",
@@ -4310,10 +3984,7 @@
     {
       "ano": 1910,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Annibal Requião",
       "duracao": "10 min",
@@ -4389,9 +4060,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Curitiba",
       "direcao": "Everton Vieira",
       "duracao": "2 min",
@@ -4413,11 +4082,7 @@
     {
       "ano": 1979,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Eduardo Gomes e Pedro Merege",
       "duracao": "10 min",
@@ -4439,10 +4104,7 @@
     {
       "ano": 2004,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege e Beto Carminatti",
       "duracao": "17 min",
@@ -4464,11 +4126,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Super-8", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege e Maurício Baggio",
       "duracao": "4 min",
@@ -4490,11 +4148,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "7 min",
@@ -4516,10 +4170,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege e Valencio Xavier",
       "duracao": "23 min",
@@ -4541,11 +4192,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "3 min",
@@ -4567,11 +4214,7 @@
     {
       "ano": 2013,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Super-8", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "11 min",
@@ -4593,10 +4236,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "6 min",
@@ -4618,10 +4258,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "3 min",
@@ -4643,10 +4280,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "2 min",
@@ -4668,11 +4302,7 @@
     {
       "ano": 2004,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Documentário"],
       "cidade": "Londrina",
       "direcao": "Rodrigo Grota",
       "duracao": "15 min",
@@ -4694,11 +4324,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Experimental"],
       "cidade": "Londrina",
       "direcao": "Bernard Payen",
       "duracao": "23 min",
@@ -4720,9 +4346,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Londrina",
       "direcao": "Rodrigo Grota",
       "duracao": "4 min",
@@ -4744,11 +4368,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Super-8"],
       "cidade": "Londrina",
       "direcao": "Rodrigo Grota",
       "duracao": "3 min",
@@ -4770,10 +4390,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Londrina",
       "direcao": "Francelino França",
       "duracao": "19 min",
@@ -4795,11 +4412,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Celso Landolfi",
       "duracao": "9 min",
@@ -4848,11 +4461,7 @@
     {
       "ano": 2011,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Legendas em português"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "Christopher Faut e Evandro Scorsin",
       "duracao": "12",
@@ -4874,10 +4483,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Experimental",
-        "Curta-metragem"
-      ],
+      "categorias": ["Experimental", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Bruno Costa",
       "duracao": "2 min",
@@ -4899,11 +4505,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Cinema LGBTQIA+"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Cinema LGBTQIA+"],
       "cidade": "Curitiba",
       "direcao": "Henrique Faria",
       "duracao": "5 min",
@@ -4952,9 +4554,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Filmes de cursos livres"
-      ],
+      "categorias": ["Filmes de cursos livres"],
       "cidade": "Curitiba",
       "direcao": "Gab Maiochi",
       "duracao": "19 min",
@@ -4976,10 +4576,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Filmes de cursos livres",
-        "Curta-metragem"
-      ],
+      "categorias": ["Filmes de cursos livres", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "AMANDA DE SOUZA OLIVEIRA e KIM TOLENTINO FORT",
       "duracao": "22 min",
@@ -5028,11 +4625,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Média-metragem",
-        "Documentário",
-        "Universitário"
-      ],
+      "categorias": ["Média-metragem", "Documentário", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Mariana Wiedmer Fachini",
       "duracao": "27",
@@ -5055,11 +4648,7 @@
     {
       "ano": 1978,
       "categoriaId": 1,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Super-8", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "7 min",
@@ -5082,11 +4671,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Super-8", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "11",
@@ -5109,9 +4694,7 @@
     {
       "ano": 2008,
       "categoriaId": 4,
-      "categorias": [
-        "Filmes de cursos livres"
-      ],
+      "categorias": ["Filmes de cursos livres"],
       "cidade": "Curitiba",
       "direcao": "Irmãos Fonsaca",
       "duracao": "13 min",
@@ -5134,10 +4717,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem"
-      ],
+      "categorias": ["Ficção", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Irmãos Fonsaca",
       "duracao": "11 min",
@@ -5160,9 +4740,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Filmes de cursos livres"
-      ],
+      "categorias": ["Filmes de cursos livres"],
       "cidade": "Curitiba",
       "direcao": "Cassiano Fonsaca ",
       "duracao": "7 min",
@@ -5185,11 +4763,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Super-8",
-        "Legendas em português"
-      ],
+      "categorias": ["Curta-metragem", "Super-8", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "Lígia Teixeira e Francisco Benvenuto",
       "duracao": "3 min",
@@ -5240,9 +4814,7 @@
     {
       "ano": 2005,
       "categoriaId": 4,
-      "categorias": [
-        "Universitário"
-      ],
+      "categorias": ["Universitário"],
       "cidade": "Curitiba",
       "direcao": "Bronson Almeida",
       "duracao": "1",
@@ -5265,11 +4837,7 @@
     {
       "ano": 2014,
       "categoriaId": 5,
-      "categorias": [
-        "Longa-metragem",
-        "Documentário",
-        "English subtitles"
-      ],
+      "categorias": ["Longa-metragem", "Documentário", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Ricardo E. Machado",
       "duracao": "90 min",
@@ -5316,17 +4884,13 @@
       "urlId": "144453182",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 170
     },
     {
       "ano": 2016,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "English subtitles"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "João Vitor Ferian",
       "duracao": "20",
@@ -5349,10 +4913,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Videoclipe",
-        "Legendas em português"
-      ],
+      "categorias": ["Videoclipe", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "João Vitor Ferian",
       "duracao": "4 min",
@@ -5375,11 +4936,7 @@
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Thiago Cardoso",
       "duracao": "3 min",
@@ -5402,11 +4959,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "English subtitles"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "English subtitles"],
       "cidade": "Londrina",
       "direcao": "Diogo Blanco",
       "duracao": "19 min",
@@ -5429,9 +4982,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Websérie"
-      ],
+      "categorias": ["Websérie"],
       "cidade": "Curitiba",
       "direcao": "Igor Horbach",
       "duracao": "10 min",
@@ -5445,9 +4996,7 @@
       },
       "sinopse": "Leandro Lutero e Hannah Martins são melhores amigos. Hannah é deficiente visual e órfã, e está decidida a investigar o paradeiro de seus pais e o principal motivo de a terem abandonado. Já Leandro, é filho de um alcoólatra e agressor que desconta toda a sua frustração no filho. Aos poucos os verdadeiros problemas e segredos começam a vir a tona trazendo danos irreversíveis que podem comprometer a vida de alguém.",
       "titulo": "Dislike - 1º Temporada",
-      "urlId": [
-        "19nNu4AG9ds"
-      ],
+      "urlId": ["19nNu4AG9ds"],
       "urlHost": "youtube",
       "mostrar": true,
       "destaque": false,
@@ -5629,11 +5178,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Média-metragem",
-        "Documentário",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Média-metragem", "Documentário", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Ingrid Wagner e Fernando Severo",
       "duracao": "50 min",
@@ -5684,9 +5229,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Curitiba",
       "direcao": "Felipe Fonseca",
       "duracao": "9 min",
@@ -5709,9 +5252,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Curitiba",
       "direcao": "Felipe Fonseca",
       "duracao": "3 min",
@@ -5734,9 +5275,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Super-8"
-      ],
+      "categorias": ["Super-8"],
       "cidade": "Curitiba",
       "direcao": "Úrsula Riesemberg",
       "duracao": "3 min",
@@ -5759,11 +5298,7 @@
     {
       "ano": 2013,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "English subtitles"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Rafael Urban e Terence Keller",
       "duracao": "25 min",
@@ -5786,11 +5321,7 @@
     {
       "ano": 1987,
       "categoriaId": 2,
-      "categorias": [
-        "Animação",
-        "Experimental",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Animação", "Experimental", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Irmãos Wagner",
       "duracao": "16 min",
@@ -5869,9 +5400,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Experimental"
-      ],
+      "categorias": ["Experimental"],
       "cidade": "Curitiba",
       "direcao": "Luiz Eduardo Kogut",
       "duracao": "23 min",
@@ -5894,11 +5423,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Universitário",
-        "Legendas em português"
-      ],
+      "categorias": ["Ficção", "Universitário", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "Matheus Kuhnen",
       "duracao": "17 min",
@@ -5921,10 +5446,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Animação",
-        "Universitário"
-      ],
+      "categorias": ["Animação", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Hugo Junqueira",
       "duracao": "9 min",
@@ -5947,10 +5469,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Documentário",
-        "Filmes de cursos livres"
-      ],
+      "categorias": ["Documentário", "Filmes de cursos livres"],
       "cidade": "Curitiba",
       "direcao": "Leandro Kindermann",
       "duracao": "7 min",
@@ -5973,9 +5492,7 @@
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Curitiba",
       "direcao": "Érica Ignácio e Natasha Durski",
       "duracao": "6 min",
@@ -5998,9 +5515,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Videoclipe"
-      ],
+      "categorias": ["Videoclipe"],
       "cidade": "Curitiba",
       "direcao": "Natasha Durski",
       "duracao": "3 min",
@@ -6023,11 +5538,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Cinema Negro",
-        "English subtitles"
-      ],
+      "categorias": ["Ficção", "Cinema Negro", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Rikardo Santana-Silva",
       "duracao": "12 min",
@@ -6050,9 +5561,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção"
-      ],
+      "categorias": ["Ficção"],
       "cidade": "Quatro Barras",
       "direcao": "Mateus Ross & Rikardo Santana-Silva",
       "duracao": "6 min",
@@ -6075,9 +5584,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção"
-      ],
+      "categorias": ["Ficção"],
       "cidade": "Quatro Barras",
       "direcao": "Rikardo Santana-Silva",
       "duracao": "53 min",
@@ -6100,10 +5607,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Andrew de Souza",
       "duracao": "7 min",
@@ -6126,11 +5630,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Super-8"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Alberto Eisenring",
       "duracao": "3 min",
@@ -6181,10 +5681,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Vitor Sawaf",
       "duracao": "22 min",
@@ -6207,9 +5704,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Filmes de cursos livres"
-      ],
+      "categorias": ["Filmes de cursos livres"],
       "cidade": "Curitiba",
       "direcao": "Nicolas Hübler Mosko",
       "duracao": "14 min",
@@ -6232,11 +5727,7 @@
     {
       "ano": 2007,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Juliana Sanson",
       "duracao": "16 min",
@@ -6259,10 +5750,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Animação",
-        "Universitário"
-      ],
+      "categorias": ["Animação", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Gabriel Santini",
       "duracao": "18 min",
@@ -6314,10 +5802,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Gui Bernardi",
       "duracao": "9 min",
@@ -6340,11 +5825,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Vitor Sawaf",
       "duracao": "15 min",
@@ -6367,10 +5848,7 @@
     {
       "ano": 2020,
       "categoriaId": 6,
-      "categorias": [
-        "Experimental",
-        "Cinema LGBTQIA+"
-      ],
+      "categorias": ["Experimental", "Cinema LGBTQIA+"],
       "cidade": "Curitiba",
       "direcao": "Kaloula",
       "duracao": "5  min",
@@ -6393,11 +5871,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Vitor Sawaf",
       "duracao": "4 min",
@@ -6420,11 +5894,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Janaina Campos",
       "duracao": "14 min",
@@ -6447,9 +5917,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Audiodescrição"
-      ],
+      "categorias": ["Audiodescrição"],
       "cidade": "Curitiba",
       "direcao": "Janaina Campos",
       "duracao": "14 min",
@@ -6585,11 +6053,7 @@
     {
       "ano": 2013,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Nathalia Cavalcante",
       "duracao": "12 min",
@@ -6612,11 +6076,7 @@
     {
       "ano": 2003,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Legendas em português"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Legendas em português"],
       "cidade": "Curitiba",
       "direcao": "Eduardo Baggio",
       "duracao": "1 min",
@@ -6667,11 +6127,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Universitário"],
       "cidade": "Curitiba",
       "direcao": "Iury Peres Malucelli",
       "duracao": "15 min",
@@ -6750,9 +6206,7 @@
     {
       "ano": 1984,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário"
-      ],
+      "categorias": ["Documentário"],
       "cidade": "Curitiba",
       "direcao": "Narciso Assumpção",
       "duracao": "5 min",
@@ -6775,11 +6229,7 @@
     {
       "ano": 1975,
       "categoriaId": 1,
-      "categorias": [
-        "Ficção",
-        "Longa-metragem",
-        "Legendas em português"
-      ],
+      "categorias": ["Ficção", "Longa-metragem", "Legendas em português"],
       "cidade": "França/Itália",
       "direcao": "Jean-Louis Comolli",
       "duracao": "113 min",
@@ -6802,11 +6252,7 @@
     {
       "ano": 1966,
       "categoriaId": 1,
-      "categorias": [
-        "Longa-metragem",
-        "Ficção",
-        "Filmes do interior"
-      ],
+      "categorias": ["Longa-metragem", "Ficção", "Filmes do interior"],
       "cidade": "Curitiba / Ponta Grossa / Foz do Iguaçu",
       "direcao": "José Mojica Marins, Ody Fraga, Armando de Miranda ",
       "duracao": "90 min",
@@ -6829,10 +6275,7 @@
     {
       "ano": 1983,
       "categoriaId": 2,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Valêncio Xavier",
       "duracao": "12 min",
@@ -6855,11 +6298,7 @@
     {
       "ano": 1997,
       "categoriaId": 3,
-      "categorias": [
-        "Longa-metragem",
-        "Documentário",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Longa-metragem", "Documentário", "Dirigido por mulheres"],
       "cidade": "Guaraqueçaba",
       "direcao": "Eduardo Caron e Mirella Martinelli",
       "duracao": "81 min",
@@ -6882,10 +6321,7 @@
     {
       "ano": 1982,
       "categoriaId": 2,
-      "categorias": [
-        "Documentário",
-        "Curta-metragem"
-      ],
+      "categorias": ["Documentário", "Curta-metragem"],
       "cidade": "Curitiba",
       "direcao": "Sylvio Back",
       "duracao": "13 min",
@@ -6908,11 +6344,7 @@
     {
       "ano": 1991,
       "categoriaId": 3,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Fernanda Morini",
       "duracao": "10 min",
@@ -6963,10 +6395,7 @@
     {
       "ano": 2000,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Geraldo Pioli",
       "duracao": "11 min",
@@ -6989,10 +6418,7 @@
     {
       "ano": 2005,
       "categoriaId": 4,
-      "categorias": [
-        "Curta-metragem",
-        "Animação"
-      ],
+      "categorias": ["Curta-metragem", "Animação"],
       "cidade": "Curitiba",
       "direcao": "Paulo Munhoz",
       "duracao": "14 min",
@@ -7128,17 +6554,13 @@
       "urlId": "222196052",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 237
     },
     {
       "ano": 2015,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário",
-        "Universitário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário", "Universitário"],
       "cidade": "Curitiba/Paranaguá",
       "direcao": "Paulo Silveira",
       "duracao": "10 min",
@@ -7161,10 +6583,7 @@
     {
       "ano": 1981,
       "categoriaId": 2,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção"
-      ],
+      "categorias": ["Curta-metragem", "Ficção"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "11 min",
@@ -7215,10 +6634,7 @@
     {
       "ano": 1999,
       "categoriaId": 3,
-      "categorias": [
-        "Curta-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Curta-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Almir Correia e Luiziania Pelizzari",
       "duracao": "8 min",
@@ -7241,10 +6657,7 @@
     {
       "ano": 1982,
       "categoriaId": 2,
-      "categorias": [
-        "Média-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Média-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Sergio Bianchi",
       "duracao": "34 min",
@@ -7267,9 +6680,7 @@
     {
       "ano": 2017,
       "categoriaId": 5,
-      "categorias": [
-        "Universitário"
-      ],
+      "categorias": ["Universitário"],
       "cidade": "Quatro Barras",
       "direcao": "Fernando Macedo e Oda Rodrigues",
       "duracao": "2 min",
@@ -7292,9 +6703,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Universitário"
-      ],
+      "categorias": ["Universitário"],
       "cidade": "Curitiba",
       "direcao": "Lucas D'Peder, Leandro Luiz",
       "duracao": "25 min",
@@ -7317,10 +6726,7 @@
     {
       "ano": 2009,
       "categoriaId": 4,
-      "categorias": [
-        "Longa-metragem",
-        "Documentário"
-      ],
+      "categorias": ["Longa-metragem", "Documentário"],
       "cidade": "Curitiba",
       "direcao": "Eduardo Baggio",
       "duracao": "78 min",
@@ -7343,11 +6749,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Universitário",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Universitário", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Maurício Ramos Marques",
       "duracao": "3 min",
@@ -7370,11 +6772,7 @@
     {
       "ano": 2010,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Animação",
-        "Experimental"
-      ],
+      "categorias": ["Curta-metragem", "Animação", "Experimental"],
       "cidade": "Curitiba",
       "direcao": "Maurício Ramos Marques",
       "duracao": "9 min",
@@ -7425,11 +6823,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Maurício Ramos Marques",
       "duracao": "3 min",
@@ -7452,11 +6846,7 @@
     {
       "ano": 2012,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Ficção",
-        "English subtitles"
-      ],
+      "categorias": ["Curta-metragem", "Ficção", "English subtitles"],
       "cidade": "Curitiba",
       "direcao": "Maurício Ramos Marques",
       "duracao": "20 min",
@@ -7507,11 +6897,7 @@
     {
       "ano": 2018,
       "categoriaId": 5,
-      "categorias": [
-        "Ficção",
-        "Curta-metragem",
-        "Dirigido por mulheres"
-      ],
+      "categorias": ["Ficção", "Curta-metragem", "Dirigido por mulheres"],
       "cidade": "Curitiba",
       "direcao": "Steffany Matias",
       "duracao": "1 min",
@@ -7534,11 +6920,7 @@
     {
       "ano": 2019,
       "categoriaId": 5,
-      "categorias": [
-        "Curta-metragem",
-        "Experimental",
-        "Super-8"
-      ],
+      "categorias": ["Curta-metragem", "Experimental", "Super-8"],
       "cidade": "Curitiba",
       "direcao": "Pedro Merege",
       "duracao": "3 min",
@@ -7559,194 +6941,405 @@
       "id": 254
     },
     {
-    "ano": 2015,
-    "categoriaId": 5,
-    "categorias": [
-      "Ficção",
-      "Curta-metragem",
-      "Super-8"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Eduardo Ruchinhaka",
-    "duracao": "4 min",
-    "exibicoes": "CURTA8 - Festival Internacional de Cinema Super-8 de Curitiba ",
-    "outras": "",
-    "producao": "Independente",
-    "equipe": "Eduardo Ruchinhaka : Diretor e Roteirista Carolina Mascarenhas: produtora Nathalie Rocha : produção e direção de arte Leo Castilhos : preparador de elenco Raphaella Maria : diretora de produção Guilherme Giublin : produtor de alimentos  Flora Suzuki: diretora de arte.  Vitor Hugo Von Holleben, Cinara Vitor : assistência em direção de arte  Giancarlo Dos Santos : direção de fotografia Hanna Esperança : fotografia still.  Tiago Lipka : assistência de direção.   Elenco : Carolina Mascarenhas, Paulo Matos e Maite Schneider!  Agradecemos aos oficineiros : Fábio Allon, Pedro Merege e  Leandro Schip.",
-    "resp": {
-      "email": "eduardo.roteiros@gmail.com",
-      "nome": "Eduardo Ruchinhaka"
+      "ano": 2015,
+      "categoriaId": 5,
+      "categorias": ["Ficção", "Curta-metragem", "Super-8"],
+      "cidade": "Curitiba",
+      "direcao": "Eduardo Ruchinhaka",
+      "duracao": "4 min",
+      "exibicoes": "CURTA8 - Festival Internacional de Cinema Super-8 de Curitiba ",
+      "outras": "",
+      "producao": "Independente",
+      "equipe": "Eduardo Ruchinhaka : Diretor e Roteirista Carolina Mascarenhas: produtora Nathalie Rocha : produção e direção de arte Leo Castilhos : preparador de elenco Raphaella Maria : diretora de produção Guilherme Giublin : produtor de alimentos  Flora Suzuki: diretora de arte.  Vitor Hugo Von Holleben, Cinara Vitor : assistência em direção de arte  Giancarlo Dos Santos : direção de fotografia Hanna Esperança : fotografia still.  Tiago Lipka : assistência de direção.   Elenco : Carolina Mascarenhas, Paulo Matos e Maite Schneider!  Agradecemos aos oficineiros : Fábio Allon, Pedro Merege e  Leandro Schip.",
+      "resp": {
+        "email": "eduardo.roteiros@gmail.com",
+        "nome": "Eduardo Ruchinhaka"
+      },
+      "sinopse": "Em uma história anacrônica que homenageia (ou canibaliza) o cinema mudo, uma dona de casa descobre uma traição e reage de uma maneira cinegastronômica.",
+      "titulo": "Meu Marido é Um Porco. Que Delícia!",
+      "urlId": "PrpGQkJgP-c",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 255
     },
-    "sinopse": "Em uma história anacrônica que homenageia (ou canibaliza) o cinema mudo, uma dona de casa descobre uma traição e reage de uma maneira cinegastronômica.",
-    "titulo": "Meu Marido é Um Porco. Que Delícia!",
-    "urlId": "PrpGQkJgP-c",
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 255
-  },
-  {
-    "ano": 2019,
-    "categoriaId": 5,
-    "categorias": [
-      "Filmes de cursos livres"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Paulo Silveira",
-    "duracao": "4 min",
-    "exibicoes": "",
-    "outras": "",
-    "producao": "",
-    "equipe": "",
-    "resp": {
-      "email": "paulo.csilveira@outlook.com",
-      "nome": "Paulo SILVEIRA"
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": ["Filmes de cursos livres"],
+      "cidade": "Curitiba",
+      "direcao": "Paulo Silveira",
+      "duracao": "4 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "paulo.csilveira@outlook.com",
+        "nome": "Paulo SILVEIRA"
+      },
+      "sinopse": "Clara se depara com acontecimentos estranhos ao chegar em sua casa depois de um dia longo de trabalho.",
+      "titulo": "O Três Pequenos Porcos de Jack",
+      "urlId": "u5Au9D8EFO8",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 256
     },
-    "sinopse": "Clara se depara com acontecimentos estranhos ao chegar em sua casa depois de um dia longo de trabalho.",
-    "titulo": "O Três Pequenos Porcos de Jack",
-    "urlId": "u5Au9D8EFO8",
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 256
-  },
-  {
-    "ano": 2019,
-    "categoriaId": 5,
-    "categorias": [
-      "Curta-metragem",
-      "Universitário",
-      "Dirigido por mulheres",
-      "Documentário",
-      "English subtitles"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Mickaelle Lima Souza; Pâmela Kath; Lívia Zanuni; Pedro Vilo",
-    "duracao": "10 min",
-    "exibicoes": "Mirada Paranaense do 9º Olhar de Cinema",
-    "outras": "",
-    "producao": "Coco Filmes",
-    "equipe": "Direção: Mickaelle Lima Souza ; Pâmela Kath ; Lívia Zanuni ; Pedro Vilo  Produção e Pesquisa: Mickaelle Lima Souza  Assistência de Direção: Pâmela Kath  Direção de Fotografia: Lívia Zanuni  Som Direto e Finalização de Som: Pedro Vilo  Montagem: Pedro Vilo  Colorização: Lívia Zanuni",
-    "resp": {
-      "email": "gpfbsilva@gmail.com",
-      "nome": "Gabriel Philippini Ferreira Borges da Silva"
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Universitário",
+        "Dirigido por mulheres",
+        "Documentário",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Mickaelle Lima Souza; Pâmela Kath; Lívia Zanuni; Pedro Vilo",
+      "duracao": "10 min",
+      "exibicoes": "Mirada Paranaense do 9º Olhar de Cinema",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "Direção: Mickaelle Lima Souza ; Pâmela Kath ; Lívia Zanuni ; Pedro Vilo  Produção e Pesquisa: Mickaelle Lima Souza  Assistência de Direção: Pâmela Kath  Direção de Fotografia: Lívia Zanuni  Som Direto e Finalização de Som: Pedro Vilo  Montagem: Pedro Vilo  Colorização: Lívia Zanuni",
+      "resp": {
+        "email": "gpfbsilva@gmail.com",
+        "nome": "Gabriel Philippini Ferreira Borges da Silva"
+      },
+      "sinopse": "Curta metragem biográfico documental sobre a primeira mulher negra a se formar engenheira no Brasil, Enedina Alves Marques, partindo da perspectiva e relação de sua sobrinha Lizete Marques, sua afilhada Mirela Goncho e o pesquisador e historiador Sandro Luis Fernandes.",
+      "titulo": "Além de tudo, ela",
+      "urlId": "QU1MOrJ6i-E",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 257
     },
-    "sinopse": "Curta metragem biográfico documental sobre a primeira mulher negra a se formar engenheira no Brasil, Enedina Alves Marques, partindo da perspectiva e relação de sua sobrinha Lizete Marques, sua afilhada Mirela Goncho e o pesquisador e historiador Sandro Luis Fernandes.",
-    "titulo": "Além de tudo, ela",
-    "urlId": "QU1MOrJ6i-E",
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 257
-  },
-  {
-    "ano": 2006,
-    "categoriaId": 4,
-    "categorias": [
-      "Documentário",
-      "Curta-metragem"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Roberval Machado",
-    "duracao": "5 min",
-    "exibicoes": "1º Mostra Cinemas do Brasil",
-    "outras": "",
-    "producao": "",
-    "equipe": "Elisa Marilia; Prado Carneiro; Luis Frederico Favoreto; Nikola Matevski; Roberval Machado; Jose Padilha",
-    "resp": {
-      "email": "roberval@extremumproducoes.com.br",
-      "nome": "Roberval Machado Christino"
+    {
+      "ano": 2006,
+      "categoriaId": 4,
+      "categorias": ["Documentário", "Curta-metragem"],
+      "cidade": "Curitiba",
+      "direcao": "Roberval Machado",
+      "duracao": "5 min",
+      "exibicoes": "1º Mostra Cinemas do Brasil",
+      "outras": "",
+      "producao": "",
+      "equipe": "Elisa Marilia; Prado Carneiro; Luis Frederico Favoreto; Nikola Matevski; Roberval Machado; Jose Padilha",
+      "resp": {
+        "email": "roberval@extremumproducoes.com.br",
+        "nome": "Roberval Machado Christino"
+      },
+      "sinopse": "Vídeo realizado com somente fotos sobre os cinemas de rua de Curitiba com depoimento de Zito Alves Cavalcanti.",
+      "titulo": "Cinemas de Rua de Curitiba",
+      "urlId": "Y_5perQtzoM",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 258
     },
-    "sinopse": "Vídeo realizado com somente fotos sobre os cinemas de rua de Curitiba com depoimento de Zito Alves Cavalcanti.",
-    "titulo": "Cinemas de Rua de Curitiba",
-    "urlId": "Y_5perQtzoM",
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 258
-  },
-  {
-    "ano": 2019,
-    "categoriaId": 5,
-    "categorias": [
-      "Curta-metragem",
-      "Documentário",
-      "Universitário",
-      "Legendas em português",
-      "English subtitles"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Iury Peres Malucelli, Ju Choma e Rodrigo Tomita",
-    "duracao": "15 min",
-    "exibicoes": "Festival Universitário Tainha Dourada, 15º Festival Taguatinga de Cinema (Mostra Seleção Popular)",
-    "outras": "",
-    "producao": "Coco Filmes",
-    "equipe": "Produção Rodrigo Tomita  Assistência de Direção Iury Peres Malucelli  Som Direto Rodrigo Tomita  Fotografia Iury Peres Malucelli Ju Choma  Montagem e Colorização Rodrigo Tomita  Finalização de Som Ju Choma  Projeto Gráfico Iury Peres Malucelli  Legendas (Inglês) Gabriel Borges  Entrevistados Isshin Takahashi Mioko Tomita Mirian M. Murata Tie H. Yamakawa  Orientação Alexandre Rafael Garcia Eduardo Baggio Milla Jung Tomás Von der Osten Ulisses Galetto",
-    "resp": {
-      "email": "digo.tomita@gmail.com",
-      "nome": "Rodrigo Akira Minasse Tomita"
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Universitário",
+        "Legendas em português",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Iury Peres Malucelli, Ju Choma e Rodrigo Tomita",
+      "duracao": "15 min",
+      "exibicoes": "Festival Universitário Tainha Dourada, 15º Festival Taguatinga de Cinema (Mostra Seleção Popular)",
+      "outras": "",
+      "producao": "Coco Filmes",
+      "equipe": "Produção Rodrigo Tomita  Assistência de Direção Iury Peres Malucelli  Som Direto Rodrigo Tomita  Fotografia Iury Peres Malucelli Ju Choma  Montagem e Colorização Rodrigo Tomita  Finalização de Som Ju Choma  Projeto Gráfico Iury Peres Malucelli  Legendas (Inglês) Gabriel Borges  Entrevistados Isshin Takahashi Mioko Tomita Mirian M. Murata Tie H. Yamakawa  Orientação Alexandre Rafael Garcia Eduardo Baggio Milla Jung Tomás Von der Osten Ulisses Galetto",
+      "resp": {
+        "email": "digo.tomita@gmail.com",
+        "nome": "Rodrigo Akira Minasse Tomita"
+      },
+      "sinopse": "Enquanto o tão aguardado elevador é construído, a comunidade adepta relata o nascimento do Templo Budista Nishi Hongwanji de Curitiba.",
+      "titulo": "Na Impermanência dos Equinócios",
+      "urlId": "XSYbAKxZEbo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 259
     },
-    "sinopse": "Enquanto o tão aguardado elevador é construído, a comunidade adepta relata o nascimento do Templo Budista Nishi Hongwanji de Curitiba.",
-    "titulo": "Na Impermanência dos Equinócios",
-    "urlId": "XSYbAKxZEbo",
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 259
-  },
-  {
-    "ano": 2010,
-    "categoriaId": 5,
-    "categorias": [
-      "Média-metragem",
-      "Documentário",
-      "English subtitles"
-    ],
-    "cidade": "Curitiba",
-    "direcao": "Tulio Viaro",
-    "duracao": "45 min",
-    "exibicoes": "Cine Sul",
-    "outras": "",
-    "producao": "Sótão Filmes",
-    "equipe": "",
-    "resp": {
-      "email": "tulioviaro@gmail.com",
-      "nome": "Tulio Viaro"
+    {
+      "ano": 2020,
+      "categoriaId": 6,
+      "categorias": ["Websérie"],
+      "cidade": "Maringá /Sarandi",
+      "direcao": "Enderson Cristian",
+      "duracao": "54 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Ellos Produtora",
+      "equipe": "Roteiro Enderson Cristian  Direção  Enderson Cristian  Direção de fotografia Dione Matias  Produção Luciano Vechia Felipe Pimentel  Elenco principal  Bernardo Vená Bárbara Teixeira Bruna Andrade Luciano Vechia Pâmela Cretuchi Andrea Pavesi  Câmeras – Iluminação Haroldo França Leandro Feitosa Felipe Pimentel Dione Matias Luciano Vechia  Enderson Cristian  Trilha Sonora Tiago Ueda Roberto Rezende ",
+      "resp": {
+        "email": "av.webseries@gmail.com",
+        "nome": "Enderson Cristian Espiazi"
+      },
+      "sinopse": "Lucas é um menino de 10 anos que faz uma amizade da sacada da sua casa com Tamires, uma menina da mesma idade que passa sempre pela rua com sua mãe recolhendo recicláveis. Enquanto ele cria esta amizade vê sua própria mãe mergulhada numa depressão e tenta não se tornar vítima do seu pai, que a cada dia tem apresentado um comportamento mais estranho e agressivo.",
+      "titulo": "Um encontro para o bem",
+      "urlId": ["HtdlkDQFbI8"],
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 261
     },
-    "sinopse": "O documentário acompanhou o cotidiano e o trabalho dos pescadores artesanais da Ilha do Mel durante três anos.",
-    "titulo": "Pescadores de Tainha",
-    "urlId": "148714120",
-    "urlHost": "vimeo",
-    "mostrar": true,
-    "destaque": false,
-    "id": 260
-  },
-  {
-    "ano": 2020,
-    "categoriaId": 6,
-    "categorias": [
-      "Websérie"
-    ],
-    "cidade": "Maringá /Sarandi",
-    "direcao": "Enderson Cristian",
-    "duracao": "54 min",
-    "exibicoes": "",
-    "outras": "",
-    "producao": "Ellos Produtora",
-    "equipe": "Roteiro Enderson Cristian  Direção  Enderson Cristian  Direção de fotografia Dione Matias  Produção Luciano Vechia Felipe Pimentel  Elenco principal  Bernardo Vená Bárbara Teixeira Bruna Andrade Luciano Vechia Pâmela Cretuchi Andrea Pavesi  Câmeras – Iluminação Haroldo França Leandro Feitosa Felipe Pimentel Dione Matias Luciano Vechia  Enderson Cristian  Trilha Sonora Tiago Ueda Roberto Rezende ",
-    "resp": {
-      "email": "av.webseries@gmail.com",
-      "nome": "Enderson Cristian Espiazi"
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": ["Experimental", "Curta-metragem", "Legendas em português"],
+      "cidade": "Curitiba",
+      "direcao": "Gregório Camilo",
+      "duracao": "3 min",
+      "exibicoes": "5º Timeline BH Festival internacional de Video Arte",
+      "outras": "",
+      "producao": "Catatau Filmes",
+      "equipe": "roteiro e montagem: Gregório Camilo direção de fotografia: Fernanda Ferrari e Gregório Camilo iluminadores: Fernanda Ferrari e Gabriel Camilo música: What I say (Miles Davis, Live-Evil, Columbia Records, 1971 [all rights reserved])",
+      "resp": {
+        "email": "gregorio.cfl@hotmail.com",
+        "nome": "Gregório Camilo"
+      },
+      "sinopse": "Enquanto uma jam de jazz se intensifica, Gregório Camilo fuma lembrando das asneiras que já ouviu.",
+      "titulo": "GCMVTM",
+      "urlId": "cy4gLBSYRIQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 262
     },
-    "sinopse": "Lucas é um menino de 10 anos que faz uma amizade da sacada da sua casa com Tamires, uma menina da mesma idade que passa sempre pela rua com sua mãe recolhendo recicláveis. Enquanto ele cria esta amizade vê sua própria mãe mergulhada numa depressão e tenta não se tornar vítima do seu pai, que a cada dia tem apresentado um comportamento mais estranho e agressivo.",
-    "titulo": "Um encontro para o bem",
-    "urlId": [
-      "HtdlkDQFbI8"
-    ],
-    "urlHost": "youtube",
-    "mostrar": true,
-    "destaque": false,
-    "id": 261
-  }
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": ["Experimental", "Websérie"],
+      "cidade": "Curitiba",
+      "direcao": "Gregório Camilo",
+      "duracao": "2 min",
+      "exibicoes": "5º Timeline BH Festival Internacional de Video Arte e Videoformes 2020 (Clermont-Ferrand, França)",
+      "outras": "",
+      "producao": "Catatau Filmes",
+      "equipe": "roteiro e fotografia: Fernanda Magalhães Ferrari áudio, leitura e montagem: Gregório Camilo",
+      "resp": {
+        "email": "gregorio.cfl@hotmail.com",
+        "nome": "Gregório Camilo"
+      },
+      "sinopse": "#5 episódio da série 15 PEDAÇOS DE SOSSÉLLA, em homenagem aos quinze anos da morte de Sérgio Rubens Sossélla",
+      "titulo": "15 pedaços de Sossélla #5: Ninguém volta pra casa",
+      "urlId": "tPUcPQs10zI",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 263
+    },
+    {
+      "ano": 2009,
+      "categoriaId": 4,
+      "categorias": ["Curta-metragem", "Documentário", "Experimental"],
+      "cidade": "Curitiba",
+      "direcao": "Terence Keller",
+      "duracao": "11 min",
+      "exibicoes": "O filme foi exibido em diversos festivais brasileiros, dentre os quais: Festival do Paraná de Cinema Brasileiro e Latino em 2009 e Festival Internacional de Cinema da Bienal de Curitiba em 2013",
+      "outras": "elenco em ordem alfabética: adeline pilati adriana diniz alexandre santos anna cecilia j. ellendersen arlette rangel bruno erwin hoffman jr chico pennafiel danieli mangini giulia crocetti henrique assumpção jacyra domingues karen tortato luis felipe leprevost luiz fernando heyakwie marcelo aristides de lima marco antônio alves de lima maria tereza garcia barbosa nathalia cavalcante otávio linhares philipe halley ricardo pozzo seu jango vanessa corina viviane maria pereira yoko ibino",
+      "producao": "Independente",
+      "equipe": "roteiro e direção: terence keller um poema de rodrigo madeira  edição: ricardo e. machado direção de produção: sabrina o. garcia fotografia: guto presidente e elisandro dalcin direção de arte e casting: dea meissner produção executiva: heloisa todeschini assistência de produção: ana paula oliveira e íris rodrigues som direto: carlos artur esteves virgílio: ricardo pozzo arte gráfica e storyboard: a.b. ducci trilha, sonorização e finalização: ricardo e. machado  voz de zemanuel piñeiro grafitti: rimon guimarães  fotos de gravação: sian sene, rafael urban, dea meissner, nicole lima e ricardo pozzo.  making of: ana paula oliveira e ricardo pozzo",
+      "resp": {
+        "email": "terence.keller@gmail.com",
+        "nome": "Terence Keller"
+      },
+      "sinopse": "Um mergulho em uma rua de não ir a parte alguma.",
+      "titulo": "Balada da Cruz Machado",
+      "urlId": "196366344",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 264
+    },
+    {
+      "ano": 2021,
+      "categoriaId": 6,
+      "categorias": ["Documentário", "Experimental", "Curta-metragem"],
+      "cidade": "Curitiba",
+      "direcao": "Pedro Merege",
+      "duracao": "2 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "",
+      "equipe": "Pedro Merege",
+      "resp": {
+        "email": "pmerege@gmail.com",
+        "nome": "Pedro Merege"
+      },
+      "sinopse": "Patriotas comemoram 280000 mortes no Brasil.",
+      "titulo": "Protestantes",
+      "urlId": "xtrSU0jDBmA",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 265
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": ["Experimental", "Curta-metragem", "Filmes do interior"],
+      "cidade": "Londrina",
+      "direcao": "Edilson Oliveira, Fagner Bruno de Souza, João Vitor Gimenez e Lucas Godoy Chicarelli ",
+      "duracao": "15 min",
+      "exibicoes": "Selecionado, exibido e premiado em terceiro lugar na categoria experimental durante o II FEVUEM - Festival de vídeos da UEM - que ocorreu entre 05 e 07 de dezembro de 2016.  Selecionado e exibido no I Festival de curta-metragem de Itapecerica da Serra realizado no dia 27 de maio de 2017.  Selecionado para exibição durante a III Mostra do movimento dos artistas de rua de Londrina entre dos dias 9 e 11 de maio de 2017.  Selecionado e exibido no 19º Festival Kinoarte de Cinema, em Londrina, entre os dias 12 e 25 de novembro de 2017.",
+      "outras": "",
+      "producao": "Cinema Pobre Londrina",
+      "equipe": "Elenco: Edilson Oliveira João Vitor Gimenez Sônia José Emídio Gustavo Bertin  Canções: Compostas e executadas durante a experiência performática livre por João Vitor Gimenez. Cantiga popular “Paranauê”.  Argumento: João Vitor Gimenez  Edição: Fagner Bruno Lucas Godoy  Produção: Fagner Bruno Lucas Godoy  Algumas filmagens foram realizadas dentro do projeto Canteiro de Obras de Edilson Oliveira.",
+      "resp": {
+        "email": "fagnerbrunosouza@gmail.com",
+        "nome": "Fagner Bruno de Souza"
+      },
+      "sinopse": " Uma história sobre encontros e desencontros. Perdidos na cidade, uma sensação estranha, um bairro novo que brota como a aurora, o lixo que descarta e alimenta, o trabalho que produz e esgota. A permanente e efêmera relação.",
+      "titulo": "Toda construção nasce de uma planta",
+      "urlId": "1_jISDxYClU",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 266
+    },
+    {
+      "ano": 2021,
+      "categoriaId": 6,
+      "categorias": ["Videoclipe"],
+      "cidade": "Curitiba",
+      "direcao": "Gabriel Trinetto e VVesley",
+      "duracao": "4 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Trinetto Filmes",
+      "equipe": "Direção: VVesley e Gabriel Trinetto Fotografia: Gabriel Trinetto Direção de Arte: VVesley Mixagem e Edição de Som: VVesley e Gabriel Trinetto Montagem: Vvesley e Gabriel Trinetto Edição: Gabriel Trinetto VFX: Mateus Kola Correção de Cor e Colorização: Mateus Kola",
+      "resp": {
+        "email": "gabriel.tp.animation@gmail.com",
+        "nome": "Gabriel Trinetto"
+      },
+      "sinopse": "VVesley Aerials (Vídeo Oficial)",
+      "titulo": "VVesley Aerials",
+      "urlId": "9f3UzSwLdhE",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 267
+    },
+    {
+      "ano": 2014,
+      "categoriaId": 5,
+      "categorias": [
+        "Experimental",
+        "Dirigido por mulheres",
+        "Cinema LGBTQIA+",
+        "Universitário",
+        "Curta-metragem"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Camila Macedo",
+      "duracao": "4 min",
+      "exibicoes": "P E R T U R B E - festival de ruído e performance (2015, Curitiba, PR); Cinema ao Bafo - Mostra Audiovisual do 1° Seminário Inventando Gêneros (2015, Joinville, SC); Curta Queer (2017, Curitiba, PR/ 2017, São Paulo, SP); Mostra das Minas - Mostra Livre de Cinema de Mulheres (2017, Santos, SP); r i z o m a - Mostra Nômada Multimídia Internacional de Arte Contemporânea (2017, Pelotas, RS); Gira: Festival de Resistências (2018, Berlim, Alemanha).",
+      "outras": "",
+      "producao": "",
+      "equipe": "Realizado por: Camila Macedo, Jessica Candal e Ligia Maria Durski.",
+      "resp": {
+        "email": "docema.lamica@gmail.com",
+        "nome": "Camila Macedo"
+      },
+      "sinopse": "Qual a verdade do corpo? Do sexo? Do gênero?",
+      "titulo": "experimento fílmico",
+      "urlId": "112488437",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 268
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Documentário",
+        "Filmes do interior",
+        "Legendas em português"
+      ],
+      "cidade": "São Manoel do Paraná",
+      "direcao": "Erik Gasparetto",
+      "duracao": "19 min",
+      "exibicoes": "Grande Prêmio do Cinema Brasileiro 2020 / É TUDO VERDADE 2019 / ENTRETODOS - Festival de Direitos Humanos / 8º SERCINE - Festival Sergipe de Audiovisual",
+      "outras": "",
+      "producao": "Grimpa Filmes",
+      "equipe": "Diretor/roteirista/dir. de fotografia/ montador : Erik Gasparetto Elenco: Natalina Comparsi de Mello / Marinez Comparsi da Silva / Rosa Maria de Mello Monteiro Produtor: Luiz Antonio Scarmocin Colorista e cartaz: Bruno Zinnek Acessibilidade Audiovisual: BRDN Conteúdos Audiovisuais",
+      "resp": {
+        "email": "erikgasparetto@gmail.com",
+        "nome": "Erik Gasparetto"
+      },
+      "sinopse": "A textura, o som, o tempo ao redor. Aqueles dias com a avó, entre lembranças tangíveis e imagens interrompidas, que não mais se veem, mas ainda se sentem.",
+      "titulo": "Retratos Sobre o Não Ver",
+      "urlId": "383521928",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 269
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Legendas em português",
+        "Língua brasileira de sinais",
+        "Audiodescrição"
+      ],
+      "cidade": "São Manoel do Paraná",
+      "direcao": "Erik Gasparetto",
+      "duracao": "19 min",
+      "exibicoes": "Grande Prêmio do Cinema Brasileiro 2020 / É TUDO VERDADE 2019 / ENTRETODOS - Festival de Direitos Humanos / 8º SERCINE - Festival Sergipe de Audiovisual",
+      "outras": "",
+      "producao": "Grimpa Filmes",
+      "equipe": "Diretor/roteirista/dir. de fotografia/ montador : Erik Gasparetto Elenco: Natalina Comparsi de Mello / Marinez Comparsi da Silva / Rosa Maria de Mello Monteiro Produtor: Luiz Antonio Scarmocin Colorista e cartaz: Bruno Zinnek Acessibilidade Audiovisual: BRDN Conteúdos Audiovisuais",
+      "resp": {
+        "email": "erikgasparetto@gmail.com",
+        "nome": "Erik Gasparetto"
+      },
+      "sinopse": "A textura, o som, o tempo ao redor. Aqueles dias com a avó, entre lembranças tangíveis e imagens interrompidas, que não mais se veem, mas ainda se sentem.",
+      "titulo": "Retratos Sobre o Não Ver (acessibilidade)",
+      "urlId": "j7ZKq5IiK5Y",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 270
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Legendas em português",
+        "English subtitles",
+        "Subtítulos en español"
+      ],
+      "cidade": "Curitiba ",
+      "direcao": "Cassiano Fonsaca",
+      "duracao": "12 min",
+      "exibicoes": "7º FESTCINE Festival de Cinema de Pinhais 2019",
+      "outras": "",
+      "producao": "Arteiro Produções ",
+      "equipe": "Roteiro: Cassiano Fonsaca  Elenco : Nadine Atanázio Karoline Pereira João Winch  Figurantes Amanda Souza Mendes de Carvalho Maria Aparecida de Souza Garisch Lucas Kinape Elisângela Schimidt Simone M. Lisboa Juliane Vitoria Rezende de Souza Rafaela Hirano Rafael Lima Daniel Mendes Jhonatan Gabriel dos Santos de Souza Douglas Palma  Fotografia : Marcelo Felczak  Edição : Cassiano Fonsaca  Compositor de la música original : Marcelo de Oliveira Senra  Som : Leandro Winter Ivy Sumini Eduardo Machado Ana Carol Paszko Brendha Loara Dering  Diretor de Arte : Nicole Cristine Tertuliano Pereira Marcelo Felczak",
+      "resp": {
+        "email": "cassianofonsaca@outlook.com",
+        "nome": "Cassiano Fonsaca"
+      },
+      "sinopse": "Desde que perdeu sua mãe, Talita vive no mundo da lua . Sua amiga Valéria é quem cuida da casa e dos afazeres domésticos. A rotina das duas é um misto de doçura e tristeza,  pois elas escondem um segredo que definirá seus destinos. ",
+      "titulo": "Amor Perfeito ",
+      "urlId": "EjUZjB9A5vM",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 271
+    }
   ]
 }
