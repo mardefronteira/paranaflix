@@ -139,7 +139,6 @@
         "HNTjK1FlswA",
         "g_RAbnK61N8",
         "0yXr76Pajp8",
-        "s6KdrVmKwDA",
         "480919163"
       ],
       "id": 25
@@ -627,7 +626,7 @@
         "oRzLNoIgVx8",
         "2epVpI_O_hs",
         "0Sm8F6K9ajg",
-        "s6KdrVmKwDA"
+        "00Iq3Q8hbbo"
       ],
       "id": 14
     },
@@ -2406,7 +2405,7 @@
       "urlId": "1AbLiYUY4ck",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 62
     },
     {
@@ -6554,7 +6553,7 @@
       "urlId": "222196052",
       "urlHost": "vimeo",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 237
     },
     {
@@ -6653,29 +6652,6 @@
       "mostrar": true,
       "destaque": false,
       "id": 241
-    },
-    {
-      "ano": 1982,
-      "categoriaId": 2,
-      "categorias": ["Média-metragem", "Documentário"],
-      "cidade": "Curitiba",
-      "direcao": "Sergio Bianchi",
-      "duracao": "34 min",
-      "exibicoes": "Festival de Brasília do Cinema Brasileiro - 1983",
-      "outras": "Segundo trabalho de Bianchi, trata-se de um polêmico documentário curta-metragem experimental, rodado em 16 mm, no qual o diretor tenta mostrar a vida dos índios. Tenta, porque em determinado momento Bianchi pergunta para si mesmo (em voz alta, para o espectador ouvir) o que afinal está fazendo com este filme sobre os índios: ''Mato eles?'', responde ele mesmo com outra pergunta.  Prêmio do Júri Popular e de Melhor Roteiro no Festival de Brasília, 16, 1983, Brasília, DF.. Prêmio São Saruê, 1983 de Melhor Curta da Federação de Cineclubes do Rio de Janeiro, Rio de Janeiro, RJ.. Prêmio do Instituto Indigenista no Festival Latino-americano de Povos Indígenas, 1985 - MX. Melhor Direção no Festival de Gramado, 11, 1983, Gramado, RS.  Sérgio Luís Bianchi (Ponta Grossa, 25 de novembro de 1945)",
-      "producao": "Sergio Bianchi Produções Cinematográficas & Jaco César Piccoli",
-      "equipe": "Roteiro: Jacob César Piccoli e Sergio Bianchi Cinematografia: Pedro Farkas Elenco: Lota Moncada, Carlos Kraide Edição: Sergio Bianchi, Eduardo Albuquerque",
-      "resp": {
-        "email": "pedrogiongo@gmail.com",
-        "nome": "Pedro"
-      },
-      "sinopse": "O extermínio suave dos últimos índios da reserva de Mangueirinha, no sudeste do Paraná, com a conivência daqueles que os deveriam proteger. Com uma ironia cortante, as questões se desenvolvem como numa estrutura de teste de múltipla escolha.",
-      "titulo": "Mato eles?",
-      "urlId": "s6KdrVmKwDA",
-      "urlHost": "youtube",
-      "mostrar": true,
-      "destaque": false,
-      "id": 242
     },
     {
       "ano": 2017,
@@ -7340,6 +7316,276 @@
       "mostrar": true,
       "destaque": false,
       "id": 271
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": ["Universitário", "Curta-metragem", "Documentário"],
+      "cidade": "Curitiba",
+      "direcao": "Lucas Mancini",
+      "duracao": "17 min",
+      "exibicoes": "FIDÉ Brasil 2019",
+      "outras": "",
+      "producao": "Ópia Filmes",
+      "equipe": "Direção: Lucas Mancini. Produção: Guilherme Dias, Lucas Baldasso. Produção Executiva: Guilherme Dias. Direção de Produção: Isabella Magalhães, Guilherme Dias. Direção de Fotografia: Michel Rautmann, Lucas Baldasso. Design de Som e Mixagem: Vinicius Contiero. Edição de Diálogo: Vinícius André Maciel. Foley: Vinicius Contiero, Vinícius André Maciel. Montagem: Lucas Mancini. Consultoria Temática: Morcego.  Apresentando:  Curita Moska Hawk (Cláudio) Valmir Alisson Noia Mack Jago Muhammed Fanny Andry Babcak Espectrum Nachst Morcego Bruna Elder Borges Aline Alemar",
+      "resp": {
+        "email": "michel.rautmann@outlook.com",
+        "nome": "Michel Rautmann"
+      },
+      "sinopse": "Um mergulho lento e retumbante no movimento punk, atravessado pela experiência de três bandas de Curitiba. Sua cultura, filosofia, expressão política e, sobretudo, sua resistência.",
+      "titulo": "A Todos que Obedeceram",
+      "urlId": "jylYMbnFRAc",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 272
+    },
+    {
+      "ano": 2018,
+      "categoriaId": 5,
+      "categorias": [
+        "Documentário",
+        "Universitário",
+        "Curta-metragem",
+        "Dirigido por mulheres",
+        "Cinema LGBTQIA+"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Natacha Oleinik",
+      "duracao": "16 min",
+      "exibicoes": "Foi exibido em algumas mostras universitárias pelo país. Vale ressaltar a exibição no Festival 3 Margens e no festival Olhar de Cinema.",
+      "outras": "",
+      "producao": "",
+      "equipe": "Direção: Natacha Oleinik. Produção: Sabrina Trentim. Direção de Fotografia: Vinícius Vendramin.",
+      "resp": {
+        "email": "sabrinatrntm@gmail.com",
+        "nome": "Sabrina Soares"
+      },
+      "sinopse": "Ao nos aproximarmos das vivências e pensamentos dessas mulheres artistas, testemunhamos um esculpir artístico que é também um esculpir a própria vida. Criativa(mente) Destoante faz um breve retrato de mulheres artistas de perfis e áreas distintas.",
+      "titulo": "Criativa(mente) Destoante",
+      "urlId": "xAYyDhsOraU",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 273
+    },
+    {
+      "ano": 2021,
+      "categoriaId": 6,
+      "categorias": ["Documentário", "Média-metragem"],
+      "cidade": "Curitiba",
+      "direcao": "Victor Mello ",
+      "duracao": "35 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Victor Mello films",
+      "equipe": "Direção - Victor Melo Produção - Carol Scabora Roteiro - Bruna Guimarães Edição - Victor Melo Locução - Carol Scabora Preparadora de Elenco - Carol Scabora Assistente de Câmera - Valéria Nogarolli Assistente de Produção - Carlos Rossy Making of - Daniel Silveira Maquiagem - Dayane Padilha Iluminação - Evandro Silva Design Gráfico - Vitor Villarinho Locação - Clay Highway Bar  Elenco: André Niass Carlos Rossy Carol Scabora Cleversom Armstrong Elver Panda Evandro Silva Israel Carvalho João Antônio Ferreira Sippel Lauro Oliveira Márcio Henryke Rogério Cordoni Ronaldo Wuicik Victor Sabbag Wilton Araújo",
+      "resp": {
+        "email": "familiacamisapreta@gmail.com",
+        "nome": "Família Camisa preta"
+      },
+      "sinopse": "Documentário sobre o movimento salveagraxacwb q foi criado pela família camisa Preta na assistência aos técnicos de som, luz , led, Roadies e carregadores q trabalham com shows , festas, espetáculos e Eventos corporativos q ficaram desamparados durante a Pandemia.",
+      "titulo": "Salveagraxacwb",
+      "urlId": "00Iq3Q8hbbo",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 274
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Ficção",
+        "Cinema Negro",
+        "Universitário",
+        "English subtitles"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "Tiago Felipe",
+      "duracao": "4 min",
+      "exibicoes": "VerticalMovie - Film Festival Circuito Penedo de Cinema Mostra Universitária de Goiânia Mostra Negritude Infinita Mostra de Cinema Negro de Pelotas Mostra o Teu que Eu Mostro o Meu",
+      "outras": "",
+      "producao": "Prisma Cocriações",
+      "equipe": "roteiro, direção, produção, arte e edição TIAGO FELIPE  direção de fotografia THIAGO TAKEMORI  finalização de cor JULIANO PASQUALINI",
+      "resp": {
+        "email": "tiago@prismacocriacoes.com.br",
+        "nome": "Tiago Felipe"
+      },
+      "sinopse": "De frente para o espelho, algo está errado. Um corte de cabelo pode resolver.",
+      "titulo": "Pente Zero",
+      "urlId": "354794610",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 275
+    },
+    {
+      "ano": 2014,
+      "categoriaId": 5,
+      "categorias": ["Ficção", "Longa-metragem"],
+      "cidade": "Irati",
+      "direcao": "Beto Carminatti",
+      "duracao": "100 min",
+      "exibicoes": "Festival de Cinema da Lapa",
+      "outras": "",
+      "producao": "Celluloid Cinevídeo",
+      "equipe": "Roteiro - Mario Lopes Direção - Beto Carminatti Assistente de Direção - Rodrigo Alonso Direção de Produção - Anidria Stadler Assistente de Produção - Josiane Amorim e Angelica Baldo Direção de fotografia e Câmera - Ivanir Pereira da Silva Assistente de fotografia e Câmeras - Jeffe Hala e Ricardo Kugler Direção de arte e figurino - Soraia So Cabelo e Maquiagem - Eliane Broday Assistente de Arte - Josiane Amorim Elétrica - Marcos Azevedo Maquinaria - Luciano Pereira (Soda) Efeitos Especias - Josiane Amorim, Eliane Broday e Chucrute Edição - Beto Carminatti Assistente de edição - Jeanine Holtrup Finalização e colorista - Flávio Assolari 2º Assistente de edição  - Gabriela Beltrand Produtores Associados - Dimas Bueno | Mario Lopes | Beto Carminatti ",
+      "resp": {
+        "email": "produtoracelluloid@gmail.com",
+        "nome": "Beto Carminatti"
+      },
+      "sinopse": "Amigos saem para um fim de semana descontraído, acidentalmente acabam numa ilha onde muitos segredos serão desvendados.  ",
+      "titulo": "Cormorant",
+      "urlId": "189710506",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 276
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": ["Média-metragem", "Ficção"],
+      "cidade": "Ilha do Mel",
+      "direcao": "Beto Carminatti",
+      "duracao": "35 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Celluloid - RPC - Verde Vídeo",
+      "equipe": "Roteiro  Mario Lopes Direção/ Prod Executiva Beto Carminatti Direção de Fotografia André Chesini Produção Dimas Bueno e Beto Carminatti Produção de Set Antonio Martendal Produção RPC Marcos Souza Produção Executiva RPC Marcos Werneck Direção de Arte Jô Marçal Edição Beto Carminatti, Gabriela Beltrand, Rodrigo Alonso Correção de cor Hellen Braga, Gabriela Beltrand Animação do título Paulo Roberto Alonso Desenho de Som Rodrigo Janiszewski",
+      "resp": {
+        "email": "produtoracelluloid@gmail.com",
+        "nome": "Cristiane Lemos"
+      },
+      "sinopse": "Grupo de amigos partem em férias para a Ilha do Mel, acontecimentos supostamente sobrenaturais os impedem de retornar ao continente.",
+      "titulo": "A Lenda das Encantadas",
+      "urlId": "209891843",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 277
+    },
+    {
+      "ano": 2017,
+      "categoriaId": 5,
+      "categorias": ["Ficção", "Super-8", "Curta-metragem"],
+      "cidade": "Curitiba",
+      "direcao": "Wellington Sari",
+      "duracao": "4 min",
+      "exibicoes": "Festival Internacional de Cinema Super 8 - Curta 8",
+      "outras": "",
+      "producao": "O Quadro",
+      "equipe": "",
+      "resp": {
+        "email": "tomsari02@yahoo.com.br",
+        "nome": "Wellington Sari"
+      },
+      "sinopse": "O automobilismo como forma de superar a morte, ao vivo no vídeo. As tecnologias antigas desaparecem, mas algo permanece. Dois homens disputam uma corrida. Uma homenagem a Ayrton Senna.",
+      "titulo": "Raceland",
+      "urlId": "VX__e7nkIZw",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 278
+    },
+    {
+      "ano": 2010,
+      "categoriaId": 5,
+      "categorias": ["Curta-metragem", "Ficção", "Super-8", "Universitário"],
+      "cidade": "Curitiba",
+      "direcao": "Wellington Sari",
+      "duracao": " 3 min",
+      "exibicoes": "15º Fbcu – Festival Brasileiro de Cinema Universitário 2010 (Mostra Informativa) VII Putz – Festival Universitário de Cinema e Vídeo de Curitiba (Mostra Informativa) 1° Fecim – Festival de TV e Cinema Independente de Muqui",
+      "outras": "",
+      "producao": "O Quadro",
+      "equipe": "",
+      "resp": {
+        "email": "tomsari02@yahoo.com.br",
+        "nome": "Wellington Sari"
+      },
+      "sinopse": "Depois de levar o fora do namorado, Pri encontra um obstáculo no caminho.",
+      "titulo": "Mal me quer, Mal me quer",
+      "urlId": "ctGG9OL5nrQ",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 279
+    },
+    {
+      "ano": 2012,
+      "categoriaId": 5,
+      "categorias": ["Curta-metragem", "Ficção"],
+      "cidade": "Curitiba",
+      "direcao": "Wellington Sari",
+      "duracao": "17 min",
+      "exibicoes": "23° Festival Internacional de Curtas de São Paulo – Curta Kinoforum (SP) * 7° Miragem – Mostra de Cinema e Vídeo de Miracema (TO) * 5° Curta Taquary – Festival Nacional de Curta-Metragem (PE) * Festival Internacional de Curtas do Rio de Janeiro – Curta Cinema 2012 (RJ) * 6ª Mostra Cine BH – Mostra de Cinema de Belo Horizonte (BH) * Cineme-se 2012 * 16a Mostra de Cinema de Tiradentes (MG) * 5º Festival do Júri Popular * 8º Curta Ourinhos (SP) * 2º Curta Brasília (DF)",
+      "outras": "",
+      "producao": "O Quadro",
+      "equipe": "Roteiro e Direção: Wellington Sari Produção: Alexandre Rafael Garcia, Anderson Simão, Christopher Faust e Evandro Scorsin Direção de fotografia: Renata Corrêa Design gráfico: Melina Correia Som direto: Tomás Von der Osten Montagem: Christopher Faust Finalização de som: Alexandre Rogoski",
+      "resp": {
+        "email": "tomsari02@yahoo.com.br",
+        "nome": "Wellington Sari"
+      },
+      "sinopse": "Bruna quer ficar com André, antes que ele viaje para a praia. Depois de encontrá-lo, a jovem passa o resto do dia com o melhor amigo Jota.",
+      "titulo": "Surf Surf",
+      "urlId": "mVCSmkKa0as",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 280
+    },
+    {
+      "ano": 2019,
+      "categoriaId": 5,
+      "categorias": ["Ficção", "Longa-metragem", "Filmes do interior"],
+      "cidade": "Maringá",
+      "direcao": "Victor Machado",
+      "duracao": "117 min",
+      "exibicoes": "",
+      "outras": "",
+      "producao": "Fantasia Filmes",
+      "equipe": "Victor Machado, Fábio Mascarin, Ribamar Nascimento, Frederico Favoreto, Aline Pelisson, César Caê, Fábio Jr, Julia Gabriela, Gabriel Lindner, Lorena Castilho, Amanda Reis, Luiz Totoro, Pedro Daniel, José Paulo, Maria Teresa Gabre, Nicole Lopes, Kelly Oliver, Erick Bolognezzi, Carolina Sabbi, Guilherme Bono, Mariana Paltanin, Nayara Araújo, Guga Oliveira, Andrea Pavesi e Rephael Sbellutti",
+      "resp": {
+        "email": "sr.victormachado1989@gmail.com",
+        "nome": "Victor Machado"
+      },
+      "sinopse": "Lú é uma jovem estudante de artes visuais que, após perder os pais, se vê na obrigação de cuidar do avô com depressão. Em meio a essa nova vida, repleta de novas responsabilidades, ela terá que aprender a lidar com seus próprios medos e encarar uma mudança expressiva em sua personalidade.",
+      "titulo": "Lú",
+      "urlId": "BxFJErNtBRc",
+      "urlHost": "youtube",
+      "mostrar": true,
+      "destaque": false,
+      "id": 281
+    },
+    {
+      "ano": 2016,
+      "categoriaId": 5,
+      "categorias": [
+        "Curta-metragem",
+        "Super-8",
+        "Ficção",
+        "Legendas em português"
+      ],
+      "cidade": "Curitiba",
+      "direcao": "João Miguel Santana ",
+      "duracao": "3 min",
+      "exibicoes": "Festival Internacional de Cinema Super 8 de Curitiba.",
+      "outras": "",
+      "producao": "",
+      "equipe": "",
+      "resp": {
+        "email": "joaomiguelsantana@gmail.com",
+        "nome": "João Miguel Gonçalves Santana "
+      },
+      "sinopse": "Em tempos modernos dois estranhos se encontram. Um para amar. O outro para matar. ",
+      "titulo": "In Memoriam Afeto ",
+      "urlId": "86694196",
+      "urlHost": "vimeo",
+      "mostrar": true,
+      "destaque": false,
+      "id": 282
     }
   ]
 }
