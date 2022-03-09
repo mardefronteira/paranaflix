@@ -2613,7 +2613,7 @@
       "urlId": "1AbLiYUY4ck",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": true,
+      "destaque": false,
       "id": 62
     },
     {
@@ -8346,7 +8346,7 @@
       "exibicoes": "- 41º Festival de Havana (Cuba) - 23ª Mostra de Cinema de Tiradentes - 27º Festival Mix Brasil - 8º Olhar de Cinema – Festival Internacional de  Curitiba - 23º Pink Apple Queer Film Festival (Suíça) - 19ª Goiânia Mostra Curtas - 17º Curta Santos - 23º Roze Filmdagen - Amsterdam LGBTQ Film Festival (Holanda) - 21º Korea Queer Film Festival (Coreia do Sul) - 9º Sercine - Festival Sergipe de Audiovisual - 5th AMOR International LGBT+ Film Festival (Chile)  - 23º Roze Filmdagen - Amsterdam LGBTQ Film Festival (Holanda) - 13º Festival de Cinema da Lapa  - 24º Queersicht Festival de filmes LGBTI de Berne (Suiça) - VI Cine Jardim - Festival Latino-Americano de Cinema de Belo Jardim - 3° Curta Caicó - Festival de Curtas-Metragens - 13º Curta Taquary  - Visible - Festival de Cine LGBTIQ+ (Panamá)",
       "outras": "Prêmios  - Melhor Filme - Mostra Diversidade - 13º Curta Taquary - Melhor Roteiro - Mostra Diversidade - 13º Curta Taquary - Melhor Ator: Luiz Bertazzo - Mostra Diversidade - 13º Curta Taquary - Melhor Roteiro - Mostra Nacional - 3° Curta Caicó - Melhor Montagem - Mostra Nacional - 3° Curta Caicó - Melhor Direção - Mostra de Curtas Paranaenses - 13º Festival de Cinema da Lapa -  Melhor Curta - Categoria Prende Rancho - Visible - Festival de Cine LGBTIQ+ (Panamá) -  Menção Honrosa - II Festival Audiovisual El Parque Paraguayo (Argentina)",
       "producao": "Imagística Filmes",
-      "equipe": "lenco Luiz Bertazzo, Vinícius Sant, Cinara Vitor, Patricia Cipriano, Helder Clayton, Helmann Padilha, Igor Kierke e Geisa Costa.  Escrito e Dirigido por William de Oliveira  Produzido por Daiane Martins  Direção de Fotografia Eli Firmeza  Montagem Tamiris Tertuliano  Direção de Arte e Figurinos Nicole Micaldi  Desenho de Som Henrique Bertol  Mixagem Felipe Debiasio  Trilha Sonora Bruno Soares Lucas Torres",
+      "equipe": "Elenco Luiz Bertazzo, Vinícius Sant, Cinara Vitor, Patricia Cipriano, Helder Clayton, Helmann Padilha, Igor Kierke e Geisa Costa.  Escrito e Dirigido por William de Oliveira  Produzido por Daiane Martins  Direção de Fotografia Eli Firmeza  Montagem Tamiris Tertuliano  Direção de Arte e Figurinos Nicole Micaldi  Desenho de Som Henrique Bertol  Mixagem Felipe Debiasio  Trilha Sonora Bruno Soares Lucas Torres",
       "resp": {
         "email": "williamdeoliveira88@gmail.com",
         "nome": "William de Oliveira - @wllmdlvr"
@@ -8356,7 +8356,7 @@
       "urlId": "LAA9nKGdxYc",
       "urlHost": "youtube",
       "mostrar": true,
-      "destaque": false,
+      "destaque": true,
       "id": 284
     },
     {
