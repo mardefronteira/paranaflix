@@ -1,28 +1,24 @@
 import React, { useState, useEffect } from 'react';
-import Base from '../../../comp/Base';
 import { Link } from 'react-router-dom';
-import { FinalNote } from '../style.js';
+import { Helmet } from 'react-helmet';
+import Base from '../../../comp/Base';
+import { FinalNote } from '../style';
 import CatFormik from './comp/CatFormik';
-import {Helmet} from 'react-helmet';
-
-
 
 function CadastroCategoria() {
-
-  //array contendo todas as categorias
+  // array contendo todas as categorias
   const [categorias, setCategorias] = useState([]);
 
   /* useEffect: primeiro parâmetro é a função a ser executada,
   e o segundo é em que momento chamá-la.
-  uma array vazia chama a função no onload*/
+  uma array vazia chama a função no onload */
   useEffect(() => {
-
     const dbUrl = window.location.hostname.includes('localhost')
-    ? 'http://localhost:8080/categorias'
-    : 'https://paranaflix.herokuapp.com/categorias';
+      ? 'http://localhost:8080/categorias'
+      : 'https://paranaflix.herokuapp.com/categorias';
 
     fetch(dbUrl)
-    .then(async (respostaDoServidor) => {
+      .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
 
         setCategorias([
@@ -36,24 +32,25 @@ function CadastroCategoria() {
       <Helmet>
         <title>Paranáflix - Nova categoria</title>
       </Helmet>
-    <Base>
-      <h1>Nova categoria</h1>
+      <Base>
+        <h1>Nova categoria</h1>
 
-      <CatFormik />
+        <CatFormik />
 
         {categorias.length === 0 && <div>Carregando...</div>}
         <h3>Categorias cadastradas:</h3>
         <ul>
           {categorias.map((categoria, indice) => {
-            if(indice > 5){
+            if (indice > 5) {
               return (
-                  <li key={`${categoria.titulo}${categoria.id}`}>
-                    <strong>{categoria.titulo}</strong><br />
-                    {categoria.desc}
-                  </li>
-              )} else {
-                return null;
-              }
+                <li key={`${categoria.titulo}${categoria.id}`}>
+                  <strong>{categoria.titulo}</strong>
+                  <br />
+                  {categoria.desc}
+                </li>
+              );
+            }
+            return null;
           })}
         </ul>
 
@@ -63,9 +60,9 @@ function CadastroCategoria() {
           </Link>
         </FinalNote>
 
-    </Base>
+      </Base>
     </>
-  )
+  );
 }
 
 export default CadastroCategoria;
