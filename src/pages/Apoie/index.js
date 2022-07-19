@@ -1,7 +1,7 @@
-import React from "react";
-import { Helmet } from "react-helmet";
-import Base from "../../comp/Base";
-import { SobreWrapper, Subtitulo, ApoiosWrapper } from "./style";
+import React from 'react';
+import { Helmet } from 'react-helmet';
+import Base from '../../comp/Base';
+import { SobreWrapper, Subtitulo, ApoiosWrapper } from './style';
 
 function Apoie() {
   return (
@@ -22,7 +22,8 @@ function Apoie() {
             <Subtitulo cor="var(--rosa)">FINANCIAMENTO COLETIVO</Subtitulo>
             <p>
               Para cobrir os gastos fixos de manutenção do site, mantemos uma
-              plataforma de financiamento coletivo contínua no{" "}
+              plataforma de financiamento coletivo contínua no
+              {' '}
               <a
                 href="https://apoia.se/paranaflix"
                 target="_blank"
@@ -59,14 +60,17 @@ function Apoie() {
                 @marcelamancino
               </a>
               ) ou PIX (marcelamancino@protonmail.com). Quando realizar a
-              transferência, favor enviar o comprovante para{" "}
-              <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>.
+              transferência, favor enviar o comprovante para
+              {' '}
+              <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>
+              .
             </p>
             <br />
             <Subtitulo cor="var(--rosa)">DIVULGUE O PROJETO</Subtitulo>
             <p>
-              Acompanhe a Paranáflix no{" "}
-              <a href="http://www.instagram.com/paranaflix" target="_blank">
+              Acompanhe a Paranáflix no
+              {' '}
+              <a href="http://www.instagram.com/paranaflix" target="_blank" rel="noopener noreferrer">
                 Instagram
               </a>
               , compartilhe a plataforma, use a plataforma e ajude a levar este
@@ -80,8 +84,11 @@ function Apoie() {
               construir este projeto juntes!
             </p>
             <p>
-              Você pode falar com a gente através do email{" "}
-              <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>, ou pelo{" "}
+              Você pode falar com a gente através do email
+              {' '}
+              <a href="mailto: paranaflix@pm.me">paranaflix@pm.me</a>
+              , ou pelo
+              {' '}
               <a
                 href="http://www.instagram.com/paranaflix"
                 target="_blank"
@@ -95,34 +102,63 @@ function Apoie() {
             <Subtitulo cor="var(--primary)">QUEM JÁ APOIOU:</Subtitulo>
             <p>
               <b>Equipe voluntária:</b>
-              <br />• Marcela Mancino
-              <br />• Tomás von der Osten
+              <br />
+              • Marcela Mancino
+              <br />
+              • Tomás von der Osten
             </p>
             <p>
-              <b>Contribuintes mensais:</b>
-              <br />• Ana Paula Málaga Carreiro
-              <br />• Camila Macedo
-              <br />• Caroline Biagi
-              <br />• Christopher Faust
-              <br />• Eduardo Baggio
-              <br />• Júlia Nascimento de Souza
-              <br />• Luiza Remez
-              <br />• Nicolas Mosko
-              <br />• Nikola Matevski
-              <br />• Rafael Urban
-              <br />• Tiago Lipka
-              <br />• Thayse Fernandes
+              <br />
+              Contribuintes mensais:
+              <br />
+              • Ana Paula Málaga Carreiro
+              <br />
+              • Camila Macedo
+              <br />
+              • Caroline Biagi
+              <br />
+              • Eduardo Baggio
+              <br />
+              • Júlia Nascimento de Souza
+              <br />
+              • Luiza Remez
+              <br />
+              • Nikola Matevski
+              <br />
+              • Odair Rodrigues dos Santos junior
+              <br />
+              • Rafael Wambier Dos Santos
+              <br />
+              • Tiago Lipka
             </p>
             <p>
-              <b>Contribuintes pontuais:</b>
-              <br />• Adriel Nizer
-              <br />• Alexandre Rafael Garcia
-              <br />• Gabriel Borges
-              <br />• Isabele Orengo
-              <br />• Lidia Maria Antunes da Glória
-              <br />• Lucas Queiroz
-              <br />• Terence Keller
-              <br />• William Biagioli
+              Contribuintes pontuais:
+              <br />
+              • Adriel Nizer
+              <br />
+              • Alexandre Rafael Garcia
+              <br />
+              • Christopher Faust
+              <br />
+              • Felipe Taroh Inoue Sanquetta
+              <br />
+              • Gabriel Borges
+              <br />
+              • Isabele Orengo
+              <br />
+              • Lidia Maria Antunes da Glória
+              <br />
+              • Lucas Queiroz
+              <br />
+              • Nicolas Mosko
+              <br />
+              • Rafael Urban
+              <br />
+              • Terence Keller
+              <br />
+              • Thayse Fernandes
+              <br />
+              • William Biagioli
             </p>
           </ApoiosWrapper>
         </SobreWrapper>
